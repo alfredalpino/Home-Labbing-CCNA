@@ -1,0 +1,4007 @@
+{
+  "slug": "linux",
+  "title": "Linux Roadmap",
+  "description": "Step by step guide to learning Linux in 2026",
+  "url": "https://roadmap.sh/linux",
+  "bucket": "network-engineering-roadmap",
+  "relatedRoadmaps": [
+    "devops",
+    "backend",
+    "docker",
+    "cyber-security"
+  ],
+  "aiCourses": [
+    "Linux File System Navigation",
+    "Linux User and Permission Management",
+    "Shell Scripting Basics",
+    "Process Management in Linux",
+    "Linux Networking Fundamentals",
+    "Package Management",
+    "Text Processing with Linux Tools",
+    "Linux System Monitoring",
+    "Cron Jobs and Scheduling",
+    "Linux Security Basics"
+  ],
+  "buttons": [
+    {
+      "label": "DevOps",
+      "href": "https://roadmap.sh/devops"
+    },
+    {
+      "label": "Backend",
+      "href": "https://roadmap.sh/backend"
+    },
+    {
+      "label": "Docker",
+      "href": "https://roadmap.sh/docker"
+    },
+    {
+      "label": "roadmap.sh",
+      "href": "https://roadmap.sh"
+    },
+    {
+      "label": "Shell / Bash Roadmap",
+      "href": "https://roadmap.sh/shell-bash"
+    },
+    {
+      "label": "Network Engineer",
+      "href": "https://roadmap.sh/network-engineer"
+    }
+  ],
+  "stats": {
+    "nodes": 121,
+    "topics": 16,
+    "subtopics": 86,
+    "content_files": 102,
+    "resource_links": 290,
+    "unique_urls": 253
+  },
+  "kind_counts": {
+    "article": 256,
+    "video": 10,
+    "official": 19,
+    "opensource": 2,
+    "roadmap": 1,
+    "course": 2
+  },
+  "sections": [
+    {
+      "section": "(ungrouped)",
+      "resources": [],
+      "items": [
+        {
+          "label": "Basic Commands",
+          "type": "subtopic",
+          "description": "Linux Navigation Basics is about using simple commands to move around and manage files on your computer. For example, `cd` lets you go into different folders, `ls` shows you what files and folders are inside, and `pwd` tells you where you are currently. These commands help you easily find and organize your files.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux Filesystem Navigation Basics",
+              "url": "https://linuxconfig.org/filesystem-basics"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Navigation and File Management",
+              "url": "https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management"
+            },
+            {
+              "kind": "article",
+              "title": "Basic Navigation Commands: cd, ls, and pwd",
+              "url": "https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd"
+            }
+          ]
+        },
+        {
+          "label": "Moving Files / Directories",
+          "type": "subtopic",
+          "description": "In Linux, moving files is an essential task that you will need to perform quite frequently. The `mv` command, short for move, is used to move files and directories from one location to another. The `mv` command can also be used for renaming files in Linux.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "mv command",
+              "url": "https://linuxhandbook.com/mv-command/"
+            },
+            {
+              "kind": "article",
+              "title": "mv Cheat Sheet",
+              "url": "https://www.commandinline.com/cheat-sheet/mv/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux mv Command: File Moving and Renaming",
+              "url": "https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Navigation Basics",
+      "resources": [
+        {
+          "kind": "course",
+          "title": "Linux for Noobs (Hands-on)",
+          "url": "https://labex.io/courses/linux-for-noobs"
+        },
+        {
+          "kind": "article",
+          "title": "Linux Filesystem Navigation Basics",
+          "url": "https://linuxconfig.org/filesystem-basics"
+        },
+        {
+          "kind": "article",
+          "title": "Basic Navigation Commands: cd, ls, and pwd",
+          "url": "https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd"
+        },
+        {
+          "kind": "article",
+          "title": "Practice on Linux Fundamentals",
+          "url": "https://linuxjourney.com/"
+        },
+        {
+          "kind": "video",
+          "title": "Linux fundamentals",
+          "url": "https://www.youtube.com/watch?v=kPylihJRG70&t=1381s&ab_channel=TryHackMe"
+        }
+      ],
+      "items": [
+        {
+          "label": "Creating & Deleting Files / Dirs",
+          "type": "subtopic",
+          "description": "Linux file creation uses `touch` for empty files, `echo \"text\" > filename` for text files, or `cat > filename` for interactive input. Commands like `mkdir` create directories. File creation is immediate and permanent. Essential for organizing data, scripts, and configuration files in Linux systems.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "What is the Difference Between Cat and Touch Command",
+              "url": "https://linuxways.net/centos/what-is-the-difference-between-cat-and-touch-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Creating and Deleting Files / Directories in Linux",
+              "url": "https://useful.codes/creating-and-deleting-files-directories-in-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "Creating, Moving, and Deleting Files and Folders",
+              "url": "https://dev.to/alkesh009/linux-basics-part-4-creating-moving-and-deleting-files-and-folders-5hip"
+            }
+          ]
+        },
+        {
+          "label": "Vim",
+          "type": "subtopic",
+          "description": "Vim (Vi Improved) is a powerful and flexible text editor used in Unix-like systems. It builds on the original Vi editor with additional features and improvements, including multi-level undo, syntax highlighting, and an extensive set of commands for text manipulation.",
+          "resources": [
+            {
+              "kind": "course",
+              "title": "Learn Vimscript The Hard Way",
+              "url": "https://learnvimscriptthehardway.stevelosh.com/"
+            },
+            {
+              "kind": "article",
+              "title": "Vim Cheat Sheet",
+              "url": "https://vim.rtorr.com/"
+            },
+            {
+              "kind": "article",
+              "title": "Learn Vim Progressively",
+              "url": "https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/"
+            },
+            {
+              "kind": "article",
+              "title": "Platform to practice Vim",
+              "url": "https://vim-adventures.com/"
+            },
+            {
+              "kind": "video",
+              "title": "Vim Basics",
+              "url": "https://www.youtube.com/watch?v=wACD8WEnImo&list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&ab_channel=LearnLinuxTV"
+            }
+          ]
+        },
+        {
+          "label": "Nano",
+          "type": "subtopic",
+          "description": "Nano is a popular, user-friendly text editor used for creating and editing files directly within the Linux command line interface (CLI). It is an alternative to editors like `Vi` and `Emacs` and is considered more straightforward for beginners due to its simple and intuitive interface.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "nano - Text editor",
+              "url": "https://www.nano-editor.org/"
+            },
+            {
+              "kind": "article",
+              "title": "Editing Files With Nano in Linux",
+              "url": "https://itsfoss.com/nano-editor-guide/"
+            },
+            {
+              "kind": "article",
+              "title": "Nano in Linux",
+              "url": "https://ioflood.com/blog/nano-linux-command/"
+            },
+            {
+              "kind": "video",
+              "title": "Nano editor fundamentals",
+              "url": "https://www.youtube.com/watch?v=gyKiDczLIZ4&ab_channel=HackerSploit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Editing Files",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "Editing Files in Linux Command Line",
+          "url": "https://itsfoss.com/edit-files-linux/"
+        },
+        {
+          "kind": "article",
+          "title": "The Complete Guide to Text Editing in Linux with Nano and Vim",
+          "url": "https://thelinuxcode.com/how-to-edit-file-in-linux/"
+        },
+        {
+          "kind": "article",
+          "title": "Vim Tutorial for Beginners",
+          "url": "https://linuxconfig.org/vim-tutorial"
+        }
+      ],
+      "items": [
+        {
+          "label": "Directory Hierarchy Overview",
+          "type": "subtopic",
+          "description": "In Linux, understanding the directory hierarchy is crucial for efficient navigation and file management. A Linux system's directory structure, also known as the Filesystem Hierarchy Standard (FHS), is a defined tree structure that helps to prevent files from being scattered all over the system and instead organise them in a logical and easy-to-navigate manner.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux Directory Structure Explained for Beginners",
+              "url": "https://linuxhandbook.com/linux-directory-structure/"
+            },
+            {
+              "kind": "article",
+              "title": "Overview of File System Hierarchy Standard (FHS)",
+              "url": "https://access.redhat.com/documentation/ru-ru/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr"
+            },
+            {
+              "kind": "video",
+              "title": "The Linux File System Explained in 1,233 Seconds",
+              "url": "https://youtu.be/A3G-3hp88mo?si=sTJTSzubdb0Vizjr"
+            }
+          ]
+        },
+        {
+          "label": "Command Path",
+          "type": "subtopic",
+          "description": "The command path is a variable that is used by the shell to determine where to look for the executable files to run. Linux commands are nothing but programs residing in particular directories. But, one does not have to navigate to these directories every time to run these programs. The command path comes to the rescue!",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux path environment variable",
+              "url": "https://linuxconfig.org/linux-path-environment-variable"
+            },
+            {
+              "kind": "article",
+              "title": "How to find a path of a Linux command like a pro",
+              "url": "https://www.cyberciti.biz/howto/finding-a-path-of-a-linux-command-like-a-pro/"
+            }
+          ]
+        },
+        {
+          "label": "stdout / stdin / stderr",
+          "type": "subtopic",
+          "description": "Linux processes use three standard data streams: STDIN (input), STDOUT (output), and STDERR (error messages). STDOUT handles normal command output while STDERR specifically handles error messages. You can redirect these streams using operators like `>` for stdout and `2>` for stderr, allowing separate handling of normal output and errors for better scripting and debugging.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux Fundamentals - I/O, Standard Streams, and Redirection",
+              "url": "https://www.putorius.net/linux-io-file-descriptors-and-redirection.html"
+            },
+            {
+              "kind": "article",
+              "title": "Understanding 'stdin', 'stdout' and 'stderr' in Linux",
+              "url": "https://www.slingacademy.com/article/understanding-stdin-stdout-and-stderr-in-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "Working with data streams on the Linux command line",
+              "url": "https://opensource.com/article/18/10/linux-data-streams"
+            }
+          ]
+        },
+        {
+          "label": "cut",
+          "type": "subtopic",
+          "description": "The `cut` command is a text processing utility that allows you to cut out sections of each line from a file or output, and display it on the standard output (usually, the terminal). It's commonly used in scripts and pipelines, especially for file operations and text manipulation.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Cut Command in Linux | Linuxize",
+              "url": "https://linuxize.com/post/linux-cut-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux cut Command: Text Cutting",
+              "url": "https://labex.io/tutorials/linux-linux-cut-command-text-cutting-219187"
+            }
+          ]
+        },
+        {
+          "label": "Environment Variables",
+          "type": "subtopic",
+          "description": "Environment variables are dynamic named values that can affect the behavior of running processes in a shell. They exist in every shell session. A shell session's environment includes, but is not limited to, the user's home directory, command search path, terminal type, and program preferences.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Environment Variables in Linux",
+              "url": "https://labex.io/tutorials/linux-environment-variables-in-linux-385274"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Environment Variables List, Set, Create & Remove",
+              "url": "https://www.computernetworkingnotes.com/linux-tutorials/linux-environment-variables-list-set-create-remove.html"
+            },
+            {
+              "kind": "article",
+              "title": "How to Set and List Environment Variables in Linux",
+              "url": "https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/"
+            }
+          ]
+        },
+        {
+          "label": "paste",
+          "type": "subtopic",
+          "description": "In Linux, paste is a powerful text processing utility that is primarily used for merging lines from multiple files. It allows users to combine data by columns rather than rows, adding immense flexibility to textual data manipulation. Users can choose a specific delimiter for separating columns, providing a range of ways to format the output. You may use `paste` command like `$ paste file1.txt file2.txt > combined.txt`.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Paste Command in Linux (Merge Lines)",
+              "url": "https://linuxize.com/post/paste-command-in-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "7 Practical Usage of Paste Command in Linux",
+              "url": "https://linuxhandbook.com/paste-command/"
+            }
+          ]
+        },
+        {
+          "label": "sort",
+          "type": "subtopic",
+          "description": "Linux provides a variety of tools for processing and manipulating text files, one of which is the sort command. The `sort` command in Linux is used to sort the contents of a text file, line by line. The command uses ASCII values to sort files. You can use this command to sort the data in a file in a number of different ways such as alphabetically, numerically, reverse order, or even monthly. The sort command takes a file as input and prints the sorted content on the standard output (screen).",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Sort Command in Linux - 10 Useful Examples",
+              "url": "https://linuxhandbook.com/sort-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Sort Command in Linux with Practical Examples",
+              "url": "https://tecadmin.net/linux-sort-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux sort Command: Text Sorting",
+              "url": "https://labex.io/tutorials/linux-linux-sort-command-text-sorting-219196"
+            }
+          ]
+        },
+        {
+          "label": "tr",
+          "type": "subtopic",
+          "description": "The `tr` command in Linux is a command-line utility that translates or substitutes characters. It reads from the standard input and writes to the standard output. Although commonly used for translation applications, `tr` has versatile functionality in the text processing aspect of Linux. Ranging from replacing a list of characters, to deleting or squeezing character repetitions, `tr` presents a robust tool for stream-based text manipulations.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "tr Command in Linux: 6 Useful Examples",
+              "url": "https://linuxhandbook.com/tr-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux tr Command with Practical Examples",
+              "url": "https://labex.io/tutorials/linux-linux-tr-command-with-practical-examples-422963"
+            }
+          ]
+        },
+        {
+          "label": "head",
+          "type": "subtopic",
+          "description": "The `head` command in Linux is a text processing utility that allows a user to output the first part (or the \"head\") of files. It is commonly used for previewing the start of a file without loading the entire document into memory, which can act as an efficient way of quickly examining the data in very large files. By default, the `head` command prints the first 10 lines of each file to standard output, which is the terminal in most systems.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Head Command in Linux - 5 Essential Examples",
+              "url": "https://linuxhandbook.com/head-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux head Command: File Beginning Display",
+              "url": "https://labex.io/tutorials/linux-linux-head-command-file-beginning-display-214302"
+            }
+          ]
+        },
+        {
+          "label": "Command Help",
+          "type": "subtopic",
+          "description": "Linux command help provides documentation and usage information for shell commands. Use `man command` for detailed manuals, `help command` for shell built-ins, `command --help` for quick options, and `tldr command` for practical examples. Essential for learning command syntax, parameters, and functionality in Linux terminal environments.",
+          "resources": [
+            {
+              "kind": "opensource",
+              "title": "tldr-pages/tldr",
+              "url": "https://github.com/tldr-pages/tldr"
+            },
+            {
+              "kind": "article",
+              "title": "Using the Help Command in Linux",
+              "url": "https://linuxhandbook.com/help-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Chapter 10: Getting Help in Linux Terminal",
+              "url": "https://itsfoss.com/linux-command-help/"
+            },
+            {
+              "kind": "article",
+              "title": "Get Help on Linux Commands",
+              "url": "https://labex.io/tutorials/linux-get-help-on-linux-commands-18000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Shell and Other Basics",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "Learning The Shell",
+          "url": "https://www.linuxcommand.org/lc3_lts0010.php"
+        },
+        {
+          "kind": "article",
+          "title": "What is a Shell in Linux",
+          "url": "https://linuxsimply.com/what-is-a-shell-linux/"
+        },
+        {
+          "kind": "article",
+          "title": "Learn Linux Easily",
+          "url": "https://linuxjourney.com"
+        }
+      ],
+      "items": [
+        {
+          "label": "tail",
+          "type": "subtopic",
+          "description": "The `tail` command in Linux is a utility used in text processing. Fundamentally, it's used to output the last part of the files. The command reads data from standard input or from a file and outputs the last `N` bytes, lines, blocks, characters or words to the standard output (or a different file). By default, `tail` returns the last 10 lines of each file to the standard output. This command is common in situations where the user is interested in the most recent entries in a text file, such as log files.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "5 Practical Examples of Tail Command in Linux",
+              "url": "https://linuxhandbook.com/tail-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Tail Command | Linuxize",
+              "url": "https://linuxize.com/post/linux-tail-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux tail Command: File End Display",
+              "url": "https://labex.io/tutorials/linux-linux-tail-command-file-end-display-214303"
+            }
+          ]
+        },
+        {
+          "label": "join",
+          "type": "subtopic",
+          "description": "`join` is a powerful text processing command in Linux. It lets you combine lines of two files on a common field, which works similar to the 'Join' operation in SQL. It's particularly useful when you're dealing with large volumes of data. Specifically, `join` uses the lines from two files to form lines that contain pairs of lines related in a meaningful way.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "join(1) \u2014 Linux manual page",
+              "url": "https://www.man7.org/linux/man-pages/man1/join.1.html"
+            },
+            {
+              "kind": "article",
+              "title": "join command in Linux with examples",
+              "url": "https://linuxconfig.org/join"
+            },
+            {
+              "kind": "article",
+              "title": "Linux join Command: File Joining",
+              "url": "https://labex.io/tutorials/linux-linux-join-command-file-joining-219193"
+            }
+          ]
+        },
+        {
+          "label": "split",
+          "type": "subtopic",
+          "description": "Linux provides an extensive set of tools for manipulating text data. One of such utilities is the `split` command that is used, as the name suggests, to split large files into smaller files. The `split` command in Linux divides a file into multiple equal parts, based on the lines or bytes specified by the user.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Split Command in Linux: 9 Useful Examples",
+              "url": "https://linuxhandbook.com/split-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Split Command in Linux: Usage Guide with Examples",
+              "url": "https://ioflood.com/blog/split-linux-command/"
+            }
+          ]
+        },
+        {
+          "label": "pipe",
+          "type": "subtopic",
+          "description": "The pipe (`|`) is a powerful feature in Linux used to connect two or more commands together. This mechanism allows output of one command to be \"piped\" as input to another. With regards to text processing, using pipe is especially helpful since it allows you to manipulate, analyze, and transform text data without the need to create intermediary files or programs.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "An In-Depth Guide to Pipes in Linux - TheLinuxCode",
+              "url": "https://thelinuxcode.com/linux-pipe-command-examples/"
+            },
+            {
+              "kind": "article",
+              "title": "Piping and Redirection",
+              "url": "https://ryanstutorials.net/linuxtutorial/piping.php#piping"
+            },
+            {
+              "kind": "article",
+              "title": "What is Piping in Linux?",
+              "url": "https://linuxsimply.com/what-is-piping-in-linux/"
+            }
+          ]
+        },
+        {
+          "label": "Redirects",
+          "type": "subtopic",
+          "description": "Redirects change where a command's input comes from or where its output goes, instead of the default terminal screen. The `>` operator sends output to a file, overwriting it, while `>>` appends to the end of a file instead. The `<` operator redirects input from a file, feeding its contents into a command instead of typing them manually.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Input Output & Error Redirection in Linux",
+              "url": "https://linuxhandbook.com/redirection-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "Redirections (Bash Reference Manual)",
+              "url": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html"
+            }
+          ]
+        },
+        {
+          "label": "tee",
+          "type": "subtopic",
+          "description": "The `tee` command reads from standard input and writes to both standard output and files simultaneously, like a T-splitter in plumbing. It enables users to view results in the terminal while saving output to files concurrently. Syntax: `command | tee file`. Extremely useful for documenting terminal activities and preserving command outputs for later analysis.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Tee Command in Linux Explained with Examples",
+              "url": "https://linuxhandbook.com/tee-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Tee Command",
+              "url": "https://linuxize.com/post/linux-tee-command/"
+            }
+          ]
+        },
+        {
+          "label": "nl",
+          "type": "subtopic",
+          "description": "The `nl` command numbers lines in text files, providing an overview of line locations. By default, it numbers only non-empty lines, but this behavior can be modified. Syntax: `nl [options] [file_name]`. If no file is specified, nl reads from stdin. Valuable for text processing when line numbers are needed for reference or debugging purposes.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "nl command",
+              "url": "https://www.computerhope.com/unix/nl.htm"
+            },
+            {
+              "kind": "article",
+              "title": "Linux nl Command: Line Numbering",
+              "url": "https://labex.io/tutorials/linux-linux-nl-command-line-numbering-210988"
+            },
+            {
+              "kind": "article",
+              "title": "Master the Linux 'nl' Command: A Comprehensive Guide",
+              "url": "https://hopeness.medium.com/master-the-linux-nl-command-a-comprehensive-guide-79c6adf50fa9"
+            }
+          ]
+        },
+        {
+          "label": "wc",
+          "type": "subtopic",
+          "description": "The `wc` command is a commonly used tool in Unix or Linux that allows users to count the number of bytes, characters, words, and lines in a file or in data piped from standard input. The name `wc` stands for 'word count', but it can do much more than just count words. Common usage of `wc` includes tracking program output, counting code lines, and more. It's an invaluable tool for analyzing text at both granular and larger scales.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Wc Command in Linux (Count Number of Lines, Words, and Characters)",
+              "url": "https://linuxize.com/post/linux-wc-command/"
+            },
+            {
+              "kind": "article",
+              "title": "wc Command Examples - Linux Handbook",
+              "url": "https://linuxhandbook.com/wc-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux wc Command: Text Counting",
+              "url": "https://labex.io/tutorials/linux-linux-wc-command-text-counting-219200"
+            }
+          ]
+        },
+        {
+          "label": "expand",
+          "type": "subtopic",
+          "description": "The `expand` command converts tabs to spaces in text files, useful for consistent formatting across different systems and editors. Default conversion is 8 spaces per tab. Use `expand filename` for basic conversion or `expand -t 4 filename` to specify 4 spaces per tab. Essential for maintaining code readability and consistent indentation in shell scripts.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "expand \u2014 Linux manual page",
+              "url": "https://www.man7.org/linux/man-pages/man1/expand.1.html"
+            },
+            {
+              "kind": "article",
+              "title": "How to Use the 'expand' Command (with examples)",
+              "url": "https://commandmasters.com/commands/expand-common/"
+            }
+          ]
+        },
+        {
+          "label": "Super User",
+          "type": "subtopic",
+          "description": "The super user, commonly referred to as root, is the account with unrestricted access to every file, process, and setting on a Linux system. Regular users run commands with `sudo` to temporarily gain root privileges for a single command, rather than logging in as root directly. Because root can modify or delete anything on the system, using `sudo` only when necessary reduces the risk of accidental damage.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux Superuser Access, Explained",
+              "url": "https://www.redhat.com/en/blog/linux-superuser-access/"
+            },
+            {
+              "kind": "article",
+              "title": "Difference between the root user and super (sudo) user",
+              "url": "https://www.computernetworkingnotes.com/linux-tutorials/difference-between-the-root-user-and-super-sudo-user.html"
+            },
+            {
+              "kind": "article",
+              "title": "What is Superuser Access in Linux?",
+              "url": "https://www.scaler.com/topics/super-user-in-linux/"
+            }
+          ]
+        },
+        {
+          "label": "unexpand",
+          "type": "subtopic",
+          "description": "The `unexpand` command converts spaces to tabs in text files, making documents more coherent and neat. Commonly used in programming scripts where tab indentation is preferred. Use `unexpand -t 4 file.txt` to replace every four spaces with a tab. Opposite of `expand` command, useful for standardizing indentation formatting in code files.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "unexpand Cheat Sheet",
+              "url": "https://www.commandinline.com/cheat-sheet/unexpand/"
+            },
+            {
+              "kind": "article",
+              "title": "Master the Linux 'unexpand' Command: A Comprehensive Guide",
+              "url": "https://hopeness.medium.com/master-the-linux-unexpand-command-a-comprehensive-guide-6966c1f90acb"
+            },
+            {
+              "kind": "article",
+              "title": "Linux unexpand Command with Practical Examples",
+              "url": "https://labex.io/tutorials/linux-linux-unexpand-command-with-practical-examples-422975"
+            }
+          ]
+        },
+        {
+          "label": "uniq",
+          "type": "subtopic",
+          "description": "`uniq` is an extremely useful command-line program for text processing. It aids in the examination and manipulation of text files by comparing or filtering out repeated lines that are adjacent. Whether you're dealing with a list of data or a large text document, the `uniq` command allows you to find and filter out duplicate lines, or even provide a count of each unique line in a file. It's important to remember that `uniq` only removes duplicates that are next to each other, so to get the most out of this command, data is often sorted using the `sort` command first.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Uniq Command in Unix and Linux: 7 Essential Examples",
+              "url": "https://linuxhandbook.com/uniq-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux uniq Command: Duplicate Filtering",
+              "url": "https://labex.io/tutorials/linux-linux-uniq-command-duplicate-filtering-219199"
+            },
+            {
+              "kind": "article",
+              "title": "How to Use the Uniq Command to Process Lists in Linux",
+              "url": "https://www.redhat.com/en/blog/uniq-command-lists"
+            }
+          ]
+        },
+        {
+          "label": "grep",
+          "type": "subtopic",
+          "description": "GREP (Global Regular Expression Print) is a powerful text search utility that finds and filters text matching specific patterns in files. It searches line by line and prints matching lines to the screen. Essential for shell scripts and command-line operations. Example: `grep \"pattern\" fileName` searches for specified patterns. Alternative: `ripgrep` offers enhanced performance and features.",
+          "resources": [
+            {
+              "kind": "opensource",
+              "title": "Ripgrep: GitHub Repository",
+              "url": "https://github.com/BurntSushi/ripgrep"
+            },
+            {
+              "kind": "article",
+              "title": "Grep and Regular Expressions for Beginners",
+              "url": "https://ryanstutorials.net/linuxtutorial/grep.php"
+            },
+            {
+              "kind": "article",
+              "title": "Linux grep Command: Pattern Searching",
+              "url": "https://labex.io/tutorials/linux-linux-grep-command-pattern-searching-219192"
+            }
+          ]
+        },
+        {
+          "label": "awk",
+          "type": "subtopic",
+          "description": "AWK is a powerful text-processing language for Unix-like systems, named after its creators Aho, Weinberger, and Kernighan. It reads files line by line, identifies patterns, and executes actions on matches. Commonly used in bash scripts for sorting, filtering, and report generation.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "IBM.com: Awk by Example",
+              "url": "https://developer.ibm.com/tutorials/l-awk1/"
+            },
+            {
+              "kind": "article",
+              "title": "AWK Tutorial",
+              "url": "https://linuxhandbook.com/awk-command-tutorial/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux awk Command: Text Processing",
+              "url": "https://labex.io/tutorials/linux-linux-awk-command-text-processing-388493"
+            },
+            {
+              "kind": "video",
+              "title": "Learning Awk Is Essential For Linux Users",
+              "url": "https://www.youtube.com/watch?v=9YOZmI-zWok"
+            }
+          ]
+        },
+        {
+          "label": "File Permissions",
+          "type": "subtopic",
+          "description": "File permissions control who can read, write, or execute a file, split into three categories: owner, group, and others. Each category can have any combination of read (r), write (w), and execute (x) permissions, often represented as a numeric value like 755. The `chmod` command changes these permissions, while `chown` changes which user or group owns the file.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux File Permissions",
+              "url": "https://linuxhandbook.com/linux-file-permissions/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Permissions of Files",
+              "url": "https://labex.io/tutorials/linux-permissions-of-files-270252"
+            },
+            {
+              "kind": "video",
+              "title": "Linux File Permissions in 5 Minutes",
+              "url": "https://www.youtube.com/watch?v=LnKoncbQBsM"
+            }
+          ]
+        },
+        {
+          "label": "Archiving and Compressing",
+          "type": "subtopic",
+          "description": "Archiving bundles multiple files into a single file, typically using `tar`, while compressing reduces that file's size using tools like `gzip` or `bzip2`. A common pattern combines both steps at once, such as `tar -czvf archive.tar.gz folder/`, which archives and compresses a folder in one command. These tools are widely used for backups, transferring multiple files as one, and distributing software packages.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux File Packaging and Compression",
+              "url": "https://labex.io/tutorials/linux-file-packaging-and-compression-385413"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Working with Files",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "Editing Files in Linux Command Line",
+          "url": "https://itsfoss.com/edit-files-linux/"
+        },
+        {
+          "kind": "article",
+          "title": "Mastering cp and mv Commands in Linux",
+          "url": "https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9"
+        },
+        {
+          "kind": "article",
+          "title": "Vim Tutorial for Beginners",
+          "url": "https://linuxconfig.org/vim-tutorial"
+        },
+        {
+          "kind": "article",
+          "title": "Linux Basic Files Operations",
+          "url": "https://labex.io/tutorials/linux-basic-files-operations-270248"
+        },
+        {
+          "kind": "article",
+          "title": "What is the Difference Between Cat and Touch Command",
+          "url": "https://linuxways.net/centos/what-is-the-difference-between-cat-and-touch-command/"
+        }
+      ],
+      "items": []
+    },
+    {
+      "section": "Text Processing",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "Common Linux Text Processing Commands",
+          "url": "https://www.commandinline.com/linux/common-linux-text-processing-commands/"
+        },
+        {
+          "kind": "article",
+          "title": "Linux Filters",
+          "url": "https://ryanstutorials.net/linuxtutorial/filters.php"
+        },
+        {
+          "kind": "article",
+          "title": "Linux Text Processing Command",
+          "url": "https://earthly.dev/blog/linux-text-processing-commands/"
+        },
+        {
+          "kind": "article",
+          "title": "Master Linux Text Processing Commands",
+          "url": "https://everythingdevops.dev/linux-text-processing-commands/"
+        }
+      ],
+      "items": [
+        {
+          "label": "Copying and Renaming",
+          "type": "subtopic",
+          "description": "Essential Linux file operations use `cp` to copy files and `mv` to move/rename them. The `cp` command copies files from source to destination, while `mv` moves or renames files/directories. Both commands use the syntax `command source destination`. These case-sensitive commands are fundamental for daily file management tasks in Linux systems.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "mv and cp - Linux.org",
+              "url": "https://www.linux.org/threads/mv-and-cp.54793/"
+            },
+            {
+              "kind": "article",
+              "title": "Mastering cp and mv Commands in Linux",
+              "url": "https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9"
+            },
+            {
+              "kind": "article",
+              "title": "Linux cp Command: File Copying",
+              "url": "https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744"
+            },
+            {
+              "kind": "article",
+              "title": "Linux mv Command: File Moving and Renaming",
+              "url": "https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743"
+            }
+          ]
+        },
+        {
+          "label": "Soft Links / Hard Links",
+          "type": "subtopic",
+          "description": "Linux supports two types of file links. Hard links share the same inode and data as the original file - if the original is deleted, data remains accessible. Soft links (symbolic links) are shortcuts pointing to the original file path - they break if the original is removed. Create with `ln` for hard links and `ln -s` for soft links.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Hard links and Soft links in Linux Explained",
+              "url": "https://www.redhat.com/en/blog/linking-linux-explained"
+            },
+            {
+              "kind": "article",
+              "title": "Difference between hard link and soft link",
+              "url": "https://kerneltalks.com/commands/difference-between-hard-link-and-soft-link/"
+            },
+            {
+              "kind": "article",
+              "title": "How to Understand the Difference between Hard and Symbolic Links in Linux",
+              "url": "https://labex.io/tutorials/linux-how-to-understand-the-difference-between-hard-and-symbolic-links-in-linux-409929"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Process Management",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "The Complete Guide to Process Management Commands",
+          "url": "https://thelinuxcode.com/process-management-commands-linux/"
+        },
+        {
+          "kind": "article",
+          "title": "Commands for Process Management in Linux",
+          "url": "https://www.digitalocean.com/community/tutorials/process-management-in-linux"
+        }
+      ],
+      "items": []
+    },
+    {
+      "section": "Server Review",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "Linux Server Management Essentials",
+          "url": "https://www.ictbroadcast.com/linux-server-management-essentials-administration-monitoring-and-maintenance-guidelines-for-success/"
+        },
+        {
+          "kind": "article",
+          "title": "Essential Linux Server Maintenance Checklist",
+          "url": "https://tecadmin.net/linux-server-maintenance-checklist/"
+        },
+        {
+          "kind": "article",
+          "title": "Optimizing Linux Server Performance",
+          "url": "https://www.linuxjournal.com/content/optimizing-linux-server-performance-benchmarking-and-advanced-techniques"
+        }
+      ],
+      "items": [
+        {
+          "label": "Background / Foreground Processes",
+          "type": "subtopic",
+          "description": "Linux processes run in foreground (taking direct user input) or background (running independently). Send processes to background with `&` or `bg` command. Bring to foreground with `fg`. Use Ctrl+Z to pause, then `bg` to resume in background. Part of job control for managing multiple tasks simultaneously from single terminal.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Understanding Foreground and Background Processes",
+              "url": "https://linuxconfig.org/understanding-foreground-and-background-linux-processes"
+            },
+            {
+              "kind": "article",
+              "title": "Running Linux Commands in Background and Foreground",
+              "url": "https://linuxhandbook.com/run-process-background/"
+            }
+          ]
+        },
+        {
+          "label": "Uptime and Load",
+          "type": "subtopic",
+          "description": "The `uptime` command shows system running time and load averages for 1, 5, and 15-minute intervals. Load average indicates computational work and processes waiting for CPU time. High load suggests insufficient resources or misconfigurations. Example: `uptime` shows \"2 days, 20 min\" uptime and \"0.00, 0.01, 0.05\" load averages. Essential for performance monitoring and capacity planning.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux Uptime Command With Usage Examples",
+              "url": "https://www.tecmint.com/linux-uptime-command-examples/"
+            },
+            {
+              "kind": "article",
+              "title": "How to Check Uptime in Linux Command Line",
+              "url": "https://linuxhandbook.com/uptime-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Load Average: What is Load Average in Linux?",
+              "url": "https://www.digitalocean.com/community/tutorials/load-average-in-linux"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "User Management",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "User Account Management",
+          "url": "https://labex.io/tutorials/linux-user-account-management-49"
+        },
+        {
+          "kind": "article",
+          "title": "Creating, Modifying, and Deleting User Accounts",
+          "url": "https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/"
+        },
+        {
+          "kind": "article",
+          "title": "User Management in Linux: A Beginner's Guide",
+          "url": "https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf"
+        }
+      ],
+      "items": [
+        {
+          "label": "Listing / Finding Processes",
+          "type": "subtopic",
+          "description": "Linux processes can be monitored using the `proc` virtual filesystem and commands like `ps`, `top`, and `htop`. Use `ps -ef` for process snapshots, `top`/`htop` for real-time views. The `/proc` directory contains detailed process information. View specific process details with `cat /proc/{PID}/status`. Essential for system performance monitoring and troubleshooting.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "The /proc File System",
+              "url": "https://www.kernel.org/doc/html/latest/filesystems/proc.html"
+            },
+            {
+              "kind": "article",
+              "title": "What is a Process in Linux/Unix?",
+              "url": "https://www.scaler.com/topics/linux-process/"
+            },
+            {
+              "kind": "article",
+              "title": "Exploring the Linux /proc Filesystem",
+              "url": "https://www.redhat.com/en/blog/linux-proc-filesystem"
+            }
+          ]
+        },
+        {
+          "label": "Authentication Logs",
+          "type": "subtopic",
+          "description": "Authentication logs in Linux record all auth-related events like logins, password changes, and sudo commands. Located at `/var/log/auth.log` (Debian) or `/var/log/secure` (RHEL/CentOS), these logs help detect brute force attacks and unauthorized access attempts. Use `tail /var/log/auth.log` to view recent entries. Regular log analysis is essential for server security monitoring.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Monitoring Linux Authentication Logs",
+              "url": "https://betterstack.com/community/guides/logging/monitoring-linux-auth-logs/"
+            },
+            {
+              "kind": "article",
+              "title": "How to Check Linux Login History - Linux Handbook",
+              "url": "https://linuxhandbook.com/linux-login-history/"
+            }
+          ]
+        },
+        {
+          "label": "Create / Delete / Update",
+          "type": "subtopic",
+          "description": "Linux user management involves creating, updating, and deleting user accounts for system security and resource utilization. Key commands: `useradd`/`adduser` (create users), `usermod` (update user details like home directory/shell), `userdel` (delete users). Essential for maintaining secure, organized multi-user system environments and efficient resource allocation.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Creating, Modifying, and Deleting User Accounts",
+              "url": "https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/"
+            },
+            {
+              "kind": "article",
+              "title": "How to create, update, and delete users account on Linux",
+              "url": "https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux"
+            },
+            {
+              "kind": "article",
+              "title": "User Management in Linux: A Beginner's Guide",
+              "url": "https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf"
+            }
+          ]
+        },
+        {
+          "label": "Process Signals",
+          "type": "subtopic",
+          "description": "Process signals are communication mechanisms in Linux that notify processes of synchronous or asynchronous events. Common signals include SIGINT, SIGSTOP, SIGKILL for interrupting, pausing, or terminating processes. Example: `kill -SIGSTOP 12345` suspends process with PID 12345 until `SIGCONT` is received. Essential for comprehensive process management and resource allocation.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Understanding Linux Process Signals",
+              "url": "https://www.ceos3c.com/linux/understanding-linux-process-signals-a-complete/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Process Signals and their meaning",
+              "url": "https://linux-audit.com/processes/linux-process-signals/"
+            }
+          ]
+        },
+        {
+          "label": "Killing Processes",
+          "type": "subtopic",
+          "description": "The `kill` command terminates processes manually by sending specific signals to Process IDs (PIDs). Used when processes behave unexpectedly due to system bugs or accidental initiation. Syntax: `kill [signal or option] PID(s)`. Essential for Linux process management, allowing administrators to stop, pause, or terminate problematic processes and maintain system stability.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Using Kill Command in Linux",
+              "url": "https://linuxhandbook.com/kill-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Kill Command in Linux",
+              "url": "https://linuxize.com/post/kill-command-in-linux/"
+            }
+          ]
+        },
+        {
+          "label": "Services Running",
+          "type": "subtopic",
+          "description": "Linux servers run various services including web, database, DNS, and mail servers. System administrators use tools like `systemctl`, `service`, `netstat`, `ss`, and `lsof` to manage and monitor services. Use `systemctl --type=service` to list all active services with their status. Essential for server management, resource monitoring, and troubleshooting.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "How to List Linux Services With systemctl",
+              "url": "https://www.howtogeek.com/839285/how-to-list-linux-services-with-systemctl/"
+            },
+            {
+              "kind": "article",
+              "title": "Service Management in Linux: A Comprehensive Guide",
+              "url": "https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9"
+            },
+            {
+              "kind": "article",
+              "title": "How to Manage Services in Linux: systemd and SysVinit",
+              "url": "https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop"
+            }
+          ]
+        },
+        {
+          "label": "Users and Groups",
+          "type": "subtopic",
+          "description": "Linux user groups simplify system administration by managing collections of users with shared access rights to files and directories. Each user belongs to one or more groups, enabling privilege management without full superuser access. Management commands: `groupadd`, `groupdel`, `groupmod`, `usermod`, `gpasswd`. Essential for secure and organized system environments.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "How to create, delete, and modify groups in Linux",
+              "url": "https://www.redhat.com/sysadmin/linux-groups"
+            },
+            {
+              "kind": "article",
+              "title": "How to manage groups on Linux",
+              "url": "https://linuxconfig.org/how-to-manage-groups-on-linux"
+            },
+            {
+              "kind": "article",
+              "title": "Creating, Modifying, and Deleting User Accounts",
+              "url": "https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/"
+            },
+            {
+              "kind": "article",
+              "title": "User Management in Linux: A Beginner's Guide",
+              "url": "https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf"
+            }
+          ]
+        },
+        {
+          "label": "Process Priorities",
+          "type": "subtopic",
+          "description": "Linux assigns priority levels to processes for efficient resource utilization and execution timing. Priority values (\"nice\" values) range from -20 (highest) to +19 (lowest priority). View priorities with `ps -eo pid,pri,user,comm`. Change priorities using `renice -5 -p [PID]`. Essential for system performance optimization and CPU resource management.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Understanding Process Thread Priorities in Linux",
+              "url": "https://blogs.oracle.com/linux/post/task-priority"
+            },
+            {
+              "kind": "article",
+              "title": "How To Manipulate Process Priority In Linux",
+              "url": "https://www.itsmarttricks.com/how-to-manipulate-process-priority-in-linux-using-nice-and-renice-commands/"
+            }
+          ]
+        },
+        {
+          "label": "Process Forking",
+          "type": "subtopic",
+          "description": "Process forking uses the `fork()` system call to create child processes from parent processes, enabling concurrent execution. Child processes are nearly perfect copies of parents with different PIDs. Changes in child processes don't affect parents. Essential for understanding Linux process creation and control in multi-processing environments.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "fork \u2014 Linux manual page",
+              "url": "https://www.man7.org/linux/man-pages/man2/fork.2.html"
+            },
+            {
+              "kind": "article",
+              "title": "Understanding the fork() System Call in Linux",
+              "url": "https://thelinuxcode.com/fork-system-call-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Process calls: Creating process using fork",
+              "url": "https://medium.com/@joshuaudayagiri/linux-process-calls-creating-process-using-fork-52a1eac7de8b"
+            }
+          ]
+        },
+        {
+          "label": "Available Memory / Disk",
+          "type": "subtopic",
+          "description": "Linux provides tools like `free`, `vmstat`, and `top` to monitor system memory usage and performance. The `free -h` command shows total, used, free, shared, buffer/cache, and available memory in human-readable format. Regular memory monitoring helps maintain optimal server performance, prevent overload, and troubleshoot resource issues effectively.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "5 Best Ways To Check Available Memory In Linux",
+              "url": "https://itslinuxfoss.com/5-ways-check-available-memory-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "Free vs. Available Memory in Linux",
+              "url": "https://linuxblog.io/free-vs-available-memory-in-linux/"
+            }
+          ]
+        },
+        {
+          "label": "Managing Permissions",
+          "type": "subtopic",
+          "description": "Linux permissions control file and directory access for users, groups, and others with read, write, and execute types. Commands include `chmod` (change permissions), `chown` (change owner), and `chgrp` (change group). Proper permission management is crucial for system security and organization. Essential for maintaining controlled access to system resources.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Understanding Linux File Permissions",
+              "url": "https://linuxize.com/post/understanding-linux-file-permissions/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux File Permissions",
+              "url": "https://linuxhandbook.com/linux-file-permissions/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Permissions of Files",
+              "url": "https://labex.io/tutorials/linux-permissions-of-files-270252"
+            },
+            {
+              "kind": "video",
+              "title": "Linux File Permissions in 5 Minutes",
+              "url": "https://www.youtube.com/watch?v=LnKoncbQBsM"
+            }
+          ]
+        },
+        {
+          "label": "Creating New Services",
+          "type": "subtopic",
+          "description": "Creating Linux services involves setting up background applications using systemd service files. Services run continuously performing essential tasks like web servers, databases, and mail servers. Create `.service` files in `/etc/systemd/system/` with Unit, Service, and Install sections. Control services using `systemctl` commands. Best practice: avoid running services as root for security.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "How to Create a systemd Service in Linux",
+              "url": "https://linuxhandbook.com/create-systemd-services/"
+            },
+            {
+              "kind": "article",
+              "title": "A Beginner's Guide to Creating Linux Services",
+              "url": "https://www.fosslinux.com/111815/a-guide-to-creating-linux-services-with-systemd.htm"
+            }
+          ]
+        },
+        {
+          "label": "Inodes",
+          "type": "subtopic",
+          "description": "An inode (index node) is a data structure in Linux filesystems that stores metadata about files and directories except their names and actual data. Contains file size, owner, permissions, timestamps, and more. Each file has a unique inode number for identification. Understanding inodes helps with advanced operations like linking and file recovery. Use `ls -i filename` to view inode numbers.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Introduction to Inodes",
+              "url": "https://linuxjourney.com/lesson/inodes"
+            },
+            {
+              "kind": "article",
+              "title": "Index Nodes \u2014 The Linux Kernel documentation",
+              "url": "https://www.kernel.org/doc/html/latest/filesystems/ext4/inodes.html?highlight=inode"
+            }
+          ]
+        },
+        {
+          "label": "Filesystems",
+          "type": "subtopic",
+          "description": "Filesystems define how files are stored and organized on Linux storage disks, ensuring data integrity, reliability, and efficient access. Linux supports various types like EXT4, XFS, BTRFS with different performance and recovery capabilities. All files start from root directory '/'. Use `df -T` to display filesystem types and disk usage status. Essential for Linux administration tasks.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "Filesystems in the Linux Kernel",
+              "url": "https://docs.kernel.org/filesystems/index.html"
+            },
+            {
+              "kind": "article",
+              "title": "df command in Linux (Check Disk Space)",
+              "url": "https://linuxize.com/post/how-to-check-disk-space-in-linux-using-the-df-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Partitions And Filesystems In Linux - Introduction",
+              "url": "https://www.linuxfordevices.com/tutorials/linux/partitions-and-filesystems"
+            }
+          ]
+        },
+        {
+          "label": "Checking Service Logs",
+          "type": "subtopic",
+          "description": "Systemd captures output from all managed services and stores it in the journal, a binary log managed by journald. You can view logs for a specific service using journalctl -u service-name. Useful flags include -f to follow logs in real time, --since and --until to filter by time range, and -n to limit the number of lines shown. Logs include both stdout/stderr from the process and systemd lifecycle events.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Journalctl Explained: How To View And Analyze Systemd Logs.",
+              "url": "https://uptimerobot.com/knowledge-hub/logging/journalctl-explained-how-to-view-and-analyze-systemd-logs/"
+            },
+            {
+              "kind": "article",
+              "title": "How To Use journalctl to View and Manipulate systemd Logs on Linux",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Service Management (systemd)",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "How to Master Linux Service Management with Systemctl",
+          "url": "https://labex.io/tutorials/linux-how-to-master-linux-service-management-with-systemctl-392864"
+        },
+        {
+          "kind": "article",
+          "title": "Service Management in Linux: A Comprehensive Guide",
+          "url": "https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9"
+        },
+        {
+          "kind": "article",
+          "title": "How to Manage Services in Linux: systemd and SysVinit",
+          "url": "https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop"
+        }
+      ],
+      "items": [
+        {
+          "label": "Mounts",
+          "type": "subtopic",
+          "description": "Mounting in Linux attaches filesystems to specific directories (mount points) in the directory tree, allowing the OS to access data on storage devices. The `mount` command performs this operation. Example: `mount /dev/sdb1 /mnt` mounts second partition to `/mnt` directory. The `/mnt` directory is conventionally used for temporary mounting operations. Essential for Linux disk and filesystem management.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "The mount command manual page",
+              "url": "https://man7.org/linux/man-pages/man8/mount.8.html"
+            },
+            {
+              "kind": "article",
+              "title": "Mounting, unmounting and the /mnt directory - The Linux Documentation Project",
+              "url": "https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/mnt.html"
+            },
+            {
+              "kind": "article",
+              "title": "Linux mount command with Examples",
+              "url": "https://phoenixnap.com/kb/linux-mount-command"
+            }
+          ]
+        },
+        {
+          "label": "LVM",
+          "type": "subtopic",
+          "description": "LVM provides logical volume management through device mapper framework, offering flexible disk management with resizing, mirroring, and moving capabilities. Three levels: Physical Volumes (PVs - actual disks), Volume Groups (VGs - storage pools), and Logical Volumes (LVs - carved portions). Create with `pvcreate`, `vgcreate`, and `lvcreate` commands. Essential for enterprise storage systems.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "The Complete Beginner's Guide to LVM in Linux",
+              "url": "https://linuxhandbook.com/lvm-guide/"
+            },
+            {
+              "kind": "article",
+              "title": "A Beginner's Guide to LVM in Linux - It's FOSS",
+              "url": "https://itsfoss.com/lvm-guide/"
+            }
+          ]
+        },
+        {
+          "label": "Starting / Stopping Services",
+          "type": "subtopic",
+          "description": "Linux service management controls system services like firewall, network, and database using `systemctl` commands. Basic operations: `sudo systemctl start service_name` (start), `sudo systemctl stop service_name` (stop), `sudo systemctl restart service_name` (restart). Root permissions required. Essential for system administrators managing updates and configuration changes.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Service Management in Linux: A Comprehensive Guide",
+              "url": "https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9"
+            },
+            {
+              "kind": "article",
+              "title": "How to Master Linux Service Management with Systemctl",
+              "url": "https://labex.io/tutorials/linux-how-to-master-linux-service-management-with-systemctl-392864"
+            },
+            {
+              "kind": "article",
+              "title": "How to Manage Services in Linux: systemd and SysVinit",
+              "url": "https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop"
+            }
+          ]
+        },
+        {
+          "label": "Adding Disks",
+          "type": "subtopic",
+          "description": "Adding disks in Linux involves partitioning, creating filesystems, and mounting. Use `lsblk` to list devices, `fdisk /dev/sdX` to create partitions, `mkfs.ext4 /dev/sdX1` to create filesystems, and `mount /dev/sdX1 /mount/point` to mount. This process prepares new storage devices for seamless integration into the Linux filesystem hierarchy.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "How to Add a New Disk",
+              "url": "https://linuxconfig.org/how-to-add-new-disk-to-existing-linux-system"
+            },
+            {
+              "kind": "article",
+              "title": "How to Add a New Disk to an Existing Linux Server",
+              "url": "https://www.tecmint.com/add-new-disk-to-an-existing-linux/"
+            }
+          ]
+        },
+        {
+          "label": "Swap",
+          "type": "subtopic",
+          "description": "Swap space extends physical memory by using disk storage when RAM is full. Inactive memory pages move to swap, freeing RAM but with performance impact due to slower disk access. Swap can exist as dedicated partitions or regular files. Create with `fallocate`, `mkswap`, and `swapon` commands. Critical for memory management and system stability optimization.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Swap - Arch Wiki",
+              "url": "https://wiki.archlinux.org/title/Swap"
+            },
+            {
+              "kind": "article",
+              "title": "How to Increase Swap Space on Linux",
+              "url": "https://linuxconfig.org/how-to-increase-swap-space-on-linux"
+            }
+          ]
+        },
+        {
+          "label": "Checking Service Status",
+          "type": "subtopic",
+          "description": "systemctl status service-name gives a real-time snapshot of a service: whether it's active, inactive, or failed; its process ID; recent log lines; and any error messages from the last run. For a quick boolean check, systemctl is-active and systemctl is-enabled return simple values suitable for use in scripts. The enabled/disabled state indicates whether the service is configured to start automatically at boot, separate from whether it's currently running.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Checking the Status of a Service Without Having an Exact Name",
+              "url": "https://www.baeldung.com/linux/initialization-managers-service-status"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Package Management",
+      "resources": [
+        {
+          "kind": "official",
+          "title": "APT Package Manager",
+          "url": "https://www.debian.org/doc/manuals/apt-guide/index.en.html"
+        },
+        {
+          "kind": "official",
+          "title": "Yum Package Manager",
+          "url": "http://yum.baseurl.org/"
+        },
+        {
+          "kind": "official",
+          "title": "Using the DNF Software Package Manager",
+          "url": "https://docs.fedoraproject.org/en-US/quick-docs/dnf/"
+        },
+        {
+          "kind": "article",
+          "title": "Linux Package Manager Explained",
+          "url": "https://geekflare.com/dev/linux-package-manager-explained/"
+        },
+        {
+          "kind": "article",
+          "title": "8 Best Package Manager for Linux",
+          "url": "https://linuxsimply.com/linux-basics/package-management/best-package-manager/"
+        },
+        {
+          "kind": "article",
+          "title": "Software Installation on Linux",
+          "url": "https://labex.io/tutorials/linux-software-installation-on-linux-18005"
+        }
+      ],
+      "items": []
+    },
+    {
+      "section": "Disks and Filesystems",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "Partitions And Filesystems In Linux - Introduction",
+          "url": "https://www.linuxfordevices.com/tutorials/linux/partitions-and-filesystems"
+        },
+        {
+          "kind": "article",
+          "title": "Overview of File System Hierarchy Standard (FHS)",
+          "url": "https://access.redhat.com/documentation/ru-ru/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr"
+        },
+        {
+          "kind": "article",
+          "title": "Understanding Linux Filesystems: Inodes, Block Sizes, and Data",
+          "url": "https://www.linuxjournal.com/content/understanding-linux-filesystems-inodes-block-sizes-and-data-structures"
+        }
+      ],
+      "items": [
+        {
+          "label": "Package Repositories",
+          "type": "subtopic",
+          "description": "Repositories are storage locations containing collections of software packages for Linux distributions. They store thousands of compiled packages specific to each distribution (.deb for Debian/Ubuntu, .rpm for Fedora/CentOS). Repositories ensure secure, tested software with proper dependencies. Update commands: `sudo apt update` (Ubuntu), `sudo yum update` (CentOS/Fedora). Essential for secure software management.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "APT Package Manager",
+              "url": "https://www.debian.org/doc/manuals/apt-guide/index.en.html"
+            },
+            {
+              "kind": "article",
+              "title": "What is Repository in Linux?",
+              "url": "https://linuxsimply.com/what-is-repository-in-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "Official Repositories - ArchWiki",
+              "url": "https://wiki.archlinux.org/title/Official_repositories"
+            }
+          ]
+        },
+        {
+          "label": "Snap",
+          "type": "subtopic",
+          "description": "Snap is a modern Linux package management system by Canonical providing self-contained packages with all dependencies included. Snaps run consistently across different Linux distributions, install from Snapcraft store, and update automatically. Updates are transactional with automatic rollback on failure. Install packages using `sudo snap install [package-name]` command.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "The \"snap\" Command in Linux",
+              "url": "https://linuxsimply.com/snap-command-in-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "How to Install and Use Snap in Various Linux Distributions",
+              "url": "https://itsfoss.com/install-snap-linux/"
+            }
+          ]
+        },
+        {
+          "label": "Logs",
+          "type": "subtopic",
+          "description": "Linux maintains logs documenting system activities, errors, and kernel messages. Boot logs record all operations during system startup for troubleshooting. Use `dmesg` to view kernel ring buffer messages in real-time, or access logs in `/var/log`. Systemd uses `journalctl` for logging. Log levels range from emergency (system unusable) to debug messages.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "How to Use journalctl Command to Analyze Logs in Linux",
+              "url": "https://linuxhandbook.com/journalctl-command/"
+            },
+            {
+              "kind": "article",
+              "title": "How to Check System Logs on Linux",
+              "url": "https://www.fosslinux.com/8984/how-to-check-system-logs-on-linux-complete-usage-guide.htm"
+            },
+            {
+              "kind": "article",
+              "title": "What is dmesg in Linux, And How Do I Use It?",
+              "url": "https://linuxconfig.org/what-is-dmesg-and-how-do-i-use-it"
+            }
+          ]
+        },
+        {
+          "label": "Finding & Installing Packages",
+          "type": "subtopic",
+          "description": "Linux package managers like `apt`, `yum`, and `dnf` automate software installation, upgrading, configuring, and removal. Debian-based systems: `sudo apt-get update && sudo apt-get install package-name`. Fedora/CentOS: `sudo dnf update && sudo dnf install package-name`. Package management eliminates manual compilation from source code. Root permissions required for installation.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "APT Package Manager",
+              "url": "https://www.debian.org/doc/manuals/apt-guide/index.en.html"
+            },
+            {
+              "kind": "official",
+              "title": "Yum Package Manager",
+              "url": "http://yum.baseurl.org/"
+            },
+            {
+              "kind": "official",
+              "title": "Using the DNF Software Package Manager",
+              "url": "https://docs.fedoraproject.org/en-US/quick-docs/dnf/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Package Manager Explained",
+              "url": "https://geekflare.com/dev/linux-package-manager-explained/"
+            },
+            {
+              "kind": "article",
+              "title": "8 Best Package Manager for Linux",
+              "url": "https://linuxsimply.com/linux-basics/package-management/best-package-manager/"
+            }
+          ]
+        },
+        {
+          "label": "Boot Loaders",
+          "type": "subtopic",
+          "description": "Boot loaders load the OS kernel into memory when systems start. Common Linux boot loaders include GRUB (modern, feature-rich with graphical interface) and LILO (older, broader hardware support). Boot loaders initialize hardware, load drivers, start schedulers, and execute init processes. Use `sudo update-grub` to update GRUB configuration. Enable multi-OS booting on single machines.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "The GNU GRUB",
+              "url": "https://www.gnu.org/software/grub/"
+            },
+            {
+              "kind": "article",
+              "title": "Bootloader - Archlinux wiki",
+              "url": "https://wiki.archlinux.org/title/Arch_boot_process#Boot_loader"
+            },
+            {
+              "kind": "article",
+              "title": "Most Popular Linux Boot Loaders",
+              "url": "https://thelinuxcode.com/what-is-a-boot-loader/"
+            },
+            {
+              "kind": "article",
+              "title": "GRUB Bootloader in Linux",
+              "url": "https://phoenixnap.com/kb/what-is-grub"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Booting Linux",
+      "resources": [
+        {
+          "kind": "official",
+          "title": "The GNU GRUB",
+          "url": "https://www.gnu.org/software/grub/"
+        },
+        {
+          "kind": "article",
+          "title": "Booting process of Linux - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Booting_process_of_Linux"
+        },
+        {
+          "kind": "article",
+          "title": "The Linux Booting Process",
+          "url": "https://thelinuxcode.com/the-linux-booting-process-6-steps-described-in-detail/"
+        }
+      ],
+      "items": [
+        {
+          "label": "Listing Installed Packages",
+          "type": "subtopic",
+          "description": "Linux distributions use different package managers: `apt` (Debian-based), `dnf` (Fedora), `zypper` (OpenSUSE), `pacman` (Arch). Listing installed packages helps with auditing software and deployment automation. Commands: `sudo apt list --installed` for apt systems, `dnf list installed` for dnf systems. Each distribution has its own syntax for this command.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "APT Package Manager",
+              "url": "https://www.debian.org/doc/manuals/apt-guide/index.en.html"
+            },
+            {
+              "kind": "article",
+              "title": "5 ways to list installed packages in Linux",
+              "url": "https://www.howtouselinux.com/post/list-installed-packages-in-linux"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Package Manager Explained",
+              "url": "https://geekflare.com/dev/linux-package-manager-explained/"
+            }
+          ]
+        },
+        {
+          "label": "TCP/IP Stack",
+          "type": "subtopic",
+          "description": "TCP/IP (Transmission Control Protocol/Internet Protocol) forms the backbone of internet communication, allowing computers to connect and transfer data. It comprises four layers: Network Interface, Internet, Transport, and Application. Essential for Linux networking, enabling hosts to interact across networks. Use `netstat -at` to view active TCP/IP connections. Crucial for network management and troubleshooting.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "TCP/IP Commands for Linux",
+              "url": "https://whatismyipaddress.com/tcp-ip-commands-linux"
+            },
+            {
+              "kind": "article",
+              "title": "Netstat Command in Linux",
+              "url": "https://phoenixnap.com/kb/netstat-command"
+            },
+            {
+              "kind": "article",
+              "title": "Netstat Command in Linux: 13 Practical Examples",
+              "url": "https://linuxhandbook.com/netstat-command/"
+            }
+          ]
+        },
+        {
+          "label": "Install / Remove / Upgrade Packages",
+          "type": "subtopic",
+          "description": "Linux package management handles installing, removing, and upgrading pre-compiled software modules. Different distributions use specific package managers: `apt` (Debian/Ubuntu), `yum`/`dnf` (Fedora/RHEL/CentOS), `zypper` (SUSE). Example installation: `sudo apt-get install packagename`. Each manager has specific commands for removal and upgrades. Critical skill for effective Linux system administration.",
+          "resources": []
+        },
+        {
+          "label": "Subnetting",
+          "type": "subtopic",
+          "description": "Subnetting divides networks into smaller subnets to improve performance and security in Linux networking. It organizes IP addresses within IP addressing schemes, preventing conflicts and efficiently utilizing address ranges. Use `route -n` to view routing tables and `route add -net xxx.xxx.xxx.x/xx gw yyy.yyy.yyy.y` to add subnets. Essential for complex networking environments.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Understanding IP Addressing and Subnetting in Linux",
+              "url": "https://useful.codes/understanding-ip-addressing-and-subnetting-in-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "The Basics of IP Subnetting | Linux Journal",
+              "url": "https://www.linuxjournal.com/article/6287"
+            },
+            {
+              "kind": "article",
+              "title": "How to Find Subnet Mask in Linux",
+              "url": "https://www.howtouselinux.com/post/find-subnet-mask-on-linux"
+            }
+          ]
+        },
+        {
+          "label": "Ethernet & arp/rarp",
+          "type": "subtopic",
+          "description": "Three crucial Linux networking components: Ethernet enables LAN device communication, ARP (Address Resolution Protocol) translates IP addresses to MAC addresses for direct network communication, and RARP (Reverse ARP) converts MAC addresses to IP addresses when devices know their MAC but need their IP. Essential for diagnosing and managing Linux networking issues.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "A Comprehensive guide to Linux Networking",
+              "url": "https://centlinux.com/linux-networking/"
+            },
+            {
+              "kind": "article",
+              "title": "A Beginner's Guide to Linux Networking Fundamentals",
+              "url": "https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o"
+            },
+            {
+              "kind": "video",
+              "title": "ARP Explained - Address Resolution Protocol",
+              "url": "https://www.youtube.com/watch?v=cn8Zxh9bPio"
+            },
+            {
+              "kind": "video",
+              "title": "What is Ethernet?",
+              "url": "https://www.youtube.com/watch?v=HLziLmaYsO0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Networking",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "A Comprehensive Guide to Linux Networking",
+          "url": "https://centlinux.com/linux-networking/"
+        },
+        {
+          "kind": "article",
+          "title": "A Beginner's Guide to Linux Networking Fundamentals",
+          "url": "https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o"
+        },
+        {
+          "kind": "article",
+          "title": "Practice on Networking Fundamentals",
+          "url": "https://linuxjourney.com/lesson/network-basics"
+        }
+      ],
+      "items": [
+        {
+          "label": "Literals",
+          "type": "subtopic",
+          "description": "Shell literals are fixed values in source code including string literals (enclosed in quotes), numeric literals (sequences of digits), and boolean literals (1=true, 0=false). String examples: 'Hello, world!' or \"Hello, world!\". Numeric examples: 25, 100, 1234. Understanding literals is fundamental for shell scripting readability and functionality in Linux programming.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Bash Tutorial - Quoting literal text",
+              "url": "https://riptutorial.com/bash/example/2465/quoting-literal-text"
+            },
+            {
+              "kind": "article",
+              "title": "Handling Special Characters in Shell Scripts",
+              "url": "https://www.baeldung.com/linux/special-characters-in-shell-scripts"
+            }
+          ]
+        },
+        {
+          "label": "Variables",
+          "type": "subtopic",
+          "description": "Shell variables store system or user-defined data that can change during script execution. Two categories exist: System Variables (PATH, HOME, PWD) created by Linux, and User-Defined Variables created by users. Define variables with `=` operator and retrieve values with `$` prefix. Example: `MY_VARIABLE=\"Hello World\"` then `echo $MY_VARIABLE` prints the value.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Learning The Shell",
+              "url": "https://www.linuxcommand.org/lc3_lts0010.php"
+            },
+            {
+              "kind": "article",
+              "title": "How to Use Variables in Bash Shell Scripts",
+              "url": "https://linuxhandbook.com/bash-variables/"
+            },
+            {
+              "kind": "article",
+              "title": "How To Read and Set Environmental and Shell Variables",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-linux"
+            }
+          ]
+        },
+        {
+          "label": "DHCP",
+          "type": "subtopic",
+          "description": "DHCP (Dynamic Host Configuration Protocol) automatically allocates IP addresses and network configuration to clients, ensuring unique addresses for each machine. In Linux, install with `sudo apt-get install isc-dhcp-server` and configure via `/etc/dhcp/dhcpd.conf`. DHCP servers require static IPs for effective management and can handle DNS and network data. The DHCP server effectively manages the IP addresses and information related to them, making sure that each client machine gets a unique IP and all the correct network information.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Dynamic Host Configuration Protocol - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol"
+            },
+            {
+              "kind": "article",
+              "title": "DHCP Protocol: How Dynamic Host Configuration Protocol Works",
+              "url": "https://network-guides.com/dhcp-protocol/"
+            }
+          ]
+        },
+        {
+          "label": "IP Routing",
+          "type": "subtopic",
+          "description": "IP routing in Linux involves configuring routing tables and network routes for packet forwarding across networks. The kernel handles route selection to send packets to their destinations. Use the `ip` command (replacing deprecated `ifconfig`) for network configuration. Example: `ip route show` displays all kernel-known routes for network troubleshooting and management.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Linux Set Up Routing with ip Command",
+              "url": "https://www.cyberciti.biz/faq/howto-linux-configuring-default-route-with-ipcommand/"
+            },
+            {
+              "kind": "article",
+              "title": "Linux Networking: A Simplified Guide to IP Addresses",
+              "url": "https://www.linuxjournal.com/content/linux-networking-simplified-guide-ip-addresses-and-routing"
+            }
+          ]
+        },
+        {
+          "label": "Loops",
+          "type": "subtopic",
+          "description": "Shell loops automate repetitive tasks with three types: `for` (iterates over lists), `while` (executes while condition true), `until` (runs until condition true). Example: `for i in 1 2 3; do echo \"$i\"; done` outputs each number. Essential for script efficiency, automation, and effective Linux shell programming.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Using For, While and Until Loops in Bash",
+              "url": "https://linuxhandbook.com/bash-loops/"
+            },
+            {
+              "kind": "article",
+              "title": "Bash Loops with examples",
+              "url": "https://linuxconfig.org/bash-loops-with-examples"
+            }
+          ]
+        },
+        {
+          "label": "Conditionals",
+          "type": "subtopic",
+          "description": "Shell conditionals allow scripts to make decisions based on conditions using `if`, `elif`, and `else` statements. These control process flow by evaluating string variables, arithmetic tests, or process status. Conditions are checked sequentially - if true, the corresponding code block executes; otherwise, it moves to the next condition until finding a match or reaching `else`.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Bash Scripting: Conditionals",
+              "url": "https://linuxconfig.org/bash-scripting-conditionals"
+            }
+          ]
+        },
+        {
+          "label": "DNS Resolution",
+          "type": "subtopic",
+          "description": "DNS (Domain Name System) converts hostnames to IP addresses, enabling users to access websites without remembering numeric addresses. Linux systems use `/etc/resolv.conf` to configure DNS resolution. Applications consult the DNS resolver, which communicates with DNS servers for address translation. Use `nslookup` or `dig` commands to query DNS and troubleshoot network connectivity issues.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Setup DNS Resolution With \"resolv.conf\" in Examples",
+              "url": "https://www.shellhacks.com/setup-dns-resolution-resolvconf-example/"
+            },
+            {
+              "kind": "article",
+              "title": "DNS Resolution",
+              "url": "https://wiki.archlinux.org/title/Domain_name_resolution"
+            },
+            {
+              "kind": "article",
+              "title": "nslookup command",
+              "url": "https://linuxconfig.org/nslookup-linux-command"
+            },
+            {
+              "kind": "article",
+              "title": "dig command",
+              "url": "https://linuxhandbook.com/dig-command/"
+            }
+          ]
+        },
+        {
+          "label": "Debugging",
+          "type": "subtopic",
+          "description": "Shell script debugging in Linux uses tools like bash's `-x` option for execution traces, `trap`, `set` commands, and external tools like `shellcheck`. Use `#!/bin/bash -x` in scripts or `bash -x script.sh` from command line for tracing. These debugging options help detect, trace, and fix errors to make scripts more efficient and error-proof.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "How To Debug a Bash Shell Script Under Linux or UNIX",
+              "url": "https://www.cyberciti.biz/tips/debugging-shell-script.html"
+            },
+            {
+              "kind": "article",
+              "title": "How to Debug a Bash Shell Script in Linux",
+              "url": "https://www.linuxtechi.com/debugging-shell-scripts-in-linux/"
+            },
+            {
+              "kind": "article",
+              "title": "How to Debug Bash Scripts",
+              "url": "https://thelinuxcode.com/debug-bash-script/"
+            }
+          ]
+        },
+        {
+          "label": "Netfilter",
+          "type": "subtopic",
+          "description": "Netfilter is a Linux kernel framework for manipulating and filtering network packets with hooks at various stages (pre-routing, input, forward, output, post-routing). Used for firewalls and NAT management with iptables configuration. Essential for traffic control, packet modification, logging, and intrusion detection in Linux networking systems.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "netfilter/iptables project homepage",
+              "url": "https://netfilter.org/"
+            },
+            {
+              "kind": "article",
+              "title": "Packet filtering in Linux - iptables, nftables and firewalld",
+              "url": "https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/"
+            }
+          ]
+        },
+        {
+          "label": "SSH",
+          "type": "subtopic",
+          "description": "SSH (Secure Shell) is a cryptographic network protocol providing secure remote access, command execution, and data communication between networked computers. Replaces insecure protocols like Telnet with confidentiality, integrity, and security. Use `ssh username@server_ip_address` to connect to remote Linux servers. Essential for secure system administration and remote management.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Secure Shell",
+              "url": "https://en.wikipedia.org/wiki/Secure_Shell"
+            },
+            {
+              "kind": "article",
+              "title": "Mastering SSH - A Complete Guide to Secure Shell Protocol",
+              "url": "https://www.socketxp.com/iot/ssh-secure-shell/"
+            },
+            {
+              "kind": "article",
+              "title": "What is SSH? | Secure Shell (SSH) Protocol - Cloudflare",
+              "url": "https://www.cloudflare.com/learning/access-management/what-is-ssh/"
+            }
+          ]
+        },
+        {
+          "label": "File Transfer",
+          "type": "subtopic",
+          "description": "Linux file transfer involves copying or moving files between systems over networks. Command-line tools support protocols like FTP, HTTP, SCP, SFTP, and NFS. Common commands include `scp`, `rsync`, and `wget`. Example: `scp /local/file username@remote:/destination` copies files to remote systems. These tools make network file sharing streamlined, easier, and more secure.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "How to Use Linux FTP Command to Transfer Files",
+              "url": "https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/"
+            },
+            {
+              "kind": "article",
+              "title": "Rsync Command in Linux with Examples",
+              "url": "https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/"
+            },
+            {
+              "kind": "article",
+              "title": "Using scp Command in Linux",
+              "url": "https://linuxhandbook.com/scp-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Wget Command in Linux with Examples",
+              "url": "https://linuxize.com/post/wget-command-examples/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Shell Programming",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "Learn Shell - Free Interactive Shell Tutorial",
+          "url": "https://www.learnshell.org/"
+        },
+        {
+          "kind": "article",
+          "title": "Bash Scripting Tutorial Series for Beginners",
+          "url": "https://linuxhandbook.com/bash/"
+        },
+        {
+          "kind": "article",
+          "title": "Linux Bash Shell Scripting Tutorial Wiki",
+          "url": "https://bash.cyberciti.biz/guide/Main_Page"
+        },
+        {
+          "kind": "video",
+          "title": "Bash Scripting on Linux - YT Playlist",
+          "url": "https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&si=MSehStqnhSqgoMSj"
+        }
+      ],
+      "items": [
+        {
+          "label": "ICMP",
+          "type": "subtopic",
+          "description": "Internet Control Message Protocol (ICMP) is a supportive protocol used by network devices to communicate error messages and operational information. Essential for Linux network troubleshooting, ICMP enables tools like `ping` and `traceroute` to diagnose network connectivity and routing issues. Use `ping www.google.com` to send ICMP echo requests and test network reachability effectively.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "icmp(7) \u2014 Linux manual page",
+              "url": "https://www.man7.org/linux/man-pages/man7/icmp.7.html"
+            },
+            {
+              "kind": "article",
+              "title": "Understanding ICMP Packets with Examples",
+              "url": "https://www.howtouselinux.com/post/icmp-packets"
+            }
+          ]
+        },
+        {
+          "label": "ping",
+          "type": "subtopic",
+          "description": "The `ping` command is essential for Linux network troubleshooting, checking connectivity between your host and target machines. It sends ICMP ECHO\\_REQUEST packets and listens for ECHO\\_RESPONSE returns, providing insights into connection health and speed. Use `ping <target IP or hostname>` to diagnose network connectivity issues and identify reachability problems efficiently.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Ping Command in Linux",
+              "url": "https://linuxize.com/post/linux-ping-command/"
+            },
+            {
+              "kind": "article",
+              "title": "Ping Command Examples in Linux - It's FOSS",
+              "url": "https://itsfoss.com/ping-command/"
+            }
+          ]
+        },
+        {
+          "label": "ulimits",
+          "type": "subtopic",
+          "description": "Ulimits (user limits) are Linux kernel features that restrict resources like file handles and memory that processes can consume. In containerization, ulimits prevent rogue processes from exhausting server resources and creating denial-of-service situations. Use `ulimit -a` to view current limits and `ulimit -n 1024` to set specific limits for optimal container performance and security.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Check and set user limits with ulimit Linux command",
+              "url": "https://linuxconfig.org/limit-user-environment-with-ulimit-linux-command"
+            },
+            {
+              "kind": "article",
+              "title": "How to Use Ulimit Command in Linux",
+              "url": "https://linuxhandbook.com/ulimit-command/"
+            },
+            {
+              "kind": "article",
+              "title": "10 Linux Troubleshooting Tips",
+              "url": "https://www.dummies.com/article/technology/computers/operating-systems/linux/10-linux-troubleshooting-tips-274301/"
+            }
+          ]
+        },
+        {
+          "label": "cgroups",
+          "type": "subtopic",
+          "description": "Cgroups (control groups) are a Linux kernel feature that organizes processes into hierarchical groups and limits their resource usage (CPU, memory, disk I/O). Essential for containerization, cgroups prevent containers from monopolizing host resources, ensuring system stability and performance. Use `cgcreate` to create groups, assign processes, and set resource limits effectively.",
+          "resources": [
+            {
+              "kind": "official",
+              "title": "Control Groups \u2014 The Linux Kernel",
+              "url": "https://docs.kernel.org/admin-guide/cgroup-v1/"
+            },
+            {
+              "kind": "article",
+              "title": "cgroups \u2014 Linux manual page",
+              "url": "https://www.man7.org/linux/man-pages/man7/cgroups.7.html"
+            },
+            {
+              "kind": "article",
+              "title": "Introduction to Control Groups (Cgroups)",
+              "url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/resource_management_guide/chap-introduction_to_control_groups"
+            }
+          ]
+        },
+        {
+          "label": "traceroute",
+          "type": "subtopic",
+          "description": "Traceroute is a Linux network diagnostic tool that displays the path packets take from your system to a destination. It identifies routing problems, measures latency, and reveals network structure as packets traverse the internet. Each hop is tested multiple times with round-trip times displayed. Use `traceroute www.example.com` to discover packet routes and diagnose failures.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "traceroute Command Examples in Linux",
+              "url": "https://linuxhandbook.com/traceroute/"
+            },
+            {
+              "kind": "article",
+              "title": "How to Use the traceroute Command on Linux",
+              "url": "https://www.howtogeek.com/657780/how-to-use-the-traceroute-command-on-linux/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Troubleshooting",
+      "resources": [
+        {
+          "kind": "article",
+          "title": "Troubleshooting Linux Problems: A Beginner's Guide",
+          "url": "https://learn.redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-p/36236"
+        },
+        {
+          "kind": "article",
+          "title": "Linux Top 20 Important Commands for Monitoring and Troubleshooting",
+          "url": "https://medium.com/@stepstodevops/linux-top-20-important-commands-for-monitoring-and-troubleshooting-a-comprehensive-guide-for-cd5aaa37da17"
+        },
+        {
+          "kind": "article",
+          "title": "10 Linux Troubleshooting Tips - dummies",
+          "url": "https://www.dummies.com/article/technology/computers/operating-systems/linux/10-linux-troubleshooting-tips-274301/"
+        }
+      ],
+      "items": [
+        {
+          "label": "Container Runtime",
+          "type": "subtopic",
+          "description": "Container runtime is software responsible for running containers in Linux, providing image transport, storage, execution, and network interactions. Popular options include Docker (comprehensive ecosystem), Containerd (lightweight standalone), and CRI-O (Kubernetes-optimized). Each runtime offers specific features and benefits for different use cases in containerized application deployment and management.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Container Runtimes",
+              "url": "https://kubernetes.io/docs/setup/production-environment/container-runtimes/"
+            },
+            {
+              "kind": "article",
+              "title": "What are Container Runtimes? Types and Popular Runtime",
+              "url": "https://www.wiz.io/academy/container-runtimes"
+            },
+            {
+              "kind": "article",
+              "title": "What are container runtimes?",
+              "url": "https://opensource.com/article/21/9/container-runtimes"
+            }
+          ]
+        },
+        {
+          "label": "netstat",
+          "type": "subtopic",
+          "description": "Netstat is a command-line tool for network troubleshooting and performance measurement in Linux. It provides network statistics, open ports, routing table information, and protocol details. Use options like `-n` for numerical addresses, `-c` for continuous monitoring, and `-t`/`-u` for specific protocols. Example: `netstat -n` lists all connections with numerical values.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "Netstat Command in Linux",
+              "url": "https://linuxhandbook.com/netstat-command/"
+            },
+            {
+              "kind": "article",
+              "title": "How to Use netstat on Linux",
+              "url": "https://www.howtogeek.com/513003/how-to-use-netstat-on-linux/"
+            }
+          ]
+        },
+        {
+          "label": "Docker",
+          "type": "subtopic",
+          "description": "Docker is an open-source containerization platform that uses OS-level virtualization to package applications with dependencies into lightweight containers. In Linux, Docker containers share the kernel and use features like namespaces and cgroups for isolation. This provides less overhead than traditional VMs while enabling consistent deployment across environments.",
+          "resources": [
+            {
+              "kind": "roadmap",
+              "title": "Visit Dedicated Docker Roadmap",
+              "url": "https://roadmap.sh/docker"
+            },
+            {
+              "kind": "official",
+              "title": "Docker",
+              "url": "https://docker.com"
+            },
+            {
+              "kind": "official",
+              "title": "Docker Documentation",
+              "url": "https://docs.docker.com/"
+            },
+            {
+              "kind": "article",
+              "title": "How To Install and Use Docker on Ubuntu",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04"
+            }
+          ]
+        },
+        {
+          "label": "Packet Analysis",
+          "type": "subtopic",
+          "description": "Packet analysis is a key Linux network troubleshooting skill involving capturing and analyzing network traffic to identify performance issues, connectivity problems, and security vulnerabilities. Tools like tcpdump and Wireshark provide packet-level details for network diagnostics. Use `sudo tcpdump -i eth0` to capture packets on the eth0 interface for debugging network protocols.",
+          "resources": [
+            {
+              "kind": "article",
+              "title": "How to Capture and Analyze Packets with tcpdump",
+              "url": "https://www.debian.org/doc/manuals/apt-guide/index.en.html"
+            },
+            {
+              "kind": "article",
+              "title": "Mastering Network Traffic Analysis in Linux",
+              "url": "https://en.ittrip.xyz/linux/linux-network-analysis"
+            },
+            {
+              "kind": "article",
+              "title": "16 Best Free and Open Source Network Analyzers",
+              "url": "https://www.linuxlinks.com/best-free-open-source-network-analyzers/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Containerization",
+      "resources": [
+        {
+          "kind": "official",
+          "title": "Docker",
+          "url": "https://docker.com"
+        },
+        {
+          "kind": "official",
+          "title": "Kubernetes",
+          "url": "https://kubernetes.io"
+        },
+        {
+          "kind": "article",
+          "title": "What is Containerization? - Containerization Explained - AWS",
+          "url": "https://aws.amazon.com/what-is/containerization/"
+        },
+        {
+          "kind": "article",
+          "title": "What is Containerization? - DigitalOcean",
+          "url": "https://www.digitalocean.com/resources/articles/what-is-containerization"
+        }
+      ],
+      "items": []
+    }
+  ],
+  "unique_links": [
+    {
+      "kind": "article",
+      "title": "How to Add a New Disk",
+      "url": "https://linuxconfig.org/how-to-add-new-disk-to-existing-linux-system",
+      "topic": "Adding Disks",
+      "node_id": "4xBaZPk0eSsWG1vK3e2yW"
+    },
+    {
+      "kind": "article",
+      "title": "How to Add a New Disk to an Existing Linux Server",
+      "url": "https://www.tecmint.com/add-new-disk-to-an-existing-linux/",
+      "topic": "Adding Disks",
+      "node_id": "4xBaZPk0eSsWG1vK3e2yW"
+    },
+    {
+      "kind": "article",
+      "title": "Linux File Packaging and Compression",
+      "url": "https://labex.io/tutorials/linux-file-packaging-and-compression-385413",
+      "topic": "Archiving and Compressing",
+      "node_id": "iD073xTmpzvQFfXwcwXcY"
+    },
+    {
+      "kind": "article",
+      "title": "Monitoring Linux Authentication Logs",
+      "url": "https://betterstack.com/community/guides/logging/monitoring-linux-auth-logs/",
+      "topic": "Authentication Logs",
+      "node_id": "WwybfdKuP9ogCGpT7d3NU"
+    },
+    {
+      "kind": "article",
+      "title": "How to Check Linux Login History - Linux Handbook",
+      "url": "https://linuxhandbook.com/linux-login-history/",
+      "topic": "Authentication Logs",
+      "node_id": "WwybfdKuP9ogCGpT7d3NU"
+    },
+    {
+      "kind": "article",
+      "title": "5 Best Ways To Check Available Memory In Linux",
+      "url": "https://itslinuxfoss.com/5-ways-check-available-memory-linux/",
+      "topic": "Available Memory and Disk",
+      "node_id": "tx0nh6cbBjVxwNlyrBNYm"
+    },
+    {
+      "kind": "article",
+      "title": "Free vs. Available Memory in Linux",
+      "url": "https://linuxblog.io/free-vs-available-memory-in-linux/",
+      "topic": "Available Memory and Disk",
+      "node_id": "tx0nh6cbBjVxwNlyrBNYm"
+    },
+    {
+      "kind": "article",
+      "title": "IBM.com: Awk by Example",
+      "url": "https://developer.ibm.com/tutorials/l-awk1/",
+      "topic": "AWK",
+      "node_id": "QTmECqpRVMjNgQU70uCF8"
+    },
+    {
+      "kind": "article",
+      "title": "AWK Tutorial",
+      "url": "https://linuxhandbook.com/awk-command-tutorial/",
+      "topic": "AWK",
+      "node_id": "QTmECqpRVMjNgQU70uCF8"
+    },
+    {
+      "kind": "article",
+      "title": "Linux awk Command: Text Processing",
+      "url": "https://labex.io/tutorials/linux-linux-awk-command-text-processing-388493",
+      "topic": "AWK",
+      "node_id": "QTmECqpRVMjNgQU70uCF8"
+    },
+    {
+      "kind": "video",
+      "title": "Learning Awk Is Essential For Linux Users",
+      "url": "https://www.youtube.com/watch?v=9YOZmI-zWok",
+      "topic": "AWK",
+      "node_id": "QTmECqpRVMjNgQU70uCF8"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding Foreground and Background Processes",
+      "url": "https://linuxconfig.org/understanding-foreground-and-background-linux-processes",
+      "topic": "Background and Foreground Processes",
+      "node_id": "mUKoiGUTpIaUgQNF3BND_"
+    },
+    {
+      "kind": "article",
+      "title": "Running Linux Commands in Background and Foreground",
+      "url": "https://linuxhandbook.com/run-process-background/",
+      "topic": "Background and Foreground Processes",
+      "node_id": "mUKoiGUTpIaUgQNF3BND_"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Filesystem Navigation Basics",
+      "url": "https://linuxconfig.org/filesystem-basics",
+      "topic": "Navigation Basics",
+      "node_id": "y7KjVfSI6CAduyHd4mBFT"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Navigation and File Management",
+      "url": "https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management",
+      "topic": "Linux Navigation Basics: Basic Commands",
+      "node_id": "qLeEEwBvlGt1fP5Qcreah"
+    },
+    {
+      "kind": "article",
+      "title": "Basic Navigation Commands: cd, ls, and pwd",
+      "url": "https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd",
+      "topic": "Navigation Basics",
+      "node_id": "y7KjVfSI6CAduyHd4mBFT"
+    },
+    {
+      "kind": "official",
+      "title": "The GNU GRUB",
+      "url": "https://www.gnu.org/software/grub/",
+      "topic": "Booting Linux",
+      "node_id": "DQEa8LrJ9TVW4ULBE4aHJ"
+    },
+    {
+      "kind": "article",
+      "title": "Bootloader - Archlinux wiki",
+      "url": "https://wiki.archlinux.org/title/Arch_boot_process#Boot_loader",
+      "topic": "Boot Loaders",
+      "node_id": "o5lSQFW-V_PqndGqo1mp3"
+    },
+    {
+      "kind": "article",
+      "title": "Most Popular Linux Boot Loaders",
+      "url": "https://thelinuxcode.com/what-is-a-boot-loader/",
+      "topic": "Boot Loaders",
+      "node_id": "o5lSQFW-V_PqndGqo1mp3"
+    },
+    {
+      "kind": "article",
+      "title": "GRUB Bootloader in Linux",
+      "url": "https://phoenixnap.com/kb/what-is-grub",
+      "topic": "Boot Loaders",
+      "node_id": "o5lSQFW-V_PqndGqo1mp3"
+    },
+    {
+      "kind": "article",
+      "title": "Booting process of Linux - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Booting_process_of_Linux",
+      "topic": "Booting Linux",
+      "node_id": "DQEa8LrJ9TVW4ULBE4aHJ"
+    },
+    {
+      "kind": "article",
+      "title": "The Linux Booting Process",
+      "url": "https://thelinuxcode.com/the-linux-booting-process-6-steps-described-in-detail/",
+      "topic": "Booting Linux",
+      "node_id": "DQEa8LrJ9TVW4ULBE4aHJ"
+    },
+    {
+      "kind": "official",
+      "title": "Control Groups \u2014 The Linux Kernel",
+      "url": "https://docs.kernel.org/admin-guide/cgroup-v1/",
+      "topic": "Cgroups",
+      "node_id": "23lsrUw8ux6ZP9JlDNNu2"
+    },
+    {
+      "kind": "article",
+      "title": "cgroups \u2014 Linux manual page",
+      "url": "https://www.man7.org/linux/man-pages/man7/cgroups.7.html",
+      "topic": "Cgroups",
+      "node_id": "23lsrUw8ux6ZP9JlDNNu2"
+    },
+    {
+      "kind": "article",
+      "title": "Introduction to Control Groups (Cgroups)",
+      "url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/resource_management_guide/chap-introduction_to_control_groups",
+      "topic": "Cgroups",
+      "node_id": "23lsrUw8ux6ZP9JlDNNu2"
+    },
+    {
+      "kind": "article",
+      "title": "Journalctl Explained: How To View And Analyze Systemd Logs.",
+      "url": "https://uptimerobot.com/knowledge-hub/logging/journalctl-explained-how-to-view-and-analyze-systemd-logs/",
+      "topic": "Checking Service Logs",
+      "node_id": "FStz-bftQBK0M6zz2Bxl4"
+    },
+    {
+      "kind": "article",
+      "title": "How To Use journalctl to View and Manipulate systemd Logs on Linux",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs",
+      "topic": "Checking Service Logs",
+      "node_id": "FStz-bftQBK0M6zz2Bxl4"
+    },
+    {
+      "kind": "article",
+      "title": "Checking the Status of a Service Without Having an Exact Name",
+      "url": "https://www.baeldung.com/linux/initialization-managers-service-status",
+      "topic": "Checking Service Status",
+      "node_id": "xk5Xgi797HlVjdZJRfwX1"
+    },
+    {
+      "kind": "opensource",
+      "title": "tldr-pages/tldr",
+      "url": "https://github.com/tldr-pages/tldr",
+      "topic": "Command Help",
+      "node_id": "KaMSsQnJzNqGHg0Oia4uy"
+    },
+    {
+      "kind": "article",
+      "title": "Using the Help Command in Linux",
+      "url": "https://linuxhandbook.com/help-command/",
+      "topic": "Command Help",
+      "node_id": "KaMSsQnJzNqGHg0Oia4uy"
+    },
+    {
+      "kind": "article",
+      "title": "Chapter 10: Getting Help in Linux Terminal",
+      "url": "https://itsfoss.com/linux-command-help/",
+      "topic": "Command Help",
+      "node_id": "KaMSsQnJzNqGHg0Oia4uy"
+    },
+    {
+      "kind": "article",
+      "title": "Get Help on Linux Commands",
+      "url": "https://labex.io/tutorials/linux-get-help-on-linux-commands-18000",
+      "topic": "Command Help",
+      "node_id": "KaMSsQnJzNqGHg0Oia4uy"
+    },
+    {
+      "kind": "article",
+      "title": "Linux path environment variable",
+      "url": "https://linuxconfig.org/linux-path-environment-variable",
+      "topic": "Command Path in Shell",
+      "node_id": "moGMHNR58wFlzhS7je1wc"
+    },
+    {
+      "kind": "article",
+      "title": "How to find a path of a Linux command like a pro",
+      "url": "https://www.cyberciti.biz/howto/finding-a-path-of-a-linux-command-like-a-pro/",
+      "topic": "Command Path in Shell",
+      "node_id": "moGMHNR58wFlzhS7je1wc"
+    },
+    {
+      "kind": "article",
+      "title": "Bash Scripting: Conditionals",
+      "url": "https://linuxconfig.org/bash-scripting-conditionals",
+      "topic": "Conditionals",
+      "node_id": "rQxfp7UWqN72iqewZhOdc"
+    },
+    {
+      "kind": "article",
+      "title": "Container Runtimes",
+      "url": "https://kubernetes.io/docs/setup/production-environment/container-runtimes/",
+      "topic": "Container Runtime",
+      "node_id": "bVCwRoFsYb3HD8X4xuKOo"
+    },
+    {
+      "kind": "article",
+      "title": "What are Container Runtimes? Types and Popular Runtime",
+      "url": "https://www.wiz.io/academy/container-runtimes",
+      "topic": "Container Runtime",
+      "node_id": "bVCwRoFsYb3HD8X4xuKOo"
+    },
+    {
+      "kind": "article",
+      "title": "What are container runtimes?",
+      "url": "https://opensource.com/article/21/9/container-runtimes",
+      "topic": "Container Runtime",
+      "node_id": "bVCwRoFsYb3HD8X4xuKOo"
+    },
+    {
+      "kind": "official",
+      "title": "Docker",
+      "url": "https://docker.com",
+      "topic": "Docker",
+      "node_id": "MfengY3ouz6sSOx3PXYf8"
+    },
+    {
+      "kind": "official",
+      "title": "Kubernetes",
+      "url": "https://kubernetes.io",
+      "topic": "Containerization",
+      "node_id": "3OpGaQhyNtk1n1MLp-tlb"
+    },
+    {
+      "kind": "article",
+      "title": "What is Containerization? - Containerization Explained - AWS",
+      "url": "https://aws.amazon.com/what-is/containerization/",
+      "topic": "Containerization",
+      "node_id": "3OpGaQhyNtk1n1MLp-tlb"
+    },
+    {
+      "kind": "article",
+      "title": "What is Containerization? - DigitalOcean",
+      "url": "https://www.digitalocean.com/resources/articles/what-is-containerization",
+      "topic": "Containerization",
+      "node_id": "3OpGaQhyNtk1n1MLp-tlb"
+    },
+    {
+      "kind": "article",
+      "title": "mv and cp - Linux.org",
+      "url": "https://www.linux.org/threads/mv-and-cp.54793/",
+      "topic": "Copying and Renaming Files",
+      "node_id": "abKO6KuuIfl9ruVxBw6t_"
+    },
+    {
+      "kind": "article",
+      "title": "Mastering cp and mv Commands in Linux",
+      "url": "https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9",
+      "topic": "Working with Files",
+      "node_id": "RsOTPZPZGTEIt1Lk41bQV"
+    },
+    {
+      "kind": "article",
+      "title": "Linux cp Command: File Copying",
+      "url": "https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744",
+      "topic": "Copying and Renaming Files",
+      "node_id": "abKO6KuuIfl9ruVxBw6t_"
+    },
+    {
+      "kind": "article",
+      "title": "Linux mv Command: File Moving and Renaming",
+      "url": "https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743",
+      "topic": "Moving Files",
+      "node_id": "q-Ky0ietZGpyUcBQfh-BJ"
+    },
+    {
+      "kind": "article",
+      "title": "Creating, Modifying, and Deleting User Accounts",
+      "url": "https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/",
+      "topic": "Users and Groups",
+      "node_id": "h8wc8XEwWYHErna68w7Mg"
+    },
+    {
+      "kind": "article",
+      "title": "How to create, update, and delete users account on Linux",
+      "url": "https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux",
+      "topic": "Create, Update, and Delete Users",
+      "node_id": "R9TZfkgVUQNLnMpDhovJa"
+    },
+    {
+      "kind": "article",
+      "title": "User Management in Linux: A Beginner's Guide",
+      "url": "https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf",
+      "topic": "Users and Groups",
+      "node_id": "h8wc8XEwWYHErna68w7Mg"
+    },
+    {
+      "kind": "article",
+      "title": "What is the Difference Between Cat and Touch Command",
+      "url": "https://linuxways.net/centos/what-is-the-difference-between-cat-and-touch-command/",
+      "topic": "Working with Files",
+      "node_id": "RsOTPZPZGTEIt1Lk41bQV"
+    },
+    {
+      "kind": "article",
+      "title": "Creating and Deleting Files / Directories in Linux",
+      "url": "https://useful.codes/creating-and-deleting-files-directories-in-linux/",
+      "topic": "Creating Files",
+      "node_id": "9oo2fxTM2_p0VYPBroqxa"
+    },
+    {
+      "kind": "article",
+      "title": "Creating, Moving, and Deleting Files and Folders",
+      "url": "https://dev.to/alkesh009/linux-basics-part-4-creating-moving-and-deleting-files-and-folders-5hip",
+      "topic": "Creating Files",
+      "node_id": "9oo2fxTM2_p0VYPBroqxa"
+    },
+    {
+      "kind": "article",
+      "title": "How to Create a systemd Service in Linux",
+      "url": "https://linuxhandbook.com/create-systemd-services/",
+      "topic": "Creating Services",
+      "node_id": "34UUrc8Yjc_8lvTL8itc3"
+    },
+    {
+      "kind": "article",
+      "title": "A Beginner's Guide to Creating Linux Services",
+      "url": "https://www.fosslinux.com/111815/a-guide-to-creating-linux-services-with-systemd.htm",
+      "topic": "Creating Services",
+      "node_id": "34UUrc8Yjc_8lvTL8itc3"
+    },
+    {
+      "kind": "article",
+      "title": "Cut Command in Linux | Linuxize",
+      "url": "https://linuxize.com/post/linux-cut-command/",
+      "topic": "Cut Command",
+      "node_id": "Z5Mf_e5G24IkmxEHgYBe2"
+    },
+    {
+      "kind": "article",
+      "title": "Linux cut Command: Text Cutting",
+      "url": "https://labex.io/tutorials/linux-linux-cut-command-text-cutting-219187",
+      "topic": "Cut Command",
+      "node_id": "Z5Mf_e5G24IkmxEHgYBe2"
+    },
+    {
+      "kind": "article",
+      "title": "How To Debug a Bash Shell Script Under Linux or UNIX",
+      "url": "https://www.cyberciti.biz/tips/debugging-shell-script.html",
+      "topic": "Debugging",
+      "node_id": "rOGnHbGIr3xPCFdpkqoeK"
+    },
+    {
+      "kind": "article",
+      "title": "How to Debug a Bash Shell Script in Linux",
+      "url": "https://www.linuxtechi.com/debugging-shell-scripts-in-linux/",
+      "topic": "Debugging",
+      "node_id": "rOGnHbGIr3xPCFdpkqoeK"
+    },
+    {
+      "kind": "article",
+      "title": "How to Debug Bash Scripts",
+      "url": "https://thelinuxcode.com/debug-bash-script/",
+      "topic": "Debugging",
+      "node_id": "rOGnHbGIr3xPCFdpkqoeK"
+    },
+    {
+      "kind": "article",
+      "title": "Dynamic Host Configuration Protocol - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol",
+      "topic": "DHCP",
+      "node_id": "X6Jw95kbyPgsDNRhvkQP9"
+    },
+    {
+      "kind": "article",
+      "title": "DHCP Protocol: How Dynamic Host Configuration Protocol Works",
+      "url": "https://network-guides.com/dhcp-protocol/",
+      "topic": "DHCP",
+      "node_id": "X6Jw95kbyPgsDNRhvkQP9"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Directory Structure Explained for Beginners",
+      "url": "https://linuxhandbook.com/linux-directory-structure/",
+      "topic": "Understanding Directory Hierarchy",
+      "node_id": "3fzuXKH7az_LVnmnoXB1p"
+    },
+    {
+      "kind": "article",
+      "title": "Overview of File System Hierarchy Standard (FHS)",
+      "url": "https://access.redhat.com/documentation/ru-ru/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr",
+      "topic": "Disks and Filesystems",
+      "node_id": "Fn_uYKigJRgb7r_iYGVBr"
+    },
+    {
+      "kind": "video",
+      "title": "The Linux File System Explained in 1,233 Seconds",
+      "url": "https://youtu.be/A3G-3hp88mo?si=sTJTSzubdb0Vizjr",
+      "topic": "Understanding Directory Hierarchy",
+      "node_id": "3fzuXKH7az_LVnmnoXB1p"
+    },
+    {
+      "kind": "article",
+      "title": "Partitions And Filesystems In Linux - Introduction",
+      "url": "https://www.linuxfordevices.com/tutorials/linux/partitions-and-filesystems",
+      "topic": "Filesystems",
+      "node_id": "LFPhSHOhUqM98fUxMjQUw"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding Linux Filesystems: Inodes, Block Sizes, and Data",
+      "url": "https://www.linuxjournal.com/content/understanding-linux-filesystems-inodes-block-sizes-and-data-structures",
+      "topic": "Disks and Filesystems",
+      "node_id": "Fn_uYKigJRgb7r_iYGVBr"
+    },
+    {
+      "kind": "article",
+      "title": "Setup DNS Resolution With \"resolv.conf\" in Examples",
+      "url": "https://www.shellhacks.com/setup-dns-resolution-resolvconf-example/",
+      "topic": "DNS Resolution",
+      "node_id": "f5oQYhmjNM2_FD7Qe1zGK"
+    },
+    {
+      "kind": "article",
+      "title": "DNS Resolution",
+      "url": "https://wiki.archlinux.org/title/Domain_name_resolution",
+      "topic": "DNS Resolution",
+      "node_id": "f5oQYhmjNM2_FD7Qe1zGK"
+    },
+    {
+      "kind": "article",
+      "title": "nslookup command",
+      "url": "https://linuxconfig.org/nslookup-linux-command",
+      "topic": "DNS Resolution",
+      "node_id": "f5oQYhmjNM2_FD7Qe1zGK"
+    },
+    {
+      "kind": "article",
+      "title": "dig command",
+      "url": "https://linuxhandbook.com/dig-command/",
+      "topic": "DNS Resolution",
+      "node_id": "f5oQYhmjNM2_FD7Qe1zGK"
+    },
+    {
+      "kind": "roadmap",
+      "title": "Visit Dedicated Docker Roadmap",
+      "url": "https://roadmap.sh/docker",
+      "topic": "Docker",
+      "node_id": "MfengY3ouz6sSOx3PXYf8"
+    },
+    {
+      "kind": "official",
+      "title": "Docker Documentation",
+      "url": "https://docs.docker.com/",
+      "topic": "Docker",
+      "node_id": "MfengY3ouz6sSOx3PXYf8"
+    },
+    {
+      "kind": "article",
+      "title": "How To Install and Use Docker on Ubuntu",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04",
+      "topic": "Docker",
+      "node_id": "MfengY3ouz6sSOx3PXYf8"
+    },
+    {
+      "kind": "article",
+      "title": "Editing Files in Linux Command Line",
+      "url": "https://itsfoss.com/edit-files-linux/",
+      "topic": "Working with Files",
+      "node_id": "RsOTPZPZGTEIt1Lk41bQV"
+    },
+    {
+      "kind": "article",
+      "title": "The Complete Guide to Text Editing in Linux with Nano and Vim",
+      "url": "https://thelinuxcode.com/how-to-edit-file-in-linux/",
+      "topic": "Editing Files",
+      "node_id": "HGmeYvRf7_XusZl_K4x9k"
+    },
+    {
+      "kind": "article",
+      "title": "Vim Tutorial for Beginners",
+      "url": "https://linuxconfig.org/vim-tutorial",
+      "topic": "Working with Files",
+      "node_id": "RsOTPZPZGTEIt1Lk41bQV"
+    },
+    {
+      "kind": "article",
+      "title": "Environment Variables in Linux",
+      "url": "https://labex.io/tutorials/linux-environment-variables-in-linux-385274",
+      "topic": "Environment Variables",
+      "node_id": "zwXEmpPYjA7_msS43z7I0"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Environment Variables List, Set, Create & Remove",
+      "url": "https://www.computernetworkingnotes.com/linux-tutorials/linux-environment-variables-list-set-create-remove.html",
+      "topic": "Environment Variables",
+      "node_id": "zwXEmpPYjA7_msS43z7I0"
+    },
+    {
+      "kind": "article",
+      "title": "How to Set and List Environment Variables in Linux",
+      "url": "https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/",
+      "topic": "Environment Variables",
+      "node_id": "zwXEmpPYjA7_msS43z7I0"
+    },
+    {
+      "kind": "article",
+      "title": "A Comprehensive Guide to Linux Networking",
+      "url": "https://centlinux.com/linux-networking/",
+      "topic": "Networking",
+      "node_id": "Mb42VFjCzMZn_PovKIfKx"
+    },
+    {
+      "kind": "article",
+      "title": "A Beginner's Guide to Linux Networking Fundamentals",
+      "url": "https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o",
+      "topic": "Networking",
+      "node_id": "Mb42VFjCzMZn_PovKIfKx"
+    },
+    {
+      "kind": "video",
+      "title": "ARP Explained - Address Resolution Protocol",
+      "url": "https://www.youtube.com/watch?v=cn8Zxh9bPio",
+      "topic": "Ethernet, ARP and RARP",
+      "node_id": "4ees23q281J1DPVAc7iXd"
+    },
+    {
+      "kind": "video",
+      "title": "What is Ethernet?",
+      "url": "https://www.youtube.com/watch?v=HLziLmaYsO0",
+      "topic": "Ethernet, ARP and RARP",
+      "node_id": "4ees23q281J1DPVAc7iXd"
+    },
+    {
+      "kind": "article",
+      "title": "expand \u2014 Linux manual page",
+      "url": "https://www.man7.org/linux/man-pages/man1/expand.1.html",
+      "topic": "Expand",
+      "node_id": "TZuDVFS7DZFBgaSYYXoGe"
+    },
+    {
+      "kind": "article",
+      "title": "How to Use the 'expand' Command (with examples)",
+      "url": "https://commandmasters.com/commands/expand-common/",
+      "topic": "Expand",
+      "node_id": "TZuDVFS7DZFBgaSYYXoGe"
+    },
+    {
+      "kind": "article",
+      "title": "Linux File Permissions",
+      "url": "https://linuxhandbook.com/linux-file-permissions/",
+      "topic": "Permissions",
+      "node_id": "L6RMExeqi9501y-eCHDt1"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Permissions of Files",
+      "url": "https://labex.io/tutorials/linux-permissions-of-files-270252",
+      "topic": "Permissions",
+      "node_id": "L6RMExeqi9501y-eCHDt1"
+    },
+    {
+      "kind": "video",
+      "title": "Linux File Permissions in 5 Minutes",
+      "url": "https://www.youtube.com/watch?v=LnKoncbQBsM",
+      "topic": "Permissions",
+      "node_id": "L6RMExeqi9501y-eCHDt1"
+    },
+    {
+      "kind": "article",
+      "title": "How to Use Linux FTP Command to Transfer Files",
+      "url": "https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/",
+      "topic": "File Transfer",
+      "node_id": "tVrbVcNEfc11FbEUoO2Dk"
+    },
+    {
+      "kind": "article",
+      "title": "Rsync Command in Linux with Examples",
+      "url": "https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/",
+      "topic": "File Transfer",
+      "node_id": "tVrbVcNEfc11FbEUoO2Dk"
+    },
+    {
+      "kind": "article",
+      "title": "Using scp Command in Linux",
+      "url": "https://linuxhandbook.com/scp-command/",
+      "topic": "File Transfer",
+      "node_id": "tVrbVcNEfc11FbEUoO2Dk"
+    },
+    {
+      "kind": "article",
+      "title": "Wget Command in Linux with Examples",
+      "url": "https://linuxize.com/post/wget-command-examples/",
+      "topic": "File Transfer",
+      "node_id": "tVrbVcNEfc11FbEUoO2Dk"
+    },
+    {
+      "kind": "official",
+      "title": "Filesystems in the Linux Kernel",
+      "url": "https://docs.kernel.org/filesystems/index.html",
+      "topic": "Filesystems",
+      "node_id": "LFPhSHOhUqM98fUxMjQUw"
+    },
+    {
+      "kind": "article",
+      "title": "df command in Linux (Check Disk Space)",
+      "url": "https://linuxize.com/post/how-to-check-disk-space-in-linux-using-the-df-command/",
+      "topic": "Filesystems",
+      "node_id": "LFPhSHOhUqM98fUxMjQUw"
+    },
+    {
+      "kind": "article",
+      "title": "How to Capture and Analyze Packets with tcpdump",
+      "url": "https://www.debian.org/doc/manuals/apt-guide/index.en.html",
+      "topic": "Packet Analysis",
+      "node_id": "7seneb4TWts4v1_x8xlcZ"
+    },
+    {
+      "kind": "official",
+      "title": "Yum Package Manager",
+      "url": "http://yum.baseurl.org/",
+      "topic": "Package Management",
+      "node_id": "4eINX8jYMJxfYh7ZV47YI"
+    },
+    {
+      "kind": "official",
+      "title": "Using the DNF Software Package Manager",
+      "url": "https://docs.fedoraproject.org/en-US/quick-docs/dnf/",
+      "topic": "Package Management",
+      "node_id": "4eINX8jYMJxfYh7ZV47YI"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Package Manager Explained",
+      "url": "https://geekflare.com/dev/linux-package-manager-explained/",
+      "topic": "Package Management",
+      "node_id": "4eINX8jYMJxfYh7ZV47YI"
+    },
+    {
+      "kind": "article",
+      "title": "8 Best Package Manager for Linux",
+      "url": "https://linuxsimply.com/linux-basics/package-management/best-package-manager/",
+      "topic": "Package Management",
+      "node_id": "4eINX8jYMJxfYh7ZV47YI"
+    },
+    {
+      "kind": "opensource",
+      "title": "Ripgrep: GitHub Repository",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "topic": "GREP",
+      "node_id": "umlhxidsvtZG9k40Ca0Ac"
+    },
+    {
+      "kind": "article",
+      "title": "Grep and Regular Expressions for Beginners",
+      "url": "https://ryanstutorials.net/linuxtutorial/grep.php",
+      "topic": "GREP",
+      "node_id": "umlhxidsvtZG9k40Ca0Ac"
+    },
+    {
+      "kind": "article",
+      "title": "Linux grep Command: Pattern Searching",
+      "url": "https://labex.io/tutorials/linux-linux-grep-command-pattern-searching-219192",
+      "topic": "GREP",
+      "node_id": "umlhxidsvtZG9k40Ca0Ac"
+    },
+    {
+      "kind": "article",
+      "title": "Head Command in Linux - 5 Essential Examples",
+      "url": "https://linuxhandbook.com/head-command/",
+      "topic": "Head Command",
+      "node_id": "6xdkFk_GT93MigeTSSGCp"
+    },
+    {
+      "kind": "article",
+      "title": "Linux head Command: File Beginning Display",
+      "url": "https://labex.io/tutorials/linux-linux-head-command-file-beginning-display-214302",
+      "topic": "Head Command",
+      "node_id": "6xdkFk_GT93MigeTSSGCp"
+    },
+    {
+      "kind": "article",
+      "title": "icmp(7) \u2014 Linux manual page",
+      "url": "https://www.man7.org/linux/man-pages/man7/icmp.7.html",
+      "topic": "ICMP",
+      "node_id": "Ymf3u_sG1dyt8ZR_LbwqJ"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding ICMP Packets with Examples",
+      "url": "https://www.howtouselinux.com/post/icmp-packets",
+      "topic": "ICMP",
+      "node_id": "Ymf3u_sG1dyt8ZR_LbwqJ"
+    },
+    {
+      "kind": "article",
+      "title": "Introduction to Inodes",
+      "url": "https://linuxjourney.com/lesson/inodes",
+      "topic": "Inodes",
+      "node_id": "AwQJYL60NNbA5_z7iLcM7"
+    },
+    {
+      "kind": "article",
+      "title": "Index Nodes \u2014 The Linux Kernel documentation",
+      "url": "https://www.kernel.org/doc/html/latest/filesystems/ext4/inodes.html?highlight=inode",
+      "topic": "Inodes",
+      "node_id": "AwQJYL60NNbA5_z7iLcM7"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Set Up Routing with ip Command",
+      "url": "https://www.cyberciti.biz/faq/howto-linux-configuring-default-route-with-ipcommand/",
+      "topic": "IP Routing",
+      "node_id": "D0yUzzaJsfhtdBWMtquAj"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Networking: A Simplified Guide to IP Addresses",
+      "url": "https://www.linuxjournal.com/content/linux-networking-simplified-guide-ip-addresses-and-routing",
+      "topic": "IP Routing",
+      "node_id": "D0yUzzaJsfhtdBWMtquAj"
+    },
+    {
+      "kind": "article",
+      "title": "join(1) \u2014 Linux manual page",
+      "url": "https://www.man7.org/linux/man-pages/man1/join.1.html",
+      "topic": "join Command",
+      "node_id": "vfcCS1GoyKpU1rQaE8I5r"
+    },
+    {
+      "kind": "article",
+      "title": "join command in Linux with examples",
+      "url": "https://linuxconfig.org/join",
+      "topic": "join Command",
+      "node_id": "vfcCS1GoyKpU1rQaE8I5r"
+    },
+    {
+      "kind": "article",
+      "title": "Linux join Command: File Joining",
+      "url": "https://labex.io/tutorials/linux-linux-join-command-file-joining-219193",
+      "topic": "join Command",
+      "node_id": "vfcCS1GoyKpU1rQaE8I5r"
+    },
+    {
+      "kind": "article",
+      "title": "Using Kill Command in Linux",
+      "url": "https://linuxhandbook.com/kill-command/",
+      "topic": "Kill Processes",
+      "node_id": "0FLUI9r7znMqi6YKReLzD"
+    },
+    {
+      "kind": "article",
+      "title": "Kill Command in Linux",
+      "url": "https://linuxize.com/post/kill-command-in-linux/",
+      "topic": "Kill Processes",
+      "node_id": "0FLUI9r7znMqi6YKReLzD"
+    },
+    {
+      "kind": "article",
+      "title": "The /proc File System",
+      "url": "https://www.kernel.org/doc/html/latest/filesystems/proc.html",
+      "topic": "Listing and Finding Processes",
+      "node_id": "lf3_CRyOI2ZXGzz5ff451"
+    },
+    {
+      "kind": "article",
+      "title": "What is a Process in Linux/Unix?",
+      "url": "https://www.scaler.com/topics/linux-process/",
+      "topic": "Listing and Finding Processes",
+      "node_id": "lf3_CRyOI2ZXGzz5ff451"
+    },
+    {
+      "kind": "article",
+      "title": "Exploring the Linux /proc Filesystem",
+      "url": "https://www.redhat.com/en/blog/linux-proc-filesystem",
+      "topic": "Listing and Finding Processes",
+      "node_id": "lf3_CRyOI2ZXGzz5ff451"
+    },
+    {
+      "kind": "article",
+      "title": "5 ways to list installed packages in Linux",
+      "url": "https://www.howtouselinux.com/post/list-installed-packages-in-linux",
+      "topic": "Listing Installed Packages",
+      "node_id": "48wAoAAlCNt3j5mBpKTWC"
+    },
+    {
+      "kind": "article",
+      "title": "Bash Tutorial - Quoting literal text",
+      "url": "https://riptutorial.com/bash/example/2465/quoting-literal-text",
+      "topic": "Literals",
+      "node_id": "-pW7R76yNIeGf7TQoX4QL"
+    },
+    {
+      "kind": "article",
+      "title": "Handling Special Characters in Shell Scripts",
+      "url": "https://www.baeldung.com/linux/special-characters-in-shell-scripts",
+      "topic": "Literals",
+      "node_id": "-pW7R76yNIeGf7TQoX4QL"
+    },
+    {
+      "kind": "article",
+      "title": "How to Use journalctl Command to Analyze Logs in Linux",
+      "url": "https://linuxhandbook.com/journalctl-command/",
+      "topic": "System Logs",
+      "node_id": "ru7mpLQZKE1QxAdiA1sS3"
+    },
+    {
+      "kind": "article",
+      "title": "How to Check System Logs on Linux",
+      "url": "https://www.fosslinux.com/8984/how-to-check-system-logs-on-linux-complete-usage-guide.htm",
+      "topic": "System Logs",
+      "node_id": "ru7mpLQZKE1QxAdiA1sS3"
+    },
+    {
+      "kind": "article",
+      "title": "What is dmesg in Linux, And How Do I Use It?",
+      "url": "https://linuxconfig.org/what-is-dmesg-and-how-do-i-use-it",
+      "topic": "System Logs",
+      "node_id": "ru7mpLQZKE1QxAdiA1sS3"
+    },
+    {
+      "kind": "article",
+      "title": "Using For, While and Until Loops in Bash",
+      "url": "https://linuxhandbook.com/bash-loops/",
+      "topic": "Loops",
+      "node_id": "WJT-yrMq8cEI87RHWA2jY"
+    },
+    {
+      "kind": "article",
+      "title": "Bash Loops with examples",
+      "url": "https://linuxconfig.org/bash-loops-with-examples",
+      "topic": "Loops",
+      "node_id": "WJT-yrMq8cEI87RHWA2jY"
+    },
+    {
+      "kind": "article",
+      "title": "The Complete Beginner's Guide to LVM in Linux",
+      "url": "https://linuxhandbook.com/lvm-guide/",
+      "topic": "LVM (Logical Volume Manager)",
+      "node_id": "I3LNa1cM_zRkBy8wKdz3g"
+    },
+    {
+      "kind": "article",
+      "title": "A Beginner's Guide to LVM in Linux - It's FOSS",
+      "url": "https://itsfoss.com/lvm-guide/",
+      "topic": "LVM (Logical Volume Manager)",
+      "node_id": "I3LNa1cM_zRkBy8wKdz3g"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding Linux File Permissions",
+      "url": "https://linuxize.com/post/understanding-linux-file-permissions/",
+      "topic": "Permissions",
+      "node_id": "L6RMExeqi9501y-eCHDt1"
+    },
+    {
+      "kind": "official",
+      "title": "The mount command manual page",
+      "url": "https://man7.org/linux/man-pages/man8/mount.8.html",
+      "topic": "Mounts",
+      "node_id": "zmb5lK_EGMAChPoPvP9E0"
+    },
+    {
+      "kind": "article",
+      "title": "Mounting, unmounting and the /mnt directory - The Linux Documentation Project",
+      "url": "https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/mnt.html",
+      "topic": "Mounts",
+      "node_id": "zmb5lK_EGMAChPoPvP9E0"
+    },
+    {
+      "kind": "article",
+      "title": "Linux mount command with Examples",
+      "url": "https://phoenixnap.com/kb/linux-mount-command",
+      "topic": "Mounts",
+      "node_id": "zmb5lK_EGMAChPoPvP9E0"
+    },
+    {
+      "kind": "article",
+      "title": "mv command",
+      "url": "https://linuxhandbook.com/mv-command/",
+      "topic": "Moving Files",
+      "node_id": "q-Ky0ietZGpyUcBQfh-BJ"
+    },
+    {
+      "kind": "article",
+      "title": "mv Cheat Sheet",
+      "url": "https://www.commandinline.com/cheat-sheet/mv/",
+      "topic": "Moving Files",
+      "node_id": "q-Ky0ietZGpyUcBQfh-BJ"
+    },
+    {
+      "kind": "official",
+      "title": "nano - Text editor",
+      "url": "https://www.nano-editor.org/",
+      "topic": "Nano: A File Editing Tool",
+      "node_id": "yqRwmcZThjQuqh2ao0dWK"
+    },
+    {
+      "kind": "article",
+      "title": "Editing Files With Nano in Linux",
+      "url": "https://itsfoss.com/nano-editor-guide/",
+      "topic": "Nano: A File Editing Tool",
+      "node_id": "yqRwmcZThjQuqh2ao0dWK"
+    },
+    {
+      "kind": "article",
+      "title": "Nano in Linux",
+      "url": "https://ioflood.com/blog/nano-linux-command/",
+      "topic": "Nano: A File Editing Tool",
+      "node_id": "yqRwmcZThjQuqh2ao0dWK"
+    },
+    {
+      "kind": "video",
+      "title": "Nano editor fundamentals",
+      "url": "https://www.youtube.com/watch?v=gyKiDczLIZ4&ab_channel=HackerSploit",
+      "topic": "Nano: A File Editing Tool",
+      "node_id": "yqRwmcZThjQuqh2ao0dWK"
+    },
+    {
+      "kind": "course",
+      "title": "Linux for Noobs (Hands-on)",
+      "url": "https://labex.io/courses/linux-for-noobs",
+      "topic": "Navigation Basics",
+      "node_id": "y7KjVfSI6CAduyHd4mBFT"
+    },
+    {
+      "kind": "article",
+      "title": "Practice on Linux Fundamentals",
+      "url": "https://linuxjourney.com/",
+      "topic": "Navigation Basics",
+      "node_id": "y7KjVfSI6CAduyHd4mBFT"
+    },
+    {
+      "kind": "video",
+      "title": "Linux fundamentals",
+      "url": "https://www.youtube.com/watch?v=kPylihJRG70&t=1381s&ab_channel=TryHackMe",
+      "topic": "Navigation Basics",
+      "node_id": "y7KjVfSI6CAduyHd4mBFT"
+    },
+    {
+      "kind": "official",
+      "title": "netfilter/iptables project homepage",
+      "url": "https://netfilter.org/",
+      "topic": "Netfilter",
+      "node_id": "bZ8Yj6QfBeDdh8hRM_aZs"
+    },
+    {
+      "kind": "article",
+      "title": "Packet filtering in Linux - iptables, nftables and firewalld",
+      "url": "https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/",
+      "topic": "Netfilter",
+      "node_id": "bZ8Yj6QfBeDdh8hRM_aZs"
+    },
+    {
+      "kind": "article",
+      "title": "Netstat Command in Linux: 13 Practical Examples",
+      "url": "https://linuxhandbook.com/netstat-command/",
+      "topic": "TCP/IP",
+      "node_id": "0pciSsiQqIGJh3x8465_s"
+    },
+    {
+      "kind": "article",
+      "title": "How to Use netstat on Linux",
+      "url": "https://www.howtogeek.com/513003/how-to-use-netstat-on-linux/",
+      "topic": "Netstat",
+      "node_id": "yrxNYMluJ9OAQCKuM5W1u"
+    },
+    {
+      "kind": "article",
+      "title": "Practice on Networking Fundamentals",
+      "url": "https://linuxjourney.com/lesson/network-basics",
+      "topic": "Networking",
+      "node_id": "Mb42VFjCzMZn_PovKIfKx"
+    },
+    {
+      "kind": "article",
+      "title": "nl command",
+      "url": "https://www.computerhope.com/unix/nl.htm",
+      "topic": "NL (Number Lines)",
+      "node_id": "YSfGrmT795miIeIZrtC3D"
+    },
+    {
+      "kind": "article",
+      "title": "Linux nl Command: Line Numbering",
+      "url": "https://labex.io/tutorials/linux-linux-nl-command-line-numbering-210988",
+      "topic": "NL (Number Lines)",
+      "node_id": "YSfGrmT795miIeIZrtC3D"
+    },
+    {
+      "kind": "article",
+      "title": "Master the Linux 'nl' Command: A Comprehensive Guide",
+      "url": "https://hopeness.medium.com/master-the-linux-nl-command-a-comprehensive-guide-79c6adf50fa9",
+      "topic": "NL (Number Lines)",
+      "node_id": "YSfGrmT795miIeIZrtC3D"
+    },
+    {
+      "kind": "article",
+      "title": "Software Installation on Linux",
+      "url": "https://labex.io/tutorials/linux-software-installation-on-linux-18005",
+      "topic": "Package Management",
+      "node_id": "4eINX8jYMJxfYh7ZV47YI"
+    },
+    {
+      "kind": "article",
+      "title": "What is Repository in Linux?",
+      "url": "https://linuxsimply.com/what-is-repository-in-linux/",
+      "topic": "Repositories",
+      "node_id": "2oQiuQ2j02SCt9t5eV6hg"
+    },
+    {
+      "kind": "article",
+      "title": "Official Repositories - ArchWiki",
+      "url": "https://wiki.archlinux.org/title/Official_repositories",
+      "topic": "Repositories",
+      "node_id": "2oQiuQ2j02SCt9t5eV6hg"
+    },
+    {
+      "kind": "article",
+      "title": "Mastering Network Traffic Analysis in Linux",
+      "url": "https://en.ittrip.xyz/linux/linux-network-analysis",
+      "topic": "Packet Analysis",
+      "node_id": "7seneb4TWts4v1_x8xlcZ"
+    },
+    {
+      "kind": "article",
+      "title": "16 Best Free and Open Source Network Analyzers",
+      "url": "https://www.linuxlinks.com/best-free-open-source-network-analyzers/",
+      "topic": "Packet Analysis",
+      "node_id": "7seneb4TWts4v1_x8xlcZ"
+    },
+    {
+      "kind": "article",
+      "title": "Paste Command in Linux (Merge Lines)",
+      "url": "https://linuxize.com/post/paste-command-in-linux/",
+      "topic": "Paste",
+      "node_id": "5658kdqJw-pIOyyhll80a"
+    },
+    {
+      "kind": "article",
+      "title": "7 Practical Usage of Paste Command in Linux",
+      "url": "https://linuxhandbook.com/paste-command/",
+      "topic": "Paste",
+      "node_id": "5658kdqJw-pIOyyhll80a"
+    },
+    {
+      "kind": "article",
+      "title": "Ping Command in Linux",
+      "url": "https://linuxize.com/post/linux-ping-command/",
+      "topic": "Ping",
+      "node_id": "Uc36t92UAlILgM3_XxcMG"
+    },
+    {
+      "kind": "article",
+      "title": "Ping Command Examples in Linux - It's FOSS",
+      "url": "https://itsfoss.com/ping-command/",
+      "topic": "Ping",
+      "node_id": "Uc36t92UAlILgM3_XxcMG"
+    },
+    {
+      "kind": "article",
+      "title": "An In-Depth Guide to Pipes in Linux - TheLinuxCode",
+      "url": "https://thelinuxcode.com/linux-pipe-command-examples/",
+      "topic": "Pipe Commands",
+      "node_id": "v32PJl4fzIFTOirOm6G44"
+    },
+    {
+      "kind": "article",
+      "title": "Piping and Redirection",
+      "url": "https://ryanstutorials.net/linuxtutorial/piping.php#piping",
+      "topic": "Pipe Commands",
+      "node_id": "v32PJl4fzIFTOirOm6G44"
+    },
+    {
+      "kind": "article",
+      "title": "What is Piping in Linux?",
+      "url": "https://linuxsimply.com/what-is-piping-in-linux/",
+      "topic": "Pipe Commands",
+      "node_id": "v32PJl4fzIFTOirOm6G44"
+    },
+    {
+      "kind": "article",
+      "title": "fork \u2014 Linux manual page",
+      "url": "https://www.man7.org/linux/man-pages/man2/fork.2.html",
+      "topic": "Process Forking",
+      "node_id": "Rib7h9lh_ndiXkwNbftz_"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding the fork() System Call in Linux",
+      "url": "https://thelinuxcode.com/fork-system-call-linux/",
+      "topic": "Process Forking",
+      "node_id": "Rib7h9lh_ndiXkwNbftz_"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Process calls: Creating process using fork",
+      "url": "https://medium.com/@joshuaudayagiri/linux-process-calls-creating-process-using-fork-52a1eac7de8b",
+      "topic": "Process Forking",
+      "node_id": "Rib7h9lh_ndiXkwNbftz_"
+    },
+    {
+      "kind": "article",
+      "title": "The Complete Guide to Process Management Commands",
+      "url": "https://thelinuxcode.com/process-management-commands-linux/",
+      "topic": "Process Management",
+      "node_id": "h01Y6dW09ChidlM2HYoav"
+    },
+    {
+      "kind": "article",
+      "title": "Commands for Process Management in Linux",
+      "url": "https://www.digitalocean.com/community/tutorials/process-management-in-linux",
+      "topic": "Process Management",
+      "node_id": "h01Y6dW09ChidlM2HYoav"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding Process Thread Priorities in Linux",
+      "url": "https://blogs.oracle.com/linux/post/task-priority",
+      "topic": "Process Priorities",
+      "node_id": "5anSYRhaKIs3dCLWlvZfT"
+    },
+    {
+      "kind": "article",
+      "title": "How To Manipulate Process Priority In Linux",
+      "url": "https://www.itsmarttricks.com/how-to-manipulate-process-priority-in-linux-using-nice-and-renice-commands/",
+      "topic": "Process Priorities",
+      "node_id": "5anSYRhaKIs3dCLWlvZfT"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding Linux Process Signals",
+      "url": "https://www.ceos3c.com/linux/understanding-linux-process-signals-a-complete/",
+      "topic": "Process Signals",
+      "node_id": "VkLWTvKnRXzvLGWza2v45"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Process Signals and their meaning",
+      "url": "https://linux-audit.com/processes/linux-process-signals/",
+      "topic": "Process Signals",
+      "node_id": "VkLWTvKnRXzvLGWza2v45"
+    },
+    {
+      "kind": "article",
+      "title": "Input Output & Error Redirection in Linux",
+      "url": "https://linuxhandbook.com/redirection-linux/",
+      "topic": "Redirects",
+      "node_id": "JgoZzx4BfK7tmosgpZOsf"
+    },
+    {
+      "kind": "article",
+      "title": "Redirections (Bash Reference Manual)",
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+      "topic": "Redirects",
+      "node_id": "JgoZzx4BfK7tmosgpZOsf"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Server Management Essentials",
+      "url": "https://www.ictbroadcast.com/linux-server-management-essentials-administration-monitoring-and-maintenance-guidelines-for-success/",
+      "topic": "Server Review",
+      "node_id": "jSzfQf0MlnXtWHCc-HYvr"
+    },
+    {
+      "kind": "article",
+      "title": "Essential Linux Server Maintenance Checklist",
+      "url": "https://tecadmin.net/linux-server-maintenance-checklist/",
+      "topic": "Server Review",
+      "node_id": "jSzfQf0MlnXtWHCc-HYvr"
+    },
+    {
+      "kind": "article",
+      "title": "Optimizing Linux Server Performance",
+      "url": "https://www.linuxjournal.com/content/optimizing-linux-server-performance-benchmarking-and-advanced-techniques",
+      "topic": "Server Review",
+      "node_id": "jSzfQf0MlnXtWHCc-HYvr"
+    },
+    {
+      "kind": "article",
+      "title": "How to Master Linux Service Management with Systemctl",
+      "url": "https://labex.io/tutorials/linux-how-to-master-linux-service-management-with-systemctl-392864",
+      "topic": "Starting / Stopping Services",
+      "node_id": "DuEfJNrm4Jfmp8-8Pggrf"
+    },
+    {
+      "kind": "article",
+      "title": "Service Management in Linux: A Comprehensive Guide",
+      "url": "https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9",
+      "topic": "Starting / Stopping Services",
+      "node_id": "DuEfJNrm4Jfmp8-8Pggrf"
+    },
+    {
+      "kind": "article",
+      "title": "How to Manage Services in Linux: systemd and SysVinit",
+      "url": "https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop",
+      "topic": "Starting / Stopping Services",
+      "node_id": "DuEfJNrm4Jfmp8-8Pggrf"
+    },
+    {
+      "kind": "article",
+      "title": "How to List Linux Services With systemctl",
+      "url": "https://www.howtogeek.com/839285/how-to-list-linux-services-with-systemctl/",
+      "topic": "Running Services",
+      "node_id": "ewUuI_x-YhOQIYd3MTgJJ"
+    },
+    {
+      "kind": "article",
+      "title": "Learning The Shell",
+      "url": "https://www.linuxcommand.org/lc3_lts0010.php",
+      "topic": "Variables",
+      "node_id": "JyxvZOb7iusOSUYSlniGl"
+    },
+    {
+      "kind": "article",
+      "title": "What is a Shell in Linux",
+      "url": "https://linuxsimply.com/what-is-a-shell-linux/",
+      "topic": "Shell Basics",
+      "node_id": "8QBMyL8D5jPovxN8jyZW9"
+    },
+    {
+      "kind": "article",
+      "title": "Learn Linux Easily",
+      "url": "https://linuxjourney.com",
+      "topic": "Shell Basics",
+      "node_id": "8QBMyL8D5jPovxN8jyZW9"
+    },
+    {
+      "kind": "article",
+      "title": "Learn Shell - Free Interactive Shell Tutorial",
+      "url": "https://www.learnshell.org/",
+      "topic": "Shell Programming",
+      "node_id": "4tFZ1PLpz50bddf7zSFrW"
+    },
+    {
+      "kind": "article",
+      "title": "Bash Scripting Tutorial Series for Beginners",
+      "url": "https://linuxhandbook.com/bash/",
+      "topic": "Shell Programming",
+      "node_id": "4tFZ1PLpz50bddf7zSFrW"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Bash Shell Scripting Tutorial Wiki",
+      "url": "https://bash.cyberciti.biz/guide/Main_Page",
+      "topic": "Shell Programming",
+      "node_id": "4tFZ1PLpz50bddf7zSFrW"
+    },
+    {
+      "kind": "video",
+      "title": "Bash Scripting on Linux - YT Playlist",
+      "url": "https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&si=MSehStqnhSqgoMSj",
+      "topic": "Shell Programming",
+      "node_id": "4tFZ1PLpz50bddf7zSFrW"
+    },
+    {
+      "kind": "article",
+      "title": "The \"snap\" Command in Linux",
+      "url": "https://linuxsimply.com/snap-command-in-linux/",
+      "topic": "Snap",
+      "node_id": "eKyMZn30UxQeBZQ7FxFbF"
+    },
+    {
+      "kind": "article",
+      "title": "How to Install and Use Snap in Various Linux Distributions",
+      "url": "https://itsfoss.com/install-snap-linux/",
+      "topic": "Snap",
+      "node_id": "eKyMZn30UxQeBZQ7FxFbF"
+    },
+    {
+      "kind": "article",
+      "title": "Hard links and Soft links in Linux Explained",
+      "url": "https://www.redhat.com/en/blog/linking-linux-explained",
+      "topic": "Soft and Hard Links",
+      "node_id": "KaXHG_EKxI5PUXmcvlJt6"
+    },
+    {
+      "kind": "article",
+      "title": "Difference between hard link and soft link",
+      "url": "https://kerneltalks.com/commands/difference-between-hard-link-and-soft-link/",
+      "topic": "Soft and Hard Links",
+      "node_id": "KaXHG_EKxI5PUXmcvlJt6"
+    },
+    {
+      "kind": "article",
+      "title": "How to Understand the Difference between Hard and Symbolic Links in Linux",
+      "url": "https://labex.io/tutorials/linux-how-to-understand-the-difference-between-hard-and-symbolic-links-in-linux-409929",
+      "topic": "Soft and Hard Links",
+      "node_id": "KaXHG_EKxI5PUXmcvlJt6"
+    },
+    {
+      "kind": "article",
+      "title": "Sort Command in Linux - 10 Useful Examples",
+      "url": "https://linuxhandbook.com/sort-command/",
+      "topic": "Sort",
+      "node_id": "1WRIy3xHtQfiQFZrprobP"
+    },
+    {
+      "kind": "article",
+      "title": "Sort Command in Linux with Practical Examples",
+      "url": "https://tecadmin.net/linux-sort-command/",
+      "topic": "Sort",
+      "node_id": "1WRIy3xHtQfiQFZrprobP"
+    },
+    {
+      "kind": "article",
+      "title": "Linux sort Command: Text Sorting",
+      "url": "https://labex.io/tutorials/linux-linux-sort-command-text-sorting-219196",
+      "topic": "Sort",
+      "node_id": "1WRIy3xHtQfiQFZrprobP"
+    },
+    {
+      "kind": "article",
+      "title": "Split Command in Linux: 9 Useful Examples",
+      "url": "https://linuxhandbook.com/split-command/",
+      "topic": "Split Command",
+      "node_id": "Pl9s2ti25hsSEljXJvBTj"
+    },
+    {
+      "kind": "article",
+      "title": "Split Command in Linux: Usage Guide with Examples",
+      "url": "https://ioflood.com/blog/split-linux-command/",
+      "topic": "Split Command",
+      "node_id": "Pl9s2ti25hsSEljXJvBTj"
+    },
+    {
+      "kind": "article",
+      "title": "Secure Shell",
+      "url": "https://en.wikipedia.org/wiki/Secure_Shell",
+      "topic": "SSH",
+      "node_id": "uk6UMuI8Uhf02TBAGVeLS"
+    },
+    {
+      "kind": "article",
+      "title": "Mastering SSH - A Complete Guide to Secure Shell Protocol",
+      "url": "https://www.socketxp.com/iot/ssh-secure-shell/",
+      "topic": "SSH",
+      "node_id": "uk6UMuI8Uhf02TBAGVeLS"
+    },
+    {
+      "kind": "article",
+      "title": "What is SSH? | Secure Shell (SSH) Protocol - Cloudflare",
+      "url": "https://www.cloudflare.com/learning/access-management/what-is-ssh/",
+      "topic": "SSH",
+      "node_id": "uk6UMuI8Uhf02TBAGVeLS"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Fundamentals - I/O, Standard Streams, and Redirection",
+      "url": "https://www.putorius.net/linux-io-file-descriptors-and-redirection.html",
+      "topic": "Stdout, Stdin, and Stderr",
+      "node_id": "t3fxSgCgtxuMtHjclPHA6"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding 'stdin', 'stdout' and 'stderr' in Linux",
+      "url": "https://www.slingacademy.com/article/understanding-stdin-stdout-and-stderr-in-linux/",
+      "topic": "Stdout, Stdin, and Stderr",
+      "node_id": "t3fxSgCgtxuMtHjclPHA6"
+    },
+    {
+      "kind": "article",
+      "title": "Working with data streams on the Linux command line",
+      "url": "https://opensource.com/article/18/10/linux-data-streams",
+      "topic": "Stdout, Stdin, and Stderr",
+      "node_id": "t3fxSgCgtxuMtHjclPHA6"
+    },
+    {
+      "kind": "article",
+      "title": "Understanding IP Addressing and Subnetting in Linux",
+      "url": "https://useful.codes/understanding-ip-addressing-and-subnetting-in-linux/",
+      "topic": "Subnetting",
+      "node_id": "Xszo9vXuwwXZo26seHehD"
+    },
+    {
+      "kind": "article",
+      "title": "The Basics of IP Subnetting | Linux Journal",
+      "url": "https://www.linuxjournal.com/article/6287",
+      "topic": "Subnetting",
+      "node_id": "Xszo9vXuwwXZo26seHehD"
+    },
+    {
+      "kind": "article",
+      "title": "How to Find Subnet Mask in Linux",
+      "url": "https://www.howtouselinux.com/post/find-subnet-mask-on-linux",
+      "topic": "Subnetting",
+      "node_id": "Xszo9vXuwwXZo26seHehD"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Superuser Access, Explained",
+      "url": "https://www.redhat.com/en/blog/linux-superuser-access/",
+      "topic": "Super User",
+      "node_id": "NIBSZGE9PskVrluJpdom0"
+    },
+    {
+      "kind": "article",
+      "title": "Difference between the root user and super (sudo) user",
+      "url": "https://www.computernetworkingnotes.com/linux-tutorials/difference-between-the-root-user-and-super-sudo-user.html",
+      "topic": "Super User",
+      "node_id": "NIBSZGE9PskVrluJpdom0"
+    },
+    {
+      "kind": "article",
+      "title": "What is Superuser Access in Linux?",
+      "url": "https://www.scaler.com/topics/super-user-in-linux/",
+      "topic": "Super User",
+      "node_id": "NIBSZGE9PskVrluJpdom0"
+    },
+    {
+      "kind": "article",
+      "title": "Swap - Arch Wiki",
+      "url": "https://wiki.archlinux.org/title/Swap",
+      "topic": "Swap Space",
+      "node_id": "AWosNs2nvDGV8r6WvgBI1"
+    },
+    {
+      "kind": "article",
+      "title": "How to Increase Swap Space on Linux",
+      "url": "https://linuxconfig.org/how-to-increase-swap-space-on-linux",
+      "topic": "Swap Space",
+      "node_id": "AWosNs2nvDGV8r6WvgBI1"
+    },
+    {
+      "kind": "article",
+      "title": "5 Practical Examples of Tail Command in Linux",
+      "url": "https://linuxhandbook.com/tail-command/",
+      "topic": "Tail Command",
+      "node_id": "Yyk28H6TiteZEGv6Aps1h"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Tail Command | Linuxize",
+      "url": "https://linuxize.com/post/linux-tail-command/",
+      "topic": "Tail Command",
+      "node_id": "Yyk28H6TiteZEGv6Aps1h"
+    },
+    {
+      "kind": "article",
+      "title": "Linux tail Command: File End Display",
+      "url": "https://labex.io/tutorials/linux-linux-tail-command-file-end-display-214303",
+      "topic": "Tail Command",
+      "node_id": "Yyk28H6TiteZEGv6Aps1h"
+    },
+    {
+      "kind": "article",
+      "title": "TCP/IP Commands for Linux",
+      "url": "https://whatismyipaddress.com/tcp-ip-commands-linux",
+      "topic": "TCP/IP",
+      "node_id": "0pciSsiQqIGJh3x8465_s"
+    },
+    {
+      "kind": "article",
+      "title": "Netstat Command in Linux",
+      "url": "https://phoenixnap.com/kb/netstat-command",
+      "topic": "TCP/IP",
+      "node_id": "0pciSsiQqIGJh3x8465_s"
+    },
+    {
+      "kind": "article",
+      "title": "Tee Command in Linux Explained with Examples",
+      "url": "https://linuxhandbook.com/tee-command/",
+      "topic": "Tee",
+      "node_id": "Bo9CdrGJej-QcNmw46k9t"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Tee Command",
+      "url": "https://linuxize.com/post/linux-tee-command/",
+      "topic": "Tee",
+      "node_id": "Bo9CdrGJej-QcNmw46k9t"
+    },
+    {
+      "kind": "article",
+      "title": "Common Linux Text Processing Commands",
+      "url": "https://www.commandinline.com/linux/common-linux-text-processing-commands/",
+      "topic": "Text Processing",
+      "node_id": "-B2Dvz7160Er0OBHzS6ro"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Filters",
+      "url": "https://ryanstutorials.net/linuxtutorial/filters.php",
+      "topic": "Text Processing",
+      "node_id": "-B2Dvz7160Er0OBHzS6ro"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Text Processing Command",
+      "url": "https://earthly.dev/blog/linux-text-processing-commands/",
+      "topic": "Text Processing",
+      "node_id": "-B2Dvz7160Er0OBHzS6ro"
+    },
+    {
+      "kind": "article",
+      "title": "Master Linux Text Processing Commands",
+      "url": "https://everythingdevops.dev/linux-text-processing-commands/",
+      "topic": "Text Processing",
+      "node_id": "-B2Dvz7160Er0OBHzS6ro"
+    },
+    {
+      "kind": "article",
+      "title": "tr Command in Linux: 6 Useful Examples",
+      "url": "https://linuxhandbook.com/tr-command/",
+      "topic": "Tr-Command",
+      "node_id": "O9Vci_WpUY-79AkA4HDx3"
+    },
+    {
+      "kind": "article",
+      "title": "Linux tr Command with Practical Examples",
+      "url": "https://labex.io/tutorials/linux-linux-tr-command-with-practical-examples-422963",
+      "topic": "Tr-Command",
+      "node_id": "O9Vci_WpUY-79AkA4HDx3"
+    },
+    {
+      "kind": "article",
+      "title": "traceroute Command Examples in Linux",
+      "url": "https://linuxhandbook.com/traceroute/",
+      "topic": "Traceroute",
+      "node_id": "BnB3Rirh4R7a7LW7-k-95"
+    },
+    {
+      "kind": "article",
+      "title": "How to Use the traceroute Command on Linux",
+      "url": "https://www.howtogeek.com/657780/how-to-use-the-traceroute-command-on-linux/",
+      "topic": "Traceroute",
+      "node_id": "BnB3Rirh4R7a7LW7-k-95"
+    },
+    {
+      "kind": "article",
+      "title": "Troubleshooting Linux Problems: A Beginner's Guide",
+      "url": "https://learn.redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-p/36236",
+      "topic": "Troubleshooting",
+      "node_id": "bdQNcr1sj94aX_gjwf2Fa"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Top 20 Important Commands for Monitoring and Troubleshooting",
+      "url": "https://medium.com/@stepstodevops/linux-top-20-important-commands-for-monitoring-and-troubleshooting-a-comprehensive-guide-for-cd5aaa37da17",
+      "topic": "Troubleshooting",
+      "node_id": "bdQNcr1sj94aX_gjwf2Fa"
+    },
+    {
+      "kind": "article",
+      "title": "10 Linux Troubleshooting Tips",
+      "url": "https://www.dummies.com/article/technology/computers/operating-systems/linux/10-linux-troubleshooting-tips-274301/",
+      "topic": "Ulimits",
+      "node_id": "QgfenmhMc18cU_JngQ1n0"
+    },
+    {
+      "kind": "article",
+      "title": "Check and set user limits with ulimit Linux command",
+      "url": "https://linuxconfig.org/limit-user-environment-with-ulimit-linux-command",
+      "topic": "Ulimits",
+      "node_id": "QgfenmhMc18cU_JngQ1n0"
+    },
+    {
+      "kind": "article",
+      "title": "How to Use Ulimit Command in Linux",
+      "url": "https://linuxhandbook.com/ulimit-command/",
+      "topic": "Ulimits",
+      "node_id": "QgfenmhMc18cU_JngQ1n0"
+    },
+    {
+      "kind": "article",
+      "title": "unexpand Cheat Sheet",
+      "url": "https://www.commandinline.com/cheat-sheet/unexpand/",
+      "topic": "Unexpand",
+      "node_id": "sKduFaX6xZaUUBdXRMKCL"
+    },
+    {
+      "kind": "article",
+      "title": "Master the Linux 'unexpand' Command: A Comprehensive Guide",
+      "url": "https://hopeness.medium.com/master-the-linux-unexpand-command-a-comprehensive-guide-6966c1f90acb",
+      "topic": "Unexpand",
+      "node_id": "sKduFaX6xZaUUBdXRMKCL"
+    },
+    {
+      "kind": "article",
+      "title": "Linux unexpand Command with Practical Examples",
+      "url": "https://labex.io/tutorials/linux-linux-unexpand-command-with-practical-examples-422975",
+      "topic": "Unexpand",
+      "node_id": "sKduFaX6xZaUUBdXRMKCL"
+    },
+    {
+      "kind": "article",
+      "title": "Uniq Command in Unix and Linux: 7 Essential Examples",
+      "url": "https://linuxhandbook.com/uniq-command/",
+      "topic": "Uniq",
+      "node_id": "qnBbzphImflQbEbtFub9x"
+    },
+    {
+      "kind": "article",
+      "title": "Linux uniq Command: Duplicate Filtering",
+      "url": "https://labex.io/tutorials/linux-linux-uniq-command-duplicate-filtering-219199",
+      "topic": "Uniq",
+      "node_id": "qnBbzphImflQbEbtFub9x"
+    },
+    {
+      "kind": "article",
+      "title": "How to Use the Uniq Command to Process Lists in Linux",
+      "url": "https://www.redhat.com/en/blog/uniq-command-lists",
+      "topic": "Uniq",
+      "node_id": "qnBbzphImflQbEbtFub9x"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Uptime Command With Usage Examples",
+      "url": "https://www.tecmint.com/linux-uptime-command-examples/",
+      "topic": "Uptime and Load",
+      "node_id": "19lTWqAvZFT2CDlhLlPSq"
+    },
+    {
+      "kind": "article",
+      "title": "How to Check Uptime in Linux Command Line",
+      "url": "https://linuxhandbook.com/uptime-command/",
+      "topic": "Uptime and Load",
+      "node_id": "19lTWqAvZFT2CDlhLlPSq"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Load Average: What is Load Average in Linux?",
+      "url": "https://www.digitalocean.com/community/tutorials/load-average-in-linux",
+      "topic": "Uptime and Load",
+      "node_id": "19lTWqAvZFT2CDlhLlPSq"
+    },
+    {
+      "kind": "article",
+      "title": "User Account Management",
+      "url": "https://labex.io/tutorials/linux-user-account-management-49",
+      "topic": "User Management",
+      "node_id": "g6n7f1Qi0BPr_BGvisWuz"
+    },
+    {
+      "kind": "article",
+      "title": "How to create, delete, and modify groups in Linux",
+      "url": "https://www.redhat.com/sysadmin/linux-groups",
+      "topic": "Users and Groups",
+      "node_id": "h8wc8XEwWYHErna68w7Mg"
+    },
+    {
+      "kind": "article",
+      "title": "How to manage groups on Linux",
+      "url": "https://linuxconfig.org/how-to-manage-groups-on-linux",
+      "topic": "Users and Groups",
+      "node_id": "h8wc8XEwWYHErna68w7Mg"
+    },
+    {
+      "kind": "article",
+      "title": "How to Use Variables in Bash Shell Scripts",
+      "url": "https://linuxhandbook.com/bash-variables/",
+      "topic": "Variables",
+      "node_id": "JyxvZOb7iusOSUYSlniGl"
+    },
+    {
+      "kind": "article",
+      "title": "How To Read and Set Environmental and Shell Variables",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-linux",
+      "topic": "Variables",
+      "node_id": "JyxvZOb7iusOSUYSlniGl"
+    },
+    {
+      "kind": "course",
+      "title": "Learn Vimscript The Hard Way",
+      "url": "https://learnvimscriptthehardway.stevelosh.com/",
+      "topic": "Vim: An Essential Tool for Editing Files",
+      "node_id": "XiZz7EFIey1XKS292GN4t"
+    },
+    {
+      "kind": "article",
+      "title": "Vim Cheat Sheet",
+      "url": "https://vim.rtorr.com/",
+      "topic": "Vim: An Essential Tool for Editing Files",
+      "node_id": "XiZz7EFIey1XKS292GN4t"
+    },
+    {
+      "kind": "article",
+      "title": "Learn Vim Progressively",
+      "url": "https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/",
+      "topic": "Vim: An Essential Tool for Editing Files",
+      "node_id": "XiZz7EFIey1XKS292GN4t"
+    },
+    {
+      "kind": "article",
+      "title": "Platform to practice Vim",
+      "url": "https://vim-adventures.com/",
+      "topic": "Vim: An Essential Tool for Editing Files",
+      "node_id": "XiZz7EFIey1XKS292GN4t"
+    },
+    {
+      "kind": "video",
+      "title": "Vim Basics",
+      "url": "https://www.youtube.com/watch?v=wACD8WEnImo&list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&ab_channel=LearnLinuxTV",
+      "topic": "Vim: An Essential Tool for Editing Files",
+      "node_id": "XiZz7EFIey1XKS292GN4t"
+    },
+    {
+      "kind": "article",
+      "title": "Wc Command in Linux (Count Number of Lines, Words, and Characters)",
+      "url": "https://linuxize.com/post/linux-wc-command/",
+      "topic": "WC - Text Processing",
+      "node_id": "LIGOJwrXexnIcPyHVlhQ8"
+    },
+    {
+      "kind": "article",
+      "title": "wc Command Examples - Linux Handbook",
+      "url": "https://linuxhandbook.com/wc-command/",
+      "topic": "WC - Text Processing",
+      "node_id": "LIGOJwrXexnIcPyHVlhQ8"
+    },
+    {
+      "kind": "article",
+      "title": "Linux wc Command: Text Counting",
+      "url": "https://labex.io/tutorials/linux-linux-wc-command-text-counting-219200",
+      "topic": "WC - Text Processing",
+      "node_id": "LIGOJwrXexnIcPyHVlhQ8"
+    },
+    {
+      "kind": "article",
+      "title": "Linux Basic Files Operations",
+      "url": "https://labex.io/tutorials/linux-basic-files-operations-270248",
+      "topic": "Working with Files",
+      "node_id": "RsOTPZPZGTEIt1Lk41bQV"
+    }
+  ]
+}

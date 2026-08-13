@@ -1,0 +1,255 @@
+# Linux Roadmap — links only
+
+- [article] 10 Linux Troubleshooting Tips: https://www.dummies.com/article/technology/computers/operating-systems/linux/10-linux-troubleshooting-tips-274301/
+- [article] 16 Best Free and Open Source Network Analyzers: https://www.linuxlinks.com/best-free-open-source-network-analyzers/
+- [article] 5 Best Ways To Check Available Memory In Linux: https://itslinuxfoss.com/5-ways-check-available-memory-linux/
+- [article] 5 Practical Examples of Tail Command in Linux: https://linuxhandbook.com/tail-command/
+- [article] 5 ways to list installed packages in Linux: https://www.howtouselinux.com/post/list-installed-packages-in-linux
+- [article] 7 Practical Usage of Paste Command in Linux: https://linuxhandbook.com/paste-command/
+- [article] 8 Best Package Manager for Linux: https://linuxsimply.com/linux-basics/package-management/best-package-manager/
+- [article] A Beginner's Guide to Creating Linux Services: https://www.fosslinux.com/111815/a-guide-to-creating-linux-services-with-systemd.htm
+- [article] A Beginner's Guide to Linux Networking Fundamentals: https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o
+- [article] A Beginner's Guide to LVM in Linux - It's FOSS: https://itsfoss.com/lvm-guide/
+- [article] A Comprehensive Guide to Linux Networking: https://centlinux.com/linux-networking/
+- [article] An In-Depth Guide to Pipes in Linux - TheLinuxCode: https://thelinuxcode.com/linux-pipe-command-examples/
+- [article] AWK Tutorial: https://linuxhandbook.com/awk-command-tutorial/
+- [article] Bash Loops with examples: https://linuxconfig.org/bash-loops-with-examples
+- [article] Bash Scripting Tutorial Series for Beginners: https://linuxhandbook.com/bash/
+- [article] Bash Scripting: Conditionals: https://linuxconfig.org/bash-scripting-conditionals
+- [article] Bash Tutorial - Quoting literal text: https://riptutorial.com/bash/example/2465/quoting-literal-text
+- [article] Basic Navigation Commands: cd, ls, and pwd: https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd
+- [article] Booting process of Linux - Wikipedia: https://en.wikipedia.org/wiki/Booting_process_of_Linux
+- [article] Bootloader - Archlinux wiki: https://wiki.archlinux.org/title/Arch_boot_process#Boot_loader
+- [article] cgroups — Linux manual page: https://www.man7.org/linux/man-pages/man7/cgroups.7.html
+- [article] Chapter 10: Getting Help in Linux Terminal: https://itsfoss.com/linux-command-help/
+- [article] Check and set user limits with ulimit Linux command: https://linuxconfig.org/limit-user-environment-with-ulimit-linux-command
+- [article] Checking the Status of a Service Without Having an Exact Name: https://www.baeldung.com/linux/initialization-managers-service-status
+- [article] Commands for Process Management in Linux: https://www.digitalocean.com/community/tutorials/process-management-in-linux
+- [article] Common Linux Text Processing Commands: https://www.commandinline.com/linux/common-linux-text-processing-commands/
+- [article] Container Runtimes: https://kubernetes.io/docs/setup/production-environment/container-runtimes/
+- [article] Creating and Deleting Files / Directories in Linux: https://useful.codes/creating-and-deleting-files-directories-in-linux/
+- [article] Creating, Modifying, and Deleting User Accounts: https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/
+- [article] Creating, Moving, and Deleting Files and Folders: https://dev.to/alkesh009/linux-basics-part-4-creating-moving-and-deleting-files-and-folders-5hip
+- [article] Cut Command in Linux | Linuxize: https://linuxize.com/post/linux-cut-command/
+- [article] df command in Linux (Check Disk Space): https://linuxize.com/post/how-to-check-disk-space-in-linux-using-the-df-command/
+- [article] DHCP Protocol: How Dynamic Host Configuration Protocol Works: https://network-guides.com/dhcp-protocol/
+- [article] Difference between hard link and soft link: https://kerneltalks.com/commands/difference-between-hard-link-and-soft-link/
+- [article] Difference between the root user and super (sudo) user: https://www.computernetworkingnotes.com/linux-tutorials/difference-between-the-root-user-and-super-sudo-user.html
+- [article] dig command: https://linuxhandbook.com/dig-command/
+- [article] DNS Resolution: https://wiki.archlinux.org/title/Domain_name_resolution
+- [article] Dynamic Host Configuration Protocol - Wikipedia: https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
+- [article] Editing Files in Linux Command Line: https://itsfoss.com/edit-files-linux/
+- [article] Editing Files With Nano in Linux: https://itsfoss.com/nano-editor-guide/
+- [article] Environment Variables in Linux: https://labex.io/tutorials/linux-environment-variables-in-linux-385274
+- [article] Essential Linux Server Maintenance Checklist: https://tecadmin.net/linux-server-maintenance-checklist/
+- [article] expand — Linux manual page: https://www.man7.org/linux/man-pages/man1/expand.1.html
+- [article] Exploring the Linux /proc Filesystem: https://www.redhat.com/en/blog/linux-proc-filesystem
+- [article] fork — Linux manual page: https://www.man7.org/linux/man-pages/man2/fork.2.html
+- [article] Free vs. Available Memory in Linux: https://linuxblog.io/free-vs-available-memory-in-linux/
+- [article] Get Help on Linux Commands: https://labex.io/tutorials/linux-get-help-on-linux-commands-18000
+- [article] Grep and Regular Expressions for Beginners: https://ryanstutorials.net/linuxtutorial/grep.php
+- [article] GRUB Bootloader in Linux: https://phoenixnap.com/kb/what-is-grub
+- [article] Handling Special Characters in Shell Scripts: https://www.baeldung.com/linux/special-characters-in-shell-scripts
+- [article] Hard links and Soft links in Linux Explained: https://www.redhat.com/en/blog/linking-linux-explained
+- [article] Head Command in Linux - 5 Essential Examples: https://linuxhandbook.com/head-command/
+- [article] How to Add a New Disk: https://linuxconfig.org/how-to-add-new-disk-to-existing-linux-system
+- [article] How to Add a New Disk to an Existing Linux Server: https://www.tecmint.com/add-new-disk-to-an-existing-linux/
+- [article] How to Capture and Analyze Packets with tcpdump: https://www.debian.org/doc/manuals/apt-guide/index.en.html
+- [article] How to Check Linux Login History - Linux Handbook: https://linuxhandbook.com/linux-login-history/
+- [article] How to Check System Logs on Linux: https://www.fosslinux.com/8984/how-to-check-system-logs-on-linux-complete-usage-guide.htm
+- [article] How to Check Uptime in Linux Command Line: https://linuxhandbook.com/uptime-command/
+- [article] How to Create a systemd Service in Linux: https://linuxhandbook.com/create-systemd-services/
+- [article] How to create, delete, and modify groups in Linux: https://www.redhat.com/sysadmin/linux-groups
+- [article] How to create, update, and delete users account on Linux: https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux
+- [article] How to Debug a Bash Shell Script in Linux: https://www.linuxtechi.com/debugging-shell-scripts-in-linux/
+- [article] How To Debug a Bash Shell Script Under Linux or UNIX: https://www.cyberciti.biz/tips/debugging-shell-script.html
+- [article] How to Debug Bash Scripts: https://thelinuxcode.com/debug-bash-script/
+- [article] How to find a path of a Linux command like a pro: https://www.cyberciti.biz/howto/finding-a-path-of-a-linux-command-like-a-pro/
+- [article] How to Find Subnet Mask in Linux: https://www.howtouselinux.com/post/find-subnet-mask-on-linux
+- [article] How to Increase Swap Space on Linux: https://linuxconfig.org/how-to-increase-swap-space-on-linux
+- [article] How To Install and Use Docker on Ubuntu: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
+- [article] How to Install and Use Snap in Various Linux Distributions: https://itsfoss.com/install-snap-linux/
+- [article] How to List Linux Services With systemctl: https://www.howtogeek.com/839285/how-to-list-linux-services-with-systemctl/
+- [article] How to manage groups on Linux: https://linuxconfig.org/how-to-manage-groups-on-linux
+- [article] How to Manage Services in Linux: systemd and SysVinit: https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop
+- [article] How To Manipulate Process Priority In Linux: https://www.itsmarttricks.com/how-to-manipulate-process-priority-in-linux-using-nice-and-renice-commands/
+- [article] How to Master Linux Service Management with Systemctl: https://labex.io/tutorials/linux-how-to-master-linux-service-management-with-systemctl-392864
+- [article] How To Read and Set Environmental and Shell Variables: https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-linux
+- [article] How to Set and List Environment Variables in Linux: https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/
+- [article] How to Understand the Difference between Hard and Symbolic Links in Linux: https://labex.io/tutorials/linux-how-to-understand-the-difference-between-hard-and-symbolic-links-in-linux-409929
+- [article] How to Use journalctl Command to Analyze Logs in Linux: https://linuxhandbook.com/journalctl-command/
+- [article] How To Use journalctl to View and Manipulate systemd Logs on Linux: https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
+- [article] How to Use Linux FTP Command to Transfer Files: https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/
+- [article] How to Use netstat on Linux: https://www.howtogeek.com/513003/how-to-use-netstat-on-linux/
+- [article] How to Use the 'expand' Command (with examples): https://commandmasters.com/commands/expand-common/
+- [article] How to Use the traceroute Command on Linux: https://www.howtogeek.com/657780/how-to-use-the-traceroute-command-on-linux/
+- [article] How to Use the Uniq Command to Process Lists in Linux: https://www.redhat.com/en/blog/uniq-command-lists
+- [article] How to Use Ulimit Command in Linux: https://linuxhandbook.com/ulimit-command/
+- [article] How to Use Variables in Bash Shell Scripts: https://linuxhandbook.com/bash-variables/
+- [article] IBM.com: Awk by Example: https://developer.ibm.com/tutorials/l-awk1/
+- [article] icmp(7) — Linux manual page: https://www.man7.org/linux/man-pages/man7/icmp.7.html
+- [article] Index Nodes — The Linux Kernel documentation: https://www.kernel.org/doc/html/latest/filesystems/ext4/inodes.html?highlight=inode
+- [article] Input Output & Error Redirection in Linux: https://linuxhandbook.com/redirection-linux/
+- [article] Introduction to Control Groups (Cgroups): https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/resource_management_guide/chap-introduction_to_control_groups
+- [article] Introduction to Inodes: https://linuxjourney.com/lesson/inodes
+- [article] join command in Linux with examples: https://linuxconfig.org/join
+- [article] join(1) — Linux manual page: https://www.man7.org/linux/man-pages/man1/join.1.html
+- [article] Journalctl Explained: How To View And Analyze Systemd Logs.: https://uptimerobot.com/knowledge-hub/logging/journalctl-explained-how-to-view-and-analyze-systemd-logs/
+- [article] Kill Command in Linux: https://linuxize.com/post/kill-command-in-linux/
+- [article] Learn Linux Easily: https://linuxjourney.com
+- [article] Learn Shell - Free Interactive Shell Tutorial: https://www.learnshell.org/
+- [article] Learn Vim Progressively: https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+- [article] Learning The Shell: https://www.linuxcommand.org/lc3_lts0010.php
+- [article] Linux awk Command: Text Processing: https://labex.io/tutorials/linux-linux-awk-command-text-processing-388493
+- [article] Linux Bash Shell Scripting Tutorial Wiki: https://bash.cyberciti.biz/guide/Main_Page
+- [article] Linux Basic Files Operations: https://labex.io/tutorials/linux-basic-files-operations-270248
+- [article] Linux cp Command: File Copying: https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744
+- [article] Linux cut Command: Text Cutting: https://labex.io/tutorials/linux-linux-cut-command-text-cutting-219187
+- [article] Linux Directory Structure Explained for Beginners: https://linuxhandbook.com/linux-directory-structure/
+- [article] Linux Environment Variables List, Set, Create & Remove: https://www.computernetworkingnotes.com/linux-tutorials/linux-environment-variables-list-set-create-remove.html
+- [article] Linux File Packaging and Compression: https://labex.io/tutorials/linux-file-packaging-and-compression-385413
+- [article] Linux File Permissions: https://linuxhandbook.com/linux-file-permissions/
+- [article] Linux Filesystem Navigation Basics: https://linuxconfig.org/filesystem-basics
+- [article] Linux Filters: https://ryanstutorials.net/linuxtutorial/filters.php
+- [article] Linux Fundamentals - I/O, Standard Streams, and Redirection: https://www.putorius.net/linux-io-file-descriptors-and-redirection.html
+- [article] Linux grep Command: Pattern Searching: https://labex.io/tutorials/linux-linux-grep-command-pattern-searching-219192
+- [article] Linux head Command: File Beginning Display: https://labex.io/tutorials/linux-linux-head-command-file-beginning-display-214302
+- [article] Linux join Command: File Joining: https://labex.io/tutorials/linux-linux-join-command-file-joining-219193
+- [article] Linux Load Average: What is Load Average in Linux?: https://www.digitalocean.com/community/tutorials/load-average-in-linux
+- [article] Linux mount command with Examples: https://phoenixnap.com/kb/linux-mount-command
+- [article] Linux mv Command: File Moving and Renaming: https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743
+- [article] Linux Navigation and File Management: https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management
+- [article] Linux Networking: A Simplified Guide to IP Addresses: https://www.linuxjournal.com/content/linux-networking-simplified-guide-ip-addresses-and-routing
+- [article] Linux nl Command: Line Numbering: https://labex.io/tutorials/linux-linux-nl-command-line-numbering-210988
+- [article] Linux Package Manager Explained: https://geekflare.com/dev/linux-package-manager-explained/
+- [article] Linux path environment variable: https://linuxconfig.org/linux-path-environment-variable
+- [article] Linux Permissions of Files: https://labex.io/tutorials/linux-permissions-of-files-270252
+- [article] Linux Process calls: Creating process using fork: https://medium.com/@joshuaudayagiri/linux-process-calls-creating-process-using-fork-52a1eac7de8b
+- [article] Linux Process Signals and their meaning: https://linux-audit.com/processes/linux-process-signals/
+- [article] Linux Server Management Essentials: https://www.ictbroadcast.com/linux-server-management-essentials-administration-monitoring-and-maintenance-guidelines-for-success/
+- [article] Linux Set Up Routing with ip Command: https://www.cyberciti.biz/faq/howto-linux-configuring-default-route-with-ipcommand/
+- [article] Linux sort Command: Text Sorting: https://labex.io/tutorials/linux-linux-sort-command-text-sorting-219196
+- [article] Linux Superuser Access, Explained: https://www.redhat.com/en/blog/linux-superuser-access/
+- [article] Linux Tail Command | Linuxize: https://linuxize.com/post/linux-tail-command/
+- [article] Linux tail Command: File End Display: https://labex.io/tutorials/linux-linux-tail-command-file-end-display-214303
+- [article] Linux Tee Command: https://linuxize.com/post/linux-tee-command/
+- [article] Linux Text Processing Command: https://earthly.dev/blog/linux-text-processing-commands/
+- [article] Linux Top 20 Important Commands for Monitoring and Troubleshooting: https://medium.com/@stepstodevops/linux-top-20-important-commands-for-monitoring-and-troubleshooting-a-comprehensive-guide-for-cd5aaa37da17
+- [article] Linux tr Command with Practical Examples: https://labex.io/tutorials/linux-linux-tr-command-with-practical-examples-422963
+- [article] Linux unexpand Command with Practical Examples: https://labex.io/tutorials/linux-linux-unexpand-command-with-practical-examples-422975
+- [article] Linux uniq Command: Duplicate Filtering: https://labex.io/tutorials/linux-linux-uniq-command-duplicate-filtering-219199
+- [article] Linux Uptime Command With Usage Examples: https://www.tecmint.com/linux-uptime-command-examples/
+- [article] Linux wc Command: Text Counting: https://labex.io/tutorials/linux-linux-wc-command-text-counting-219200
+- [article] Master Linux Text Processing Commands: https://everythingdevops.dev/linux-text-processing-commands/
+- [article] Master the Linux 'nl' Command: A Comprehensive Guide: https://hopeness.medium.com/master-the-linux-nl-command-a-comprehensive-guide-79c6adf50fa9
+- [article] Master the Linux 'unexpand' Command: A Comprehensive Guide: https://hopeness.medium.com/master-the-linux-unexpand-command-a-comprehensive-guide-6966c1f90acb
+- [article] Mastering cp and mv Commands in Linux: https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9
+- [article] Mastering Network Traffic Analysis in Linux: https://en.ittrip.xyz/linux/linux-network-analysis
+- [article] Mastering SSH - A Complete Guide to Secure Shell Protocol: https://www.socketxp.com/iot/ssh-secure-shell/
+- [article] Monitoring Linux Authentication Logs: https://betterstack.com/community/guides/logging/monitoring-linux-auth-logs/
+- [article] Most Popular Linux Boot Loaders: https://thelinuxcode.com/what-is-a-boot-loader/
+- [article] Mounting, unmounting and the /mnt directory - The Linux Documentation Project: https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/mnt.html
+- [article] mv and cp - Linux.org: https://www.linux.org/threads/mv-and-cp.54793/
+- [article] mv Cheat Sheet: https://www.commandinline.com/cheat-sheet/mv/
+- [article] mv command: https://linuxhandbook.com/mv-command/
+- [article] Nano in Linux: https://ioflood.com/blog/nano-linux-command/
+- [article] Netstat Command in Linux: https://phoenixnap.com/kb/netstat-command
+- [article] Netstat Command in Linux: 13 Practical Examples: https://linuxhandbook.com/netstat-command/
+- [article] nl command: https://www.computerhope.com/unix/nl.htm
+- [article] nslookup command: https://linuxconfig.org/nslookup-linux-command
+- [article] Official Repositories - ArchWiki: https://wiki.archlinux.org/title/Official_repositories
+- [article] Optimizing Linux Server Performance: https://www.linuxjournal.com/content/optimizing-linux-server-performance-benchmarking-and-advanced-techniques
+- [article] Overview of File System Hierarchy Standard (FHS): https://access.redhat.com/documentation/ru-ru/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr
+- [article] Packet filtering in Linux - iptables, nftables and firewalld: https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/
+- [article] Partitions And Filesystems In Linux - Introduction: https://www.linuxfordevices.com/tutorials/linux/partitions-and-filesystems
+- [article] Paste Command in Linux (Merge Lines): https://linuxize.com/post/paste-command-in-linux/
+- [article] Ping Command Examples in Linux - It's FOSS: https://itsfoss.com/ping-command/
+- [article] Ping Command in Linux: https://linuxize.com/post/linux-ping-command/
+- [article] Piping and Redirection: https://ryanstutorials.net/linuxtutorial/piping.php#piping
+- [article] Platform to practice Vim: https://vim-adventures.com/
+- [article] Practice on Linux Fundamentals: https://linuxjourney.com/
+- [article] Practice on Networking Fundamentals: https://linuxjourney.com/lesson/network-basics
+- [article] Redirections (Bash Reference Manual): https://www.gnu.org/software/bash/manual/html_node/Redirections.html
+- [article] Rsync Command in Linux with Examples: https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/
+- [article] Running Linux Commands in Background and Foreground: https://linuxhandbook.com/run-process-background/
+- [article] Secure Shell: https://en.wikipedia.org/wiki/Secure_Shell
+- [article] Service Management in Linux: A Comprehensive Guide: https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9
+- [article] Setup DNS Resolution With "resolv.conf" in Examples: https://www.shellhacks.com/setup-dns-resolution-resolvconf-example/
+- [article] Software Installation on Linux: https://labex.io/tutorials/linux-software-installation-on-linux-18005
+- [article] Sort Command in Linux - 10 Useful Examples: https://linuxhandbook.com/sort-command/
+- [article] Sort Command in Linux with Practical Examples: https://tecadmin.net/linux-sort-command/
+- [article] Split Command in Linux: 9 Useful Examples: https://linuxhandbook.com/split-command/
+- [article] Split Command in Linux: Usage Guide with Examples: https://ioflood.com/blog/split-linux-command/
+- [article] Swap - Arch Wiki: https://wiki.archlinux.org/title/Swap
+- [article] TCP/IP Commands for Linux: https://whatismyipaddress.com/tcp-ip-commands-linux
+- [article] Tee Command in Linux Explained with Examples: https://linuxhandbook.com/tee-command/
+- [article] The "snap" Command in Linux: https://linuxsimply.com/snap-command-in-linux/
+- [article] The /proc File System: https://www.kernel.org/doc/html/latest/filesystems/proc.html
+- [article] The Basics of IP Subnetting | Linux Journal: https://www.linuxjournal.com/article/6287
+- [article] The Complete Beginner's Guide to LVM in Linux: https://linuxhandbook.com/lvm-guide/
+- [article] The Complete Guide to Process Management Commands: https://thelinuxcode.com/process-management-commands-linux/
+- [article] The Complete Guide to Text Editing in Linux with Nano and Vim: https://thelinuxcode.com/how-to-edit-file-in-linux/
+- [article] The Linux Booting Process: https://thelinuxcode.com/the-linux-booting-process-6-steps-described-in-detail/
+- [article] tr Command in Linux: 6 Useful Examples: https://linuxhandbook.com/tr-command/
+- [article] traceroute Command Examples in Linux: https://linuxhandbook.com/traceroute/
+- [article] Troubleshooting Linux Problems: A Beginner's Guide: https://learn.redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-p/36236
+- [article] Understanding 'stdin', 'stdout' and 'stderr' in Linux: https://www.slingacademy.com/article/understanding-stdin-stdout-and-stderr-in-linux/
+- [article] Understanding Foreground and Background Processes: https://linuxconfig.org/understanding-foreground-and-background-linux-processes
+- [article] Understanding ICMP Packets with Examples: https://www.howtouselinux.com/post/icmp-packets
+- [article] Understanding IP Addressing and Subnetting in Linux: https://useful.codes/understanding-ip-addressing-and-subnetting-in-linux/
+- [article] Understanding Linux File Permissions: https://linuxize.com/post/understanding-linux-file-permissions/
+- [article] Understanding Linux Filesystems: Inodes, Block Sizes, and Data: https://www.linuxjournal.com/content/understanding-linux-filesystems-inodes-block-sizes-and-data-structures
+- [article] Understanding Linux Process Signals: https://www.ceos3c.com/linux/understanding-linux-process-signals-a-complete/
+- [article] Understanding Process Thread Priorities in Linux: https://blogs.oracle.com/linux/post/task-priority
+- [article] Understanding the fork() System Call in Linux: https://thelinuxcode.com/fork-system-call-linux/
+- [article] unexpand Cheat Sheet: https://www.commandinline.com/cheat-sheet/unexpand/
+- [article] Uniq Command in Unix and Linux: 7 Essential Examples: https://linuxhandbook.com/uniq-command/
+- [article] User Account Management: https://labex.io/tutorials/linux-user-account-management-49
+- [article] User Management in Linux: A Beginner's Guide: https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf
+- [article] Using For, While and Until Loops in Bash: https://linuxhandbook.com/bash-loops/
+- [article] Using Kill Command in Linux: https://linuxhandbook.com/kill-command/
+- [article] Using scp Command in Linux: https://linuxhandbook.com/scp-command/
+- [article] Using the Help Command in Linux: https://linuxhandbook.com/help-command/
+- [article] Vim Cheat Sheet: https://vim.rtorr.com/
+- [article] Vim Tutorial for Beginners: https://linuxconfig.org/vim-tutorial
+- [article] wc Command Examples - Linux Handbook: https://linuxhandbook.com/wc-command/
+- [article] Wc Command in Linux (Count Number of Lines, Words, and Characters): https://linuxize.com/post/linux-wc-command/
+- [article] Wget Command in Linux with Examples: https://linuxize.com/post/wget-command-examples/
+- [article] What are container runtimes?: https://opensource.com/article/21/9/container-runtimes
+- [article] What are Container Runtimes? Types and Popular Runtime: https://www.wiz.io/academy/container-runtimes
+- [article] What is a Process in Linux/Unix?: https://www.scaler.com/topics/linux-process/
+- [article] What is a Shell in Linux: https://linuxsimply.com/what-is-a-shell-linux/
+- [article] What is Containerization? - Containerization Explained - AWS: https://aws.amazon.com/what-is/containerization/
+- [article] What is Containerization? - DigitalOcean: https://www.digitalocean.com/resources/articles/what-is-containerization
+- [article] What is dmesg in Linux, And How Do I Use It?: https://linuxconfig.org/what-is-dmesg-and-how-do-i-use-it
+- [article] What is Piping in Linux?: https://linuxsimply.com/what-is-piping-in-linux/
+- [article] What is Repository in Linux?: https://linuxsimply.com/what-is-repository-in-linux/
+- [article] What is SSH? | Secure Shell (SSH) Protocol - Cloudflare: https://www.cloudflare.com/learning/access-management/what-is-ssh/
+- [article] What is Superuser Access in Linux?: https://www.scaler.com/topics/super-user-in-linux/
+- [article] What is the Difference Between Cat and Touch Command: https://linuxways.net/centos/what-is-the-difference-between-cat-and-touch-command/
+- [article] Working with data streams on the Linux command line: https://opensource.com/article/18/10/linux-data-streams
+- [course] Learn Vimscript The Hard Way: https://learnvimscriptthehardway.stevelosh.com/
+- [course] Linux for Noobs (Hands-on): https://labex.io/courses/linux-for-noobs
+- [official] Control Groups — The Linux Kernel: https://docs.kernel.org/admin-guide/cgroup-v1/
+- [official] Docker: https://docker.com
+- [official] Docker Documentation: https://docs.docker.com/
+- [official] Filesystems in the Linux Kernel: https://docs.kernel.org/filesystems/index.html
+- [official] Kubernetes: https://kubernetes.io
+- [official] nano - Text editor: https://www.nano-editor.org/
+- [official] netfilter/iptables project homepage: https://netfilter.org/
+- [official] The GNU GRUB: https://www.gnu.org/software/grub/
+- [official] The mount command manual page: https://man7.org/linux/man-pages/man8/mount.8.html
+- [official] Using the DNF Software Package Manager: https://docs.fedoraproject.org/en-US/quick-docs/dnf/
+- [official] Yum Package Manager: http://yum.baseurl.org/
+- [opensource] Ripgrep: GitHub Repository: https://github.com/BurntSushi/ripgrep
+- [opensource] tldr-pages/tldr: https://github.com/tldr-pages/tldr
+- [roadmap] Visit Dedicated Docker Roadmap: https://roadmap.sh/docker
+- [video] ARP Explained - Address Resolution Protocol: https://www.youtube.com/watch?v=cn8Zxh9bPio
+- [video] Bash Scripting on Linux - YT Playlist: https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&si=MSehStqnhSqgoMSj
+- [video] Learning Awk Is Essential For Linux Users: https://www.youtube.com/watch?v=9YOZmI-zWok
+- [video] Linux File Permissions in 5 Minutes: https://www.youtube.com/watch?v=LnKoncbQBsM
+- [video] Linux fundamentals: https://www.youtube.com/watch?v=kPylihJRG70&t=1381s&ab_channel=TryHackMe
+- [video] Nano editor fundamentals: https://www.youtube.com/watch?v=gyKiDczLIZ4&ab_channel=HackerSploit
+- [video] The Linux File System Explained in 1,233 Seconds: https://youtu.be/A3G-3hp88mo?si=sTJTSzubdb0Vizjr
+- [video] Vim Basics: https://www.youtube.com/watch?v=wACD8WEnImo&list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&ab_channel=LearnLinuxTV
+- [video] What is Ethernet?: https://www.youtube.com/watch?v=HLziLmaYsO0

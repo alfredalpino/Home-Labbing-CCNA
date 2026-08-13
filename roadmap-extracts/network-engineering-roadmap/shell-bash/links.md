@@ -1,0 +1,409 @@
+# Shell / Bash — links only
+
+- [article] $? - Linux Bash Shell Scripting Tutorial Wiki: https://bash.cyberciti.biz/guide/$%3F
+- [article] 10 ways to use the Linux find command: https://www.redhat.com/en/blog/linux-find-command
+- [article] 8 Types of Linux Shells: https://phoenixnap.com/kb/linux-shells
+- [article] A beginner’s guide to SSH for remote connection on Linux: https://opensource.com/article/20/9/ssh
+- [article] Adding arguments and options to your Bash scripts: https://www.redhat.com/en/blog/arguments-options-bash-scripts
+- [article] Allowing for Errors in Bash When You Have set -e Defined: https://nickjanetakis.com/blog/allowing-for-errors-in-bash-when-you-have-set-e-defined
+- [article] An introduction to the vi editor: https://www.redhat.com/en/blog/introduction-vi-editor
+- [article] apt Command in Linux: https://linuxize.com/post/how-to-use-apt-command/
+- [article] apt Linux Command with Examples: https://phoenixnap.com/kb/apt-linux
+- [article] Arithmetic - Bash Scripting Tutorial: https://ryanstutorials.net/bash-scripting-tutorial/bash-arithmetic.php
+- [article] Arithmetic Expansion (Bash Reference Manual): https://www.gnu.org/software/bash/manual/html_node/Arithmetic-Expansion.html
+- [article] Associative arrays in Bash: https://rednafi.com/misc/associative-arrays-in-bash/
+- [article] At Command in Linux: https://linuxize.com/post/at-command-in-linux/
+- [article] AWK command in Linux/Unix | DigitalOcean: https://www.digitalocean.com/community/tutorials/awk-command-linux-unix
+- [article] Bash Alias: https://www.w3schools.com/bash/bash_alias.php
+- [article] Bash Arrays: https://www.w3schools.com/bash/bash_arrays.php
+- [article] Bash awk - Pattern Scanning and Processing Language: https://www.w3schools.com/bash/bash_awk.php
+- [article] Bash break and continue: https://linuxize.com/post/bash-break-continue/
+- [article] Bash cat Command - Concatenate and Display Files: https://www.w3schools.com/bash/bash_cat.php
+- [article] Bash cd - Change Directory: https://www.w3schools.com/bash/bash_cd.php
+- [article] Bash Conditional Expressions (Bash Reference Manual): https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html
+- [article] Bash cp - Copy Files and Directories: https://www.w3schools.com/bash/bash_cp.php
+- [article] Bash crontab Command - Schedule Tasks: https://www.w3schools.com/bash/bash_cron.php
+- [article] Bash Data Types: https://www.w3schools.com/bash/bash_data_types.php
+- [article] Bash df Command - File System Disk Space Usage: https://www.w3schools.com/bash/bash_df.php
+- [article] Bash du Command - File Space Usage: https://www.w3schools.com/bash/bash_du.php
+- [article] Bash echo Command - Display Text: https://www.w3schools.com/bash/bash_echo.php
+- [article] Bash For Loop Examples: https://www.cyberciti.biz/faq/bash-for-loop/
+- [article] Bash free Command - Display Free and Used Memory: https://www.w3schools.com/bash/bash_free.php
+- [article] Bash Functions: https://linuxize.com/post/bash-functions/
+- [article] Bash Functions: https://www.w3schools.com/bash/bash_functions.php
+- [article] Bash Functions – Declaration, Scope, Arguments, etc: https://www.webservertalk.com/bash-functions/
+- [article] Bash grep Command - Search Text Using Patterns: https://www.w3schools.com/bash/bash_grep.php
+- [article] Bash head Command - Display the beginning of a file: https://www.w3schools.com/bash/bash_head.php
+- [article] Bash If...Else: https://www.w3schools.com/bash/bash_conditions.php
+- [article] Bash kill Command - Terminate Processes: https://www.w3schools.com/bash/bash_kill.php
+- [article] Bash Logging and Error Reporting Exercises, Solutions & Explanation: https://www.w3resource.com/bash-script-exercises/logging-and-error-reporting.php
+- [article] Bash Loops: https://www.w3schools.com/bash/bash_loops.php
+- [article] Bash ls Command - List Directory Contents: https://www.w3schools.com/bash/bash_ls.php
+- [article] Bash man Command - User Manual: https://www.w3schools.com/bash/bash_man.php
+- [article] Bash Math Operations (Bash Arithmetic) Explained: https://phoenixnap.com/kb/bash-math
+- [article] Bash mkdir Command - Make Directories: https://www.w3schools.com/bash/bash_mkdir.php
+- [article] Bash mv Command - Move or Rename Files: https://www.w3schools.com/bash/bash_mv.php
+- [article] Bash Operators: https://www.w3schools.com/bash/bash_operators.php
+- [article] Bash ping Command - Send Request to Network Hosts: https://www.w3schools.com/bash/bash_ping.php
+- [article] Bash Positional Parameters: https://adminschoice.com/bash-positional-parameters/
+- [article] Bash printf: https://www.warp.dev/terminus/bash-printf
+- [article] Bash printf Command: https://linuxize.com/post/bash-printf-command/
+- [article] Bash Process Management: How to Tame Your Shell Like a Pro: https://itldc.com/en/blog/bash-process-management-how-to-tame-your-shell-like-a-pro/
+- [article] Bash ps Command - Snapshot of Current Processes: https://www.w3schools.com/bash/bash_ps.php
+- [article] Bash pwd Command - Print Working Directory: https://www.w3schools.com/bash/bash_pwd.php
+- [article] Bash Regex Tutorial for Beginners (regular expressions): https://www.fullstackfoundations.com/blog/bash-regex
+- [article] Bash Regex: How to Use Regex in a Shell Script: https://kodekloud.com/blog/regex-shell-script/
+- [article] Bash rm Command - Remove Files or Directories: https://www.w3schools.com/bash/bash_rm.php
+- [article] Bash rsync Command - Remote (and local) File-copying: https://www.w3schools.com/bash/bash_rsync.php
+- [article] Bash Script: https://www.w3schools.com/bash/bash_script.php
+- [article] Bash Script ‘-n’ Operator Explained: Evaluating Expressions: https://ioflood.com/blog/n-flag-in-bash/
+- [article] Bash Scripting - String: https://www.geeksforgeeks.org/linux-unix/bash-scripting-string/
+- [article] Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners: https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
+- [article] Bash sed Command - Stream Editor: https://www.w3schools.com/bash/bash_sed.php
+- [article] Bash shell basics — pipes, redirection, and coprocesses: https://paulguerin.medium.com/bash-shell-basics-pipe-and-redirection-fbb4c2c1c0ed
+- [article] Bash shell basics — scoping: https://paulguerin.medium.com/bash-shell-basics-scoping-d59c8e1468b4
+- [article] Bash Shell Convert Uppercase to Lowercase in Linux: https://www.cyberciti.biz/faq/linux-unix-shell-programming-converting-lowercase-uppercase/
+- [article] Bash sort Command - Sort Lines of Text Files: https://www.w3schools.com/bash/bash_sort.php
+- [article] Bash String Comparison: The Comprehensive Guide: https://www.namehero.com/blog/bash-string-comparison-the-comprehensive-guide/
+- [article] Bash String Manipulation Examples – Length, Substring, Find and Replace: https://www.thegeekstuff.com/2010/07/bash-string-manipulation/
+- [article] Bash tail Command - Display Last Part of Files: https://www.w3schools.com/bash/bash_tail.php
+- [article] Bash tar Command - An archiving utility: https://www.w3schools.com/bash/bash_tar.php
+- [article] Bash Tests: https://docs.rockylinux.org/10/books/learning_bash/05-tests/
+- [article] Bash top Command - Display Linux Tasks: https://www.w3schools.com/bash/bash_top.php
+- [article] Bash touch Command - Change File Timestamps: https://www.w3schools.com/bash/bash_touch.php
+- [article] Bash trap Command Explained: https://phoenixnap.com/kb/bash-trap-command
+- [article] Bash Tutorial: https://www.w3schools.com/bash/
+- [article] Bash Until Loop: https://linuxize.com/post/bash-until-loop/
+- [article] Bash unzip Command - Extract from ZIP archive: https://www.w3schools.com/bash/bash_unzip.php
+- [article] Bash uptime Command - System Runtime: https://www.w3schools.com/bash/bash_uptime.php
+- [article] Bash While Loop Examples: https://www.cyberciti.biz/faq/bash-while-loop/
+- [article] Bash zip Command - Package and compress (archive) files: https://www.w3schools.com/bash/bash_zip.php
+- [article] Beginner's Guide to Nano Text Editor: https://itsfoss.com/nano-editor-guide/
+- [article] Beginners Guide to Bash Regex (With Code Examples): https://zerotomastery.io/blog/bash-regex/
+- [article] Break and continue: https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_05.html
+- [article] Case statements: https://linuxize.com/post/bash-case-statement/
+- [article] cmd: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
+- [article] Command Line Commands – CLI Tutorial: https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/
+- [article] Command substitution: https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html
+- [article] Command substitution - Wikipedia: https://en.wikipedia.org/wiki/Command_substitution
+- [article] Creating And Using An Associative Array In A Bash Script | by Linux Root Room: https://medium.com/@linuxrootroom/create-and-use-associative-array-in-bash-script-5f4e32a00577
+- [article] Cut Command in Linux | Linuxize: https://linuxize.com/post/linux-cut-command/
+- [article] Dash: https://wiki.archlinux.org/title/Dash
+- [article] Dash - Wikipedia: https://en.wikipedia.org/wiki/Almquist_shell#dash
+- [article] Debugging Bash scripts: https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_03.html
+- [article] Deleting or removing directories (rmdir command): https://www.ibm.com/docs/en/aix/7.2.0?topic=directories-deleting-removing-rmdir-command
+- [article] Difference between bash -x and set -x: https://how.dev/answers/bash--x-and-set--x
+- [article] Environment and Shell variables In Linux: https://www.futurelearn.com/info/courses/linux-for-bioinformatics/0/steps/201724
+- [article] Error handling in Bash scripts: https://www.redhat.com/en/blog/error-handling-bash-scripting
+- [article] Executing Code after an Error Occurs with Bash When Using set e: https://nickjanetakis.com/blog/executing-code-after-an-error-occurs-with-bash-when-using-set-e
+- [article] Extended Regular Expressions: https://pressbooks.senecapolytechnic.ca/uli101/chapter/extended-regular-expressions/
+- [article] Extracting a Substring in Bash: https://www.baeldung.com/linux/bash-substring
+- [article] File test operators: https://tldp.org/LDP/abs/html/fto.html
+- [article] Finally, a command line shell for the 90s: https://fishshell.com/
+- [article] Free Command in Linux: https://linuxize.com/post/free-command-in-linux/
+- [article] Getting started with Vim: The basics: https://opensource.com/article/19/3/getting-started-vim
+- [article] GNU Emacs - Guided Tour: https://www.gnu.org/software/emacs/tour/
+- [article] GNU Wget: https://www.gnu.org/software/wget/
+- [article] Guide to Naming Conventions for Shell Variables: https://www.baeldung.com/linux/shell-variable-naming-conventions
+- [article] Guide to the Linux bzip2 Command With Examples: https://www.baeldung.com/linux/bzip2-guide
+- [article] Handy Bash feature: Process Substitution: https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133
+- [article] Here documents: https://tldp.org/LDP/abs/html/here-docs.html
+- [article] Here Strings: https://tldp.org/LDP/abs/html/x17837.html
+- [article] Heredoc: A Deep Dive: https://medium.com/@oduwoledare/heredoc-a-deep-dive-23c82992e522
+- [article] How to Comment in Bash: https://phoenixnap.com/kb/bash-comment
+- [article] How to configure or customize Bash: My first steps for my setup: https://www.youtube.com/watch?v=wy1q5egFW6I
+- [article] How to exit from Bash script: https://linuxconfig.org/how-to-exit-from-bash-script
+- [article] How to Extract Bash Substring: https://kodekloud.com/blog/bash-substring/
+- [article] How to get help in Bash: https://nipunarat1997.medium.com/how-to-get-help-in-bash-9b101ee7d65a
+- [article] How to implement a recursive function in a Bash script?: https://labex.io/questions/how-to-implement-a-recursive-function-in-a-bash-script-18293
+- [article] How To Install and Use Homebrew on Linux: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-linux
+- [article] How to install Yum on Linux: https://linuxconfig.org/how-to-install-yum-on-linux
+- [article] How to program with Bash: Logical operators and shell expansions: https://opensource.com/article/19/10/programming-bash-logical-operators-shell-expansions
+- [article] How To Read and Set Environmental and Shell Variables on Linux: https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-linux
+- [article] How to Redirect Standard (stderr) Error in Bash: https://www.geeksforgeeks.org/linux-unix/how-to-redirect-standard-stderr-error-in-bash/
+- [article] How to run the .sh file in Linux: https://www.hostinger.com/tutorials/how-to-run-sh-file-in-linux
+- [article] How To Run the .sh File Shell Script In Linux / UNIX: https://www.cyberciti.biz/faq/run-execute-sh-shell-script/
+- [article] How to Transform Text Case in Bash: https://labex.io/tutorials/shell-how-to-transform-text-case-in-bash-391560
+- [article] How To Use awk In Bash Scripting: https://www.cyberciti.biz/faq/bash-scripting-using-awk/
+- [article] How To Use Bash History Commands and Expansions on a Linux VPS: https://www.digitalocean.com/community/tutorials/how-to-use-bash-history-commands-and-expansions-on-a-linux-vps
+- [article] How to Use Bash String Substitution Effectively: https://labex.io/tutorials/shell-how-to-use-bash-string-substitution-effectively-398333
+- [article] How To Use Bash's Job Control to Manage Foreground and Background Processes: https://www.digitalocean.com/community/tutorials/how-to-use-bash-s-job-control-to-manage-foreground-and-background-processes
+- [article] How to Use Disown Command in Linux: https://phoenixnap.com/kb/disown-command-linux
+- [article] How To Use Linux SS Command: https://phoenixnap.com/kb/ss-command
+- [article] How to Use Nano, the Linux Command Line Text Editor: https://linuxize.com/post/how-to-use-nano-text-editor/
+- [article] How To Use pwd Command In Linux / UNIX {with examples}: https://www.cyberciti.biz/faq/pwd-linux-unix-command-examples/
+- [article] How To Use Rsync to Sync Local and Remote Directories: https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories
+- [article] How to use SCP command to copy and transfer files in Linux: https://www.hostinger.com/tutorials/linux-scp-command
+- [article] How to Use SCP Command to Securely Transfer Files: https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/
+- [article] How to Use the Bash let Command {with Examples}: https://phoenixnap.com/kb/bash-let
+- [article] How To Use the Emacs Editor in Linux | DigitalOcean: https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux
+- [article] How to Use the Linux at Command: https://phoenixnap.com/kb/linux-at-command
+- [article] How to use the nohup command in Linux: https://www.hostinger.com/tutorials/nohup-command-in-linux
+- [article] How to Use the nohup Command in Linux: https://www.digitalocean.com/community/tutorials/nohup-command-in-linux
+- [article] How to use the tar command in Linux: https://www.hostinger.com/tutorials/linux-tar-command-with-examples
+- [article] How to use the uniq command to process lists in Linux: https://www.redhat.com/en/blog/uniq-command-lists
+- [article] How to use top and htop Linux command for Process Management: https://www.layerstack.com/resources/tutorials/How-to-use-top-and-htop-Linux-command-for-Process-Management
+- [article] How To Use Unix Wildcards: https://www.warp.dev/terminus/linux-wildcards
+- [article] How to Work with Shell Variables and Functions: https://labex.io/fr/tutorials/shell-how-to-work-with-shell-variables-and-functions-392774
+- [article] https://dillionmegida.com/p/sourcing-vs-executing-script-directly/: https://dillionmegida.com/p/sourcing-vs-executing-script-directly/
+- [article] https://en.wikipedia.org/wiki/Bash_(Unix_shell)#:~:text=Bash (short for "Bourne Again,Chet Ramey): https://en.wikipedia.org/wiki/Bash_(Unix_shell
+- [article] https://www.gnu.org/software/gnuastro/manual/html_node/Bash-TAB-completion-tutorial.html: https://www.gnu.org/software/gnuastro/manual/html_node/Bash-TAB-completion-tutorial.html
+- [article] Job Control Basics: https://www.gnu.org/software/bash/manual/html_node/Job-Control-Basics.html
+- [article] Job Control Commands: https://tldp.org/LDP/abs/html/x9644.html
+- [article] Jobs and Job Control in Bash Shell: https://www.baeldung.com/linux/jobs-job-control-bash
+- [article] ksh: http://www.kornshell.com/
+- [article] ksh - Wikipedia: https://en.wikipedia.org/wiki/KornShell
+- [article] Learn XZ (Lossless Data Compression Tool) in Linux with Examples: https://www.tecmint.com/xz-command-examples-in-linux/
+- [article] Less Command in Linux: https://linuxize.com/post/less-command-in-linux/
+- [article] Linux / Unix: disown Command Examples: https://www.cyberciti.biz/faq/unix-linux-disown-command-examples-usage-syntax/
+- [article] Linux bash exit status and how to set exit status in bash: https://www.cyberciti.biz/faq/linux-bash-exit-status-set-exit-statusin-bash/
+- [article] Linux bc Command with Examples: https://phoenixnap.com/kb/linux-bc
+- [article] Linux Commands: jobs, bg, and fg: https://www.redhat.com/en/blog/jobs-bg-fg
+- [article] Linux gzip and gunzip: How to work with compressed files: https://alvinalexander.com/blog/post/linux-unix/how-work-compressed-files-gzip-zgrep-zcat/
+- [article] Linux Handbook | bc command in Linux: https://linuxhandbook.com/bc-command/
+- [article] Linux ifconfig Command With Examples: https://phoenixnap.com/kb/linux-ifconfig
+- [article] Linux ip Command with Examples: https://phoenixnap.com/kb/linux-ip-command-examples
+- [article] Linux package management with YUM and RPM: https://www.redhat.com/en/blog/how-manage-packages
+- [article] Linux Performance Monitoring with Vmstat and Iostat Commands: https://www.tecmint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands/
+- [article] Linux Performance Monitoring with Vmstat and Iostat Commands: https://www.tutorialspoint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands
+- [article] Linux Performance Monitoring: Using Tools Like top, vmstat, and iostat: https://www.linuxjournal.com/content/linux-performance-monitoring-using-tools-top-vmstat-and-iostat
+- [article] Linux Question: What is /dev/null 2\>&1 ?: https://hemantjain.medium.com/linux-question-what-is-dev-null-2-1-82d75a156b5c
+- [article] Linux split Command {13 Examples}: https://phoenixnap.com/kb/linux-split
+- [article] Linux tar Command with Practical Examples: https://labex.io/es/tutorials/linux-linux-tar-command-with-practical-examples-422951
+- [article] Linux tr Command with Examples: https://phoenixnap.com/kb/linux-tr
+- [article] List Processes Linux: ps command for beginners: https://www.fullstackfoundations.com/blog/list-processes-linux
+- [article] Managing processes: https://computing.stat.berkeley.edu/tutorial-using-bash/managing-processes.html
+- [article] Manipulating Strings: https://tldp.org/LDP/abs/html/string-manipulation.html
+- [article] Mastering Grep command in Linux/Unix: A Beginner's Tutorial: https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
+- [article] Mastering sed Command in Linux: A Comprehensive Guide | DigitalOcean: https://www.digitalocean.com/community/tutorials/linux-sed-command
+- [article] Mastering Selective Debugging in Bash/Shell Scripts with set -x and set +x: https://medium.com/@maheshwar.ramkrushna/mastering-selective-debugging-in-bash-shell-scripts-with-set-x-and-set-x-ef6b7e83fb37
+- [article] More Command: https://www.ibm.com/docs/en/aix/7.2.0?topic=m-more-command
+- [article] Navigating the file system with Terminal: https://gomakethings.com/navigating-the-file-system-with-terminal/
+- [article] Netstat Command in Linux - 25 Commands with Examples: https://phoenixnap.com/kb/netstat-command
+- [article] Operators: https://tldp.org/LDP/abs/html/ops.html
+- [article] Other Comparison Operators: https://tldp.org/LDP/abs/html/comparison-ops.html
+- [article] Parameter Substitution: https://tldp.org/LDP/abs/html/parameter-substitution.html
+- [article] Paste Command in Linux (Merge Lines) | Linuxize: https://linuxize.com/post/paste-command-in-linux/
+- [article] Permissions: https://linuxcommand.org/lc3_lts0090.php
+- [article] Ping Command in Linux: https://linuxize.com/post/linux-ping-command/
+- [article] Pipelines: https://www.gnu.org/software/bash/manual/html_node/Pipelines.html
+- [article] Positional Parameters: https://www.gnu.org/software/bash/manual/html_node/Positional-Parameters.html
+- [article] Practical examples of “expr” command in Linux: https://tecadmin.net/expr-command-examples/
+- [article] Prevent Unset Variables in Your Shell / Bash Scripts with set nounset: https://nickjanetakis.com/blog/prevent-unset-variables-in-your-shell-bash-scripts-with-set-nounset
+- [article] Process Substitution: https://tldp.org/LDP/abs/html/process-sub.html
+- [article] ProcessManagement - Greg's Wiki  Greg's: https://mywiki.wooledge.org/ProcessManagement
+- [article] Reading User Input: https://www.warp.dev/terminus/bash-reading-user-input
+- [article] Recursive function: https://bash.cyberciti.biz/guide/Recursive_function
+- [article] Regular expressions: https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_01.html
+- [article] Regular expressions: https://computing.stat.berkeley.edu/tutorial-using-bash/regex.html
+- [article] Rsync Command in Linux with Examples: https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/
+- [article] set -e, -u, -o, -x pipefail explanation: https://gist.github.com/mohanpedala/1e2ff5661761d3abd0385e8223e16425
+- [article] Setting up the Bash Environment: https://letsdefend.io/blog/how-to-install-bash-on-windows
+- [article] Shell - Wikipedia: https://en.wikipedia.org/wiki/Shell_(computing
+- [article] Shell Script Best Practices: https://sharats.me/posts/shell-script-best-practices/
+- [article] Shell Scripting: Comparison Operators and If Statements: https://medium.com/@kadimasam/shell-scripting-comparison-operators-and-if-statements-9e0277fd60b8
+- [article] ShellCheck: Script Analysis Tool for Shell Scripts: https://trunk.io/linters/shell/shellcheck
+- [article] Special Variable Types: https://tldp.org/LDP/abs/html/othertypesv.html
+- [article] Special variables: https://www.tutorialspoint.com/unix/unix-special-variables.htm
+- [article] SSH Essentials: Working with SSH Servers, Clients, and Keys: https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys
+- [article] Standard Error and Logging in Shell Scripts: https://codesignal.com/learn/courses/bash-script-error-handling/lessons/standard-error-and-logging-in-shell-scripts
+- [article] Standard Streams - Wikipedia: https://en.wikipedia.org/wiki/Standard_streams
+- [article] Standard Wildcards / Globbing Patterns in Linux: https://www.putorius.net/standard-wildcards-globbing-patterns-in.html
+- [article] stdin, stdout, stderr: https://www.learnlinux.org.za/courses/build/shell-scripting/ch01s04
+- [article] String Operators: https://www.oreilly.com/library/view/learning-the-bash/1565923472/ch04s03.html
+- [article] Systemd timers — The alternative to cron jobs: https://medium.com/@tolulinux/systemd-timers-the-alternative-to-cron-jobs-be479172ae12
+- [article] tcsh - Wikipedia: https://en.wikipedia.org/wiki/Tcsh
+- [article] The Bash Trap Command: https://www.linuxjournal.com/content/bash-trap-command
+- [article] The Linux AWK Command – Linux and Unix Usage Syntax Examples: https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/
+- [article] The Shell Scripting Tutorial: https://www.shellscript.sh/philosophy.html
+- [article] The Type System of Bash: https://www.celantur.com/blog/bash-type-system/
+- [article] Understanding Shell Script Variables - The Shell Scripting Tutorial: https://www.shellscript.sh/variables1.html
+- [article] Understanding Special Parameters in Linux Shell Scripting: https://medium.com/@tradingcontentdrive/understanding-special-parameters-in-linux-shell-scripting-0-62768f49fb34
+- [article] Unix / Linux - Shell Input/Output Redirections: https://www.tutorialspoint.com/unix/unix-io-redirections.htm
+- [article] Unix / Linux - Shell Input/Output Redirections: https://www.tutorialspoint.com/unix/unix-io-redirections.htm#:~:text=The%20output%20from%20a%20command,is%20known%20as%20output%20redirection.
+- [article] Unix / Linux - Using Shell Variables: https://www.tutorialspoint.com/unix/unix-using-variables.htm
+- [article] Unix Tutorial #4: Shells and Path Variables — Andy's Brain Book 1.0 documentation: https://andysbrainbook.readthedocs.io/en/latest/unix/Unix_04_ShellsVariables.html
+- [article] Uptime Command in Linux: https://linuxize.com/post/linux-uptime-command/
+- [article] Use Join Command in Linux: A Detailed Guide: https://linuxconfig.org/join
+- [article] Use nl Command in Linux - Step-by-Step Guide: https://linuxconfig.org/nl
+- [article] User Input!: https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php
+- [article] Using Arguments in Bash Scripts: https://refine.dev/blog/bash-script-arguments/#introduction
+- [article] Using case statements: https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_03.html
+- [article] Using gzip and gunzip in Linux: https://www.baeldung.com/linux/gzip-and-gunzip
+- [article] Using set -x and set -e in Shell Scripting: A Guide for Enhanced Debugging and Error Handling: https://www.hackerone.com/blog/using-set-x-and-set-e-shell-scripting-guide-enhanced-debugging-and-error-handling
+- [article] Using the DNF software package manager: https://docs.fedoraproject.org/en-US/quick-docs/dnf/
+- [article] Using the Linux Free Command With Examples: https://www.turing.com/kb/how-to-use-the-linux-free-command
+- [article] Wc Command - Count Number of Lines, Words, and Characters: https://www.tecmint.com/wc-command-examples/
+- [article] What are the differences between absolute and relative paths?: https://www.redhat.com/en/blog/linux-path-absolute-relative
+- [article] What are the Different Types of Shells in Linux?: https://www.digitalocean.com/community/tutorials/different-types-of-shells-in-linux
+- [article] What is a CLI (Command Line Interface)?: https://aws.amazon.com/what-is/cli/
+- [article] What is a cron job: understanding cron syntax and how to configure cron jobs: https://www.hostinger.com/tutorials/cron-job
+- [article] What Is a GUI?: https://www.coursera.org/articles/gui
+- [article] What is Dash Shell in Linux?: https://linuxhandbook.com/dash-shell/
+- [article] What is scripting?: https://coralogix.com/blog/what-is-scripting/
+- [article] What is the wget command and how to use it (12 examples included): https://www.hostinger.com/tutorials/wget-command-examples
+- [article] What's the difference between Programming and Scripting?: https://www.youtube.com/watch?v=7-0iBZxNq74
+- [article] Why I use Fish Shell: https://medium.com/@desjoerdhaan/why-i-use-fish-shell-e5272e0770bf
+- [article] Wildcard characters in Shell Script Linux: https://nkugwamarkwilliam.medium.com/wildcard-characters-in-shell-script-linux-6e885b624565
+- [article] Wildcards: https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
+- [article] Working with systemd timers: https://yieldcode.blog/post/working-with-systemd-timers/
+- [article] Writing Bash Scripts Like A Pro - Part 2 - Error Handling: https://dev.to/unfor19/writing-bash-scripts-like-a-pro-part-2-error-handling-46ff
+- [article] Writing Comments in Bash Scripts: https://linuxize.com/post/bash-comments/
+- [article] Z Shell - Wikipedia: https://en.wikipedia.org/wiki/Z_shell
+- [article] zsh - The Z shell: https://www.ibm.com/docs/en/zos/3.1.0?topic=descriptions-zsh-z-shell
+- [book] Bash Guide for Beginners: https://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf
+- [course] Bash Scripting: https://linuxhandbook.com/courses/bash/
+- [course] OpenVim - Interactive Vim Tutorial: https://openvim.com/
+- [official] Bash Debug: https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug
+- [official] Bash Docs: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+- [official] brew: https://brew.sh/
+- [official] GNU Emacs: https://www.gnu.org/software/emacs/
+- [official] nano – Text editor: https://www.nano-editor.org/
+- [official] PowerShell Docs: https://learn.microsoft.com/en-us/powershell/
+- [official] Redirections: https://www.gnu.org/software/bash/manual/html_node/Redirections.html
+- [official] Shellcheck: https://www.shellcheck.net/
+- [official] tcsh: https://www.tcsh.org/
+- [official] The Art Of Scripting HTTP Requests Using curl: https://curl.se/docs/httpscripting.html
+- [official] Vim: https://www.vim.org/
+- [official] vscode-bash-debug: https://github.com/rogalmic/vscode-bash-debug
+- [official] What is PowerShell?: https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5
+- [opensource] curl: https://github.com/curl/curl
+- [opensource] fish-shell: https://github.com/fish-shell/fish-shell
+- [opensource] PowerShell: https://github.com/PowerShell/PowerShell
+- [opensource] Shellcheck: https://github.com/koalaman/shellcheck
+- [video] #4 - Bash command for Process Management: https://www.youtube.com/watch?v=O4C6_TJ-iws
+- [video] 037 Performance Monitoring with Vmstat and lostat: https://www.youtube.com/watch?v=c_My7gRuDb8
+- [video] 07 The Help Command Linux Shell Tutorials: https://www.youtube.com/watch?v=D4bSUqqaX3c
+- [video] 099 Bash Jobs & Signals - Bringing Jobs Back To The Command Line: https://www.youtube.com/watch?v=xu2lGV-kISI
+- [video] Absolute and Relative Paths: https://www.youtube.com/watch?v=ephId3mYu9o
+- [video] Arithmetic Expressions - Bash Programming Tutorial: https://www.youtube.com/watch?v=rjuB3X8MOQc
+- [video] Arrays in Bash Explained in 7 Minutes! - Indexed, Associative, and Nested / Multi-Dimensional: https://www.youtube.com/watch?v=asHJ-xfuyno
+- [video] Arrays in Pure Bash - You Suck at Programming: https://www.youtube.com/watch?v=r4Sc-DpIprk
+- [video] Automate Your Tasks with systemd Timers: A Step-by-Step Guide: https://www.youtube.com/watch?v=n6BuUgkZ5T0
+- [video] Bash Globbing Basics! How to use wildcards on the shell: https://www.youtube.com/watch?v=gsucx2W-9sg
+- [video] Bash History | Your Linux Command History Explained: https://www.youtube.com/watch?v=Bth-1rLKjGU
+- [video] Bash Scripting Full Course 3 Hours: https://www.youtube.com/watch?v=e7BufAVwDiM
+- [video] Bash Scripting on Linux: https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w
+- [video] Bash Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=tK9Oc6AEnR4
+- [video] Bash Shell Scripting For Beginners - Case Statement: https://www.youtube.com/watch?v=DA-Ilf15_r8
+- [video] Bash Shell Scripting For Beginners - Local and Global Variables: https://www.youtube.com/watch?v=4GR0wum_pOQ
+- [video] Bash Shell Scripting for Beginners - Using Pipes: https://www.youtube.com/watch?v=FICwAKYc0Pg
+- [video] BASH Shifting Argument Variables Linux Shell Tutorial: https://www.youtube.com/watch?v=fJSUVGlQ1E8
+- [video] Bash sort Command - Sort Lines of Text Files: https://www.youtube.com/watch?v=2B16aYGzIEQ
+- [video] Bash until Loop: https://www.youtube.com/watch?v=8x2EfVSGwQc
+- [video] Bash: printf usage and example: https://www.youtube.com/watch?v=_mi0O52_gwU
+- [video] Bash: The "let" builtin command: https://www.youtube.com/watch?v=OmZVThsrdp0
+- [video] Basics of VI editor in under 8 minutes | Vi editor Tutorial: https://www.youtube.com/watch?v=-_DvfdgR-LA
+- [video] Command vs. Process substitution in Bash - explaining the difference.: https://www.youtube.com/watch?v=f3eIK5xk4vg
+- [video] Comments - Bash Scripting: https://www.youtube.com/watch?v=Ky9AiwIeORA
+- [video] Comparison Operators and Square Brackets - Bash Programming Tutorial: https://www.youtube.com/watch?v=XSLj65wnP90
+- [video] Counting Characters in a Bash String - Quick Tip: https://www.youtube.com/watch?v=mK7hutk2yCE
+- [video] Crash-Course! Functions in Bash quickly explained and demystified!: https://www.youtube.com/watch?v=0tycTrpbWKs
+- [video] Creating substrings in Bash - Basic String Manipulation - You Suck at Programming #045: https://www.youtube.com/watch?v=KPVm06L55gc
+- [video] FISH (Friendly Interactive Shell) by Bash Boomer: https://www.youtube.com/watch?v=C2a7jJTh3kU
+- [video] Fix Your Shell Scripts With Shellcheck: https://www.youtube.com/watch?v=X3BIc9EHBuk
+- [video] Here Strings in Bash! Redirecting a string into stdin. You Suck at Programming: https://www.youtube.com/watch?v=0cWuZvw8lXc
+- [video] Heredocs in Bash! Understanding how they work and a few gotchas. You Suck at Programming: https://www.youtube.com/watch?v=-a1VAole01s
+- [video] Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager: https://www.youtube.com/watch?v=SELYgZvAZbU
+- [video] How do I read user input into a variable in Bash | Shell Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=Sc2v6Dj3Z4M
+- [video] How to Archive Folders in Linux (tar and gzip tutorial) - Linux Crash Course Series: https://www.youtube.com/watch?v=2iwumBcfd58&t
+- [video] How to Archive Folders in Linux (tar and gzip tutorial) - Linux Crash Course Series: https://www.youtube.com/watch?v=2iwumBcfd58
+- [video] How to Debug Bash - Using bash -x or set -x in bash - You Suck at Programming #044: https://www.youtube.com/watch?v=4TAx3Z9OgPs
+- [video] How to run bash script in Linux | Linux in a Minute: https://www.youtube.com/watch?v=iViofyFir9o
+- [video] How to Unzip and Zip Files on Linux (Desktop and Command Line): https://www.youtube.com/watch?v=xqcHiuQK9lY
+- [video] How to use Command Substitution in Bash: https://www.youtube.com/watch?v=b8U_fz0pc-g
+- [video] How to Use Nano | Command Line Text Editor: https://www.youtube.com/watch?v=PDWHxh9HUF8
+- [video] How To Use Shell Environment Variables: https://www.youtube.com/watch?v=9ZpL8iDU7LY
+- [video] How to Use The "at" Command On Linux: https://www.youtube.com/watch?v=0Lvvw4yA6Ag
+- [video] How to use the disown command: 2-Minute Linux Tipsv: https://www.youtube.com/watch?v=B66HKmP03Xo
+- [video] How to Use the ip Command in Linux: A Beginner’s Guide: https://www.youtube.com/watch?v=wHfIFZlDxtU
+- [video] How to use the nohup command: https://www.youtube.com/watch?v=E96yxNUS84c
+- [video] How to use the pwd command: 2-Minute Linux Tips: https://www.youtube.com/watch?v=bBM_flm2Ths
+- [video] How to Use the ss Command (Linux Crash Course Series): https://www.youtube.com/watch?v=phY8Q7Woxsw
+- [video] How to Use Unix MORE Command: https://www.youtube.com/watch?v=at7l0REMi04
+- [video] How To Write Bash Scripts In Linux - Complete Guide (Part 5 - If Statements): https://www.youtube.com/watch?v=YrE1Qg-Aw0Q
+- [video] How To Write Bash Scripts In Linux - Complete Guide (Part 7 - While Loops): https://www.youtube.com/watch?v=R0tTsdQ_9Vw
+- [video] IO Redirection in Bash EXPLAINED: https://www.youtube.com/watch?v=7VaO2dxs_kg
+- [video] Killing Processes Linux Shell Tutorial: https://www.youtube.com/watch?v=03umJo33aQg
+- [video] Learn About These Tools!! Compressing and Archiving Files in the Linux Console (tar, xz, bzip2, zip): https://www.youtube.com/watch?v=d4PAEbHcLVg
+- [video] Learn PowerShell in Less Than 2 Hours: https://www.youtube.com/watch?v=ZOoCaWyifmI
+- [video] Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial: https://www.youtube.com/watch?v=v45p_kJV9i4
+- [video] Learn the "ls" command! Lil' Linux Lesson!: https://www.youtube.com/watch?v=gwo--XHaz7s
+- [video] Learning Awk Is Essential For Linux Users: https://www.youtube.com/watch?v=9YOZmI-zWok
+- [video] Linux - How to split larger files into smaller parts: https://www.youtube.com/watch?v=DaC5AWjmQXk
+- [video] Linux Basics: How to use Linux Standard Input and Output: https://www.youtube.com/watch?v=YYz8Y_UBrvw&t=116s
+- [video] Linux Command Line Tutorial For Beginners 10 - less command: https://www.youtube.com/watch?v=06GsFVeuWNk
+- [video] Linux Command Line Tutorial For Beginners 6 - mkdir Command: https://www.youtube.com/watch?v=qixSaXSUs-U
+- [video] Linux Command Line Tutorial For Beginners 7 - rm and rmdir commands for linux: https://www.youtube.com/watch?v=yrw6Uxs-yJk
+- [video] Linux Command Line Tutorial For Beginners 8 - cp command: https://www.youtube.com/watch?v=Bnx_GAHM0wo
+- [video] Linux Commands for Beginners 06 - Moving and Renaming Files: https://www.youtube.com/watch?v=cSBYvSA9rDM
+- [video] Linux Commands for Beginners 16 - Output Redirection: https://www.youtube.com/watch?v=NUjpOLlYv7Q
+- [video] Linux Crash Course - awk: https://www.youtube.com/watch?v=oPEnvuj9QrI
+- [video] Linux Crash Course - Bash Aliases: https://www.youtube.com/watch?v=Ok_kD_sgNcs
+- [video] Linux Crash Course - Data Streams (stdin, stdout & stderr): https://www.youtube.com/watch?v=zMKacHGuIHI
+- [video] Linux Crash Course - nano (command-line text editor): https://www.youtube.com/watch?v=DLeATFgGM-A
+- [video] Linux Crash Course - Scheduling Tasks with Cron: https://www.youtube.com/watch?v=7cbP7fzn0D8
+- [video] Linux Crash Course - The apt Command: https://www.youtube.com/watch?v=1kicKTbK768
+- [video] Linux Crash Course - The cut Command: https://www.youtube.com/watch?v=GYP2T34v56E
+- [video] Linux Crash Course - The df and du Commands: https://www.youtube.com/watch?v=ZRs5zVv_1UU
+- [video] Linux Crash Course - The dnf Command: https://www.youtube.com/watch?v=mL1hMBYP1bQ&t=1529s
+- [video] Linux Crash Course - The find command: https://www.youtube.com/watch?v=skTiK_6DdqU
+- [video] Linux Crash Course - The grep Command: https://www.youtube.com/watch?v=Tc_jntovCM0
+- [video] Linux Crash Course - The head and tail Commands: https://www.youtube.com/watch?v=5EqL6Fc7NNw
+- [video] Linux Crash Course - The ps Command: https://www.youtube.com/watch?v=wYwGNgsfN3I
+- [video] Linux Crash Course - The sed Command: https://www.youtube.com/watch?v=nXLnx8ncZyE
+- [video] Linux Crash Course - The tr Command: https://www.youtube.com/watch?v=4qP5xA_epXo
+- [video] Linux Crash Course - Understanding File Permissions: https://www.youtube.com/watch?v=4N4Q576i3zA
+- [video] Linux File Permissions in 5 Minutes | MUST Know!: https://www.youtube.com/watch?v=LnKoncbQBsM
+- [video] Linux File Transfers Made Easy with rsync: https://www.youtube.com/watch?v=KG78O53u8rY
+- [video] Linux Tutorial for Beginners | expr command | Evaluate Expressions in Linux: https://www.youtube.com/watch?v=6LbMLSBoLGY
+- [video] Linux Tutorials | paste command: https://www.youtube.com/watch?v=ilV6dcTJzzE
+- [video] Linux | Background Process Basics and Signals | & , disown, nohup: https://www.youtube.com/watch?v=OQpnQgvmbhY
+- [video] Logical Operators - Bash Programming Tutorial 8: https://www.youtube.com/watch?v=sDRHmbRlNT8
+- [video] LPIC-1 101 Using the join command: https://www.youtube.com/watch?v=b3Ybtr6xti4
+- [video] Master the Linux Command Line: Background & Foreground Jobs to Swap Tasks with the fg and bg Command: https://www.youtube.com/watch?v=Ak7cFJ1-Ewo
+- [video] Netstat Commands - Network Administration Tutorial: https://www.youtube.com/watch?v=bxFwpm4IobU
+- [video] nl command in Linux with Examples: https://www.youtube.com/watch?v=WqrRKfJWqqM
+- [video] Nohup - Hangup Immune Commands - Commands for Linux: https://www.youtube.com/watch?v=rTB-HuuszLs
+- [video] Passing Arguments to the Script | Shell Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=Gexu9M7p5aU
+- [video] Ping Command Explained | Real World Example: https://www.youtube.com/watch?v=7sv5pL-XgSg
+- [video] Prevent Unset Variables in Your Shell / Bash Scripts with set -o nounset: https://www.youtube.com/watch?v=Kly_6DhfHwE
+- [video] Process and System Management on Linux and Mac (Bash): https://www.youtube.com/watch?v=lfN2RE8720E
+- [video] Process Substitution in BASH - Commands for Linux: https://www.youtube.com/watch?v=dR0X0-B9ObA
+- [video] Regular Expressions for Beginners: https://www.youtube.com/watch?v=NhcaKdt3NdM
+- [video] sed: Easily replace strings across files | #7 Practical Bash: https://www.youtube.com/watch?v=91msRzo0VYw
+- [video] Shell Script Error Handling: Master Bash Scripting for Robust Code: https://www.youtube.com/watch?v=uFJiDD1B5I4
+- [video] Shell Scripting Tutorial - Break & Continue Statement: https://www.youtube.com/watch?v=3Dg6j_zSk_0
+- [video] Shell Scripting Tutorial for Beginners 1 - Introduction: https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
+- [video] Shell Scripting Tutorial for Beginners 11 - Floating point math operations in bash | bc Command: https://www.youtube.com/watch?v=yqpY-Wk-i9k
+- [video] Shell Scripting Tutorial for Beginners 6 - File test operators: https://www.youtube.com/watch?v=uVi5o38NGi0
+- [video] shell vs environment variables (and env, export, etc.) (intermediate) anthony explains: https://www.youtube.com/watch?v=h36Xc38SDHg
+- [video] Simple PING commands: https://www.youtube.com/watch?v=KYmtMBsuA50
+- [video] Source Shell Script vs Executing Shell Script - The Real Difference: https://www.youtube.com/watch?v=ZIqRmp-XBRY
+- [video] Special Variables | Shell Scripting Tutorial For Beginners: https://www.youtube.com/watch?v=PfxzX4XNYRE
+- [video] SSH for Beginners: The Ultimate Getting Started Guide: https://www.youtube.com/watch?v=YS5Zh7KExvE
+- [video] Supercharge Your Workflow with cURL | Understanding The cURL Command-Line Tool: https://www.youtube.com/watch?v=-nnJ82uc2ic
+- [video] The Absolute Beginner's Guide to Emacs: https://www.youtube.com/watch?v=48JlgiBpw_I
+- [video] The Basics of Emacs as a Text Editor: https://www.youtube.com/watch?v=jPkIaqSh3cA
+- [video] The cat Command in Linux (Featuring Real Cats) - Linux Crash Course Series: https://www.youtube.com/watch?v=z3nJlyrJYW4
+- [video] The Echo Command | Linux Essential Commands: https://www.youtube.com/watch?v=Tj-9tahWvok
+- [video] The htop Command | Linux Essentials Tutorial: https://www.youtube.com/watch?v=bKWZJ3_5ODc
+- [video] The wget Command | How to Download Files From a Server: https://www.youtube.com/watch?v=zszbBJ81_YU
+- [video] There's more to learn about the "cd" command. Lil' Linux Lesson!: https://www.youtube.com/watch?v=ZRlQxx1rmng
+- [video] Touch Command Made Easy (Linux Crash Course): https://www.youtube.com/watch?v=bP0dwXU8B64
+- [video] Transferring files with the scp Command (Linux Crash Course Series): https://www.youtube.com/watch?v=Aa7tKMmeFZI
+- [video] Trapping signals with trap in Bash! Responding to Unix signals. You Suck at Programming #064: https://www.youtube.com/watch?v=aXovP1sUtoE
+- [video] Understanding Linux System Performance | The Top Command: https://www.youtube.com/watch?v=3r_PBLaZoFQ
+- [video] Understanding stdin, stdout, stderr in Python: https://www.youtube.com/watch?v=4HY0VBBY7ok
+- [video] Uniq utility (commands for linux): https://www.youtube.com/watch?v=VRrd9ErU13w
+- [video] Uptime command in Linux with Examples - How to Check Uptime in Linux Command Line: https://www.youtube.com/watch?v=slf7GAuzIQ4
+- [video] Using BASH Script Arguments: https://www.youtube.com/watch?v=vsRBWCfMf9A
+- [video] Using IPCONFIG for Network Troubleshooting: https://www.youtube.com/watch?v=k1qgpqQ0Mo4
+- [video] Vim As Your Editor - Introduction: https://www.youtube.com/watch?v=X6AR2RMB5tE
+- [video] What Is a Shell ? | Learn How Shell Commands Work in the Terminal: https://www.youtube.com/watch?v=-qLrgCFynzE
+- [video] What is Recursion in bash (Bash 23): https://www.youtube.com/watch?v=K_BgGxtK2gE
+- [video] What is the difference between absolute and relative paths?: https://www.youtube.com/watch?v=bxr4p5Ik4js
+- [video] What's the difference between a GUI and a CLI?: https://www.youtube.com/watch?v=w9u0d4C95Zs
+- [video] wildcards in linux | asterisk , question mark , square brackets , curly brackets , escape character: https://www.youtube.com/watch?v=_J9JwnIzJ9o
+- [video] You NEED to know how to use CURL!: https://www.youtube.com/watch?v=q2sqkvXzsw8
+- [video] Zsh: The Developer's Dream Shell! Say Goodbye to Bash! 💻✨: https://www.youtube.com/watch?v=5F4T_iTeN08

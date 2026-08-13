@@ -1,0 +1,433 @@
+# Network Engineer — links only
+
+- [article] 10 Types of Network Attacks: Common Threats and How to Prevent Them: https://cymulate.com/blog/types-of-network-attacks/
+- [article] 7 Common Network Issues and How to Resolve Them Fast: http://cbtnuggets.com/blog/technology/networking/7-common-network-issues-and-how-to-resolve-them-fast
+- [article] 9 common network issues and how to fix them: https://www.techtarget.com/searchnetworking/answer/What-are-the-3-most-common-network-issues-to-troubleshoot
+- [article] A Guide to Network Devices: https://sciencelogic.com/articles/a-guide-to-network-devices
+- [article] A Guide to Simple Two-Tier, Three-Tier, and Spine-Leaf Designs: https://learningnetwork.cisco.com/s/question/0D56e0000EBtd2dCQB/a-guide-to-simple-twotier-threetier-and-spineleaf-designs
+- [article] A Guide to Understanding Client-Server Network: https://www.fs.com/blog/a-guide-to-understanding-clientserver-network-6976.html
+- [article] Address Resolution Protocol (ARP): Resolving Network Address Conflicts: https://www.fortinet.com/resources/cyberglossary/what-is-arp
+- [article] AP Design for Optimal Performance: https://www.wirelessdesignpros.com/blog/access-point-design-for-optimal-wireless-network-performance
+- [article] AP Placement Best Practices: https://whyreboot.com/blog-access-point-placement-best-practices/
+- [article] API gateway vs. Load balancer: Do you need one or both?: https://roadmap.sh/network-engineer/api-gateway-vs-load-balancer
+- [article] ARP – Associating IP with MAC addresses: https://www.homenethowto.com/switching/arp-mac-ip/
+- [article] Channel Planning Best Practices for Better Wi-Fi: https://www.ekahau.com/blog/channel-planning-best-practices-for-better-wi-fi/
+- [article] Cisco Packet Tracer: https://www.netacad.com/cisco-packet-tracer
+- [article] Cloud Networking Basics with Azure: https://medium.com/@AlexanderObregon/cloud-networking-basics-with-azure-16509a99aca6
+- [article] Cloud VPN: Secure Remote Access For Modern Workforces: https://www.fortinet.com/resources/cyberglossary/cloud-vpn
+- [article] DoS Attack vs DDoS Attack: https://www.fortinet.com/resources/cyberglossary/dos-vs-ddos
+- [article] Encrypted GRE Tunnel with IPSEC: https://networklessons.com/vpn/encrypted-gre-tunnel-with-ipsec
+- [article] Essential FAQs about Link Aggregation, LAG, and LACP: https://www.fs.com/blog/understanding-link-aggregation-and-lacp-faqs-1262.html
+- [article] Frames and Packets in Computer Networks ✉️📦📮: https://www.patreon.com/posts/frames-and-in-101725193
+- [article] FTP vs SFTP: What’s the Difference? Which One Should You Use?: https://kinsta.com/blog/ftp-vs-sftp/
+- [article] Gateway Load Balancing Protocol (GLBP): https://www.networkacademy.io/ccna/network-services/gateway-load-balancing-protocol-glbp
+- [article] Getting Started with Netmiko: https://orhanergun.net/getting-started-with-netmiko-a-beginner-s-guide-to-python-automation
+- [article] GLBP - Gateway Load Balancing Protocol: https://www.cisco.com/en/US/docs/ios/12_2t/12_2t15/feature/guide/ft_glbp.html
+- [article] Google Fiber Internet Speed Test: https://www.speedtest.net/
+- [article] Guide to VLANs: https://www.cbtnuggets.com/blog/technology/networking/what-is-a-vlan-and-how-they-work
+- [article] Hot Standby Router Protocol (HSRP): http://networklessons.com/ip-services/hot-standby-router-protocol-hsrp
+- [article] How (and why) to perform a Wi-Fi Site Survey: https://www.youtube.com/watch?v=HdoMGb-ji1s
+- [article] How does ARP work with IP and MAC addresses: https://www.youtube.com/watch?v=TOYgyYpOK4I
+- [article] How does the internet work?: https://roadmap.sh/guides/what-is-internet
+- [article] How does the Internet work? - Learn web development | MDN: https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work
+- [article] How does the Internet work? | Cloudflare: https://www.cloudflare.com/en-gb/learning/network-layer/how-does-the-internet-work/
+- [article] How to Understand NAT64 for IPv6-to-IPv4 Translation: https://oneuptime.com/blog/post/2026-03-20-nat64-ipv6-ipv4-translation/view
+- [article] Implementing Quality of Service for Prioritizing Network Traffic: https://www.etherwan.com/support/featured-articles/implementing-quality-service-prioritizing-network-traffic
+- [article] Infrastructure-as-Code (IaC): Benefits And Best Practices: https://www.fortinet.com/resources/cyberglossary/infrastructure-as-code
+- [article] Internet protocol suite - Wikipedia: https://en.wikipedia.org/wiki/Internet_protocol_suite
+- [article] Introduction to EIGRP: https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/13669-1.html
+- [article] Introduction to Spanning Tree: https://networklessons.com/spanning-tree/introduction-to-spanning-tree
+- [article] Intrusion Detection and Prevention Systems (IDS/IPS): https://www.group-ib.com/resources/knowledge-hub/ids/
+- [article] IP address - Wikipedia: https://en.wikipedia.org/wiki/IP_address
+- [article] IP Addressing And Its Classification In Computer Networks: https://medium.com/@mustafa.bohra20/ip-addressing-and-its-classification-in-computer-networks-6b7112439a87
+- [article] Ipconfig – network ad­min­is­tra­tion via the command line: https://www.ionos.com/digitalguide/server/configuration/ipconfig/
+- [article] IPv4 vs IPv6: What’s The Difference Between the Two Protocols?: https://kinsta.com/blog/ipv4-vs-ipv6/
+- [article] Linux for Network Engineers – Lesson 1: Getting Started: https://richardkilleen.co.uk/blog/linux/linux-for-network-engineers-lesson-1-getting-started/
+- [article] Load Balancing vs Failover: An Overview: https://www.parallels.com/blogs/ras/load-balancing-vs-failover/?srsltid=AfmBOoqc5D3jnDadoZi4MfxBshZhvanecpzP_nXz_PbIt6NpAfEYs4pN
+- [article] Mac Address: Explained: https://licensespring.com/blog/glossary/mac-address
+- [article] Most Common Network Troubleshooting Steps, Techniques and Best Practices: https://www.dnsstuff.com/network-troubleshooting-steps
+- [article] MPLS: https://networklessons.com/mpls
+- [article] MPLS VPN services, types, and benefits: https://nordvpn.com/blog/mpls-vpn
+- [article] NAT Overload (PAT): https://www.networkacademy.io/ccna/network-services/nat-overload-pat
+- [article] Network Design and Best Practices: http://auvik.com/franklyit/blog/network-design-best-practices/
+- [article] Network Design Best Practices: https://haptic-networks.com/networks/network-design-best-practices/
+- [article] Network design principles: https://docs.fortinet.com/document/fortiswitch/7.6.0/switching-reference-architecture-guide/527614/network-design-principles
+- [article] Network Engineer - Cisco: https://www.cisco.com/site/us/en/learn/training-certifications/tech-roles/network-engineer.html
+- [article] Network Time Protocol (NTP): https://www.mobatime.com/technology/ntp-network-time-protocol/
+- [article] Network Troubleshooting Methodology and Techniques: https://study-ccna.com/network-troubleshooting-methodology-techniques/
+- [article] Networking 101: What are sockets?: https://medium.com/@ahnafzamil/networking-101-what-are-sockets-7e2d274e153
+- [article] OSI Model: https://www.imperva.com/learn/application-security/osi-model/
+- [article] Prometheus: https://prometheus.io/
+- [article] Public vs. Private IP Addresses: What’s the Difference?: https://www.avast.com/c-ip-address-public-vs-private
+- [article] Python for Network Programming — A Beginner’s Overview: https://medium.com/@AlexanderObregon/python-for-network-programming-a-beginners-overview-e9379cc44479
+- [article] QoS Traffic Shaping Explained: https://networklessons.com/quality-of-service/qos-traffic-shaping-explained
+- [article] Round Robin Load Balancing Definition: https://www.vmware.com/topics/round-robin-load-balancing
+- [article] Routing Information Protocol:: https://www.cloudns.net/blog/routing-information-protocol-explaining-one-of-the-oldest-routing-protocols/
+- [article] Simple network time protocol (SNTP): https://www.ionos.com/digitalguide/server/know-how/sntp-simple-network-time-protocol/
+- [article] Site-to-site VPN vs remote access VPN: Which is better?: https://nordvpn.com/blog/site-to-site-vpn-vs-remote-access-vpn/?srsltid=AfmBOoq_TRsDLA4LQ2Rxo_jdvPWQNjKg85L1eBDf8zlgodcp9QFvqx7V
+- [article] Static vs Dynamic NAT: What’s the Difference?: https://www.h2kinfosys.com/blog/static-vs-dynamic-nat-whats-the-difference/
+- [article] Static vs Dynamic Routing: What's the Difference?: https://www.ioriver.io/blog/static-dynamic-routing
+- [article] Tethering vs. a hotspot: What’s the difference?: https://saily.com/blog/tethering-vs-hotspot/
+- [article] Top 10 Most Popular Network Simulation Tools: https://www.pynetlabs.com/top-most-popular-network-simulation-tools/
+- [article] Transmission Media and Its Types in Computer Networks: https://www.uninets.com/blog/transmission-media-in-computer-networks
+- [article] Types of load balancing algorithms: https://www.cloudflare.com/en-gb/learning/performance/types-of-load-balancing-algorithms/
+- [article] Ultimate Guide to Supernetting: https://www.dnsstuff.com/supernetting
+- [article] Understand and Configure NAT64: https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/217208-understanding-nat64-and-its-configuratio.html
+- [article] Understanding Layer 3: The Network Layer of the OSI Model: https://jumpcloud.com/it-index/understanding-layer-3-the-network-layer-of-the-osi-model
+- [article] Understanding Layer 4: The Transport Layer of the OSI Model: https://jumpcloud.com/it-index/understanding-layer-4-the-transport-layer-of-the-osi-model
+- [article] Understanding Layer 5: The Session Layer of the OSI Model: https://jumpcloud.com/it-index/understanding-layer-5-the-session-layer-of-the-osi-model
+- [article] Understanding Layer 6: The Presentation Layer of the OSI Model: https://jumpcloud.com/it-index/understanding-layer-6-the-presentation-layer-of-the-osi-model
+- [article] Understanding Layers 2 and 3 of the OSI Model: https://www.comptia.org/en-us/blog/layers-2-and-3-osi-model/
+- [article] Understanding MAC Addresses & ARP: https://www.youtube.com/watch?v=R41uQv_Ap0s
+- [article] Understanding Ping: https://www.zscaler.com/es/blogs/product-insights/understanding-ping-network-troubleshooting-and-beyond
+- [article] Understanding Satellite Networks: https://blog.apollosatellite.com/understanding-satellite-networks-a-guide-for-beginners/
+- [article] Virtual Router Redundancy Protocol (VRRP): https://www.networkacademy.io/ccna/network-services/virtual-router-redundancy-protocol-vrrp
+- [article] VPN IPsec vs. VPN SSL: https://www.cloudflare.com/es-es/learning/network-layer/ipsec-vs-ssl-vpn/
+- [article] What are Email Protocols: https://www.siteground.com/tutorials/email/protocols-pop3-smtp-imap/
+- [article] What are LoRa and LoRaWAN?: https://www.thethingsnetwork.org/docs/lorawan/what-is-lorawan/
+- [article] What Are Servers? A Practical Guide: https://www.splunk.com/en_us/blog/learn/computer-servers.html
+- [article] What Are the 4 Layers of the TCP/IP Model?: https://thepower.education/en/blog/what-are-the-four-layers-that-make-up-tcp-ip
+- [article] What are the different types of cloud computing?: https://cloud.google.com/discover/types-of-cloud-computing?hl=en
+- [article] What is 5G?: https://aws.amazon.com/what-is/5g/
+- [article] What is a circuit level firewall?: https://nordlayer.com/learn/firewall/circuit-level/
+- [article] What Is a Circuit Level Gateway?: https://www.paloaltonetworks.com/cyberpedia/what-is-a-circuit-level-gateway
+- [article] What is a client?: https://www.techtarget.com/searchenterprisedesktop/definition/client
+- [article] What Is a Cloud VPN? | Cloud-Based Remote Access VPNs Explained: https://www.paloaltonetworks.com/cyberpedia/what-is-a-cloud-vpn
+- [article] What is a computer port?: https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/
+- [article] What is a default gateway, and how can you find its address?: https://nordvpn.com/blog/what-is-a-default-gateway/?srsltid=AfmBOop1EOdHkR__w-7OxSPfTRdWONwCm-BmXoLZ5tadeiF4o5ZASfa-
+- [article] What is a firewall?: https://www.cisco.com/site/us/en/learn/topics/security/what-is-a-firewall.html
+- [article] What is a firewall? How network firewalls work: https://www.cloudflare.com/en-gb/learning/security/what-is-a-firewall/
+- [article] What is a Host: How It Works in Networking: https://www.temok.com/blog/what-is-a-host
+- [article] What is a hub?: https://www.lenovo.com/us/en/glossary/what-is-a-hub/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOorUVQYz_rnn0AMWBhjhWbGypNf7SE3oHeDSXPYS3hsKpIKEFZGD
+- [article] What Is a LAN?: https://www.cisco.com/site/us/en/learn/topics/networking/what-is-a-lan-local-area-network.html
+- [article] What Is a MAC Address Table?: https://jumpcloud.com/it-index/what-is-a-mac-address-table
+- [article] What is a metropolitan area network (MAN)?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-metropolitan-area-network/
+- [article] What is a modem?: https://www.lenovo.com/us/en/glossary/what-is-modem/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopdszN4vAUvKQcsMrDdyHVGiqrtTRETbQeOZD8-jopF4wZoIdEH
+- [article] What Is A Network Access Control List (ACL)?: https://www.fortinet.com/resources/cyberglossary/network-access-control-list
+- [article] What Is a Network API?: https://www.vonage.com/resources/articles/what-is-a-network-api/
+- [article] What Is a Network Attack?: https://www.cynet.com/security-foundations/attack-techniques/network-attacks-and-network-security-threats/
+- [article] What Is a Network Engineer?: https://www.indeed.com/career-advice/finding-a-job/what-is-a-network-engineer
+- [article] What is a network switch? | Switch vs. router: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-network-switch/
+- [article] What is a next-generation firewall (NGFW)?: https://www.cloudflare.com/en-gb/learning/security/what-is-next-generation-firewall-ngfw/
+- [article] What Is a Packet Filtering Firewall?: https://www.paloaltonetworks.com/cyberpedia/what-is-a-packet-filtering-firewall
+- [article] What is a packet? | Network packet definition: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-packet/
+- [article] What Is a Peer-to-Peer Network?: https://www.coursera.org/articles/peer-to-peer
+- [article] What is a personal area network (PAN)?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-personal-area-network/
+- [article] What is a protocol?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-protocol/
+- [article] What Is A Proxy Firewall?: https://www.fortinet.com/resources/cyberglossary/proxy-firewall
+- [article] What is a router?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-router/
+- [article] What Is a Stateful Firewall?: https://www.paloaltonetworks.com/cyberpedia/what-is-a-stateful-firewall
+- [article] What is a storage area network (SAN)?: https://www.ibm.com/think/topics/storage-area-network
+- [article] What Is a Subnet Mask?: https://www.coursera.org/articles/subnet-mask
+- [article] What is a subnet? | How subnetting works: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-subnet/
+- [article] What is a Virtual Network? How it Works and Its Types?: https://www.pynetlabs.com/what-is-a-virtual-network/
+- [article] What is a VPN (virtual private network)?: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn
+- [article] What is a VPN? Meaning and what it’s used for: https://nordvpn.com/what-is-a-vpn/?srsltid=AfmBOoqW3KGxs9k--CDwPvajgU48eeQJe8bhKdb-eBRd8qojyH-wvyrH
+- [article] What is a WAF?: https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/
+- [article] What is a WAN? | WAN vs. LAN: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-wan/
+- [article] What is a wireless access point?: https://www.cisco.com/site/us/en/learn/topics/small-business/what-is-an-access-point.html
+- [article] What is a wireless LAN?: https://www.cisco.com/site/us/en/learn/topics/networking/what-is-a-wireless-lan.html
+- [article] What Is A Wireless Network? Types Of Wireless Networks: https://www.fortinet.com/resources/cyberglossary/wireless-network
+- [article] What is a Wireless Site Survey & What Types are There?: https://www.netally.com/tech-tips/what-is-a-wireless-site-survey/
+- [article] What Is a WLAN Controller?: https://www.cisco.com/site/us/en/learn/topics/networking/what-is-a-wireless-lan-controller.html
+- [article] What Is Access Point Controller and How to Use?: https://www.qsfptek.com/qt-news/what-is-access-point-controller-and-how-to-use.html?srsltid=AfmBOopKCqq5gmcPlfeBDm4CFpiZhpfyx38GQ0Ec33h9U_W3Hl6j3W7A
+- [article] What Is an IP Address?: https://www.coursera.org/articles/ip-address
+- [article] What is BGP? | BGP routing explained: https://www.cloudflare.com/en-gb/learning/security/glossary/what-is-bgp/
+- [article] What is Bluetooth and how does it work?: https://theconversation.com/what-is-bluetooth-and-how-does-it-work-242892
+- [article] What is CIDR?: https://aws.amazon.com/what-is/cidr/
+- [article] What is Cisco Packet Tracer? | Free Training and Download: https://www.netcomlearning.com/blog/what-is-cisco-packet-tracer
+- [article] What is Cisco VRF (Virtual Routing and Forwarding)?: https://www.cbtnuggets.com/blog/technology/networking/what-is-cisco-vrf-virtual-routing-forwarding
+- [article] What is cloud load balancing? | LBaaS: https://www.cloudflare.com/en-gb/learning/performance/cloud-load-balancing-lbaas/
+- [article] What is cloud networking?: https://www.cloudflare.com/en-gb/learning/cloud/what-is-cloud-networking/
+- [article] What is Cloud Networking?: https://aws.amazon.com/what-is/cloud-networking/
+- [article] What is cloud networking? - Cisco: https://www.cisco.com/site/us/en/learn/topics/cloud-networking/what-is-cloud-networking.html
+- [article] What is computer networking?: https://www.ibm.com/think/topics/networking
+- [article] What is Default Gateway?: https://www.cbtnuggets.com/blog/technology/networking/what-is-default-gateway
+- [article] What is DHCP? and Why is it important?: https://efficientip.com/glossary/what-is-dhcp-and-why-is-it-important/
+- [article] What is DNS? | How DNS works: https://www.cloudflare.com/learning/dns/what-is-dns/
+- [article] What is EIGRP (Enhanced Interior Gateway Routing Protocol)?: https://www.cbtnuggets.com/blog/technology/networking/what-is-eigrp
+- [article] What is encryption?: https://www.cloudflare.com/learning/ssl/what-is-encryption/
+- [article] What Is Infrastructure as Code?: https://www.cisco.com/site/us/en/learn/topics/computing/what-is-iac.html
+- [article] What is layer 7? | How layer 7 of the Internet works: https://www.cloudflare.com/en-gb/learning/ddos/what-is-layer-7/
+- [article] What is MPLS (multiprotocol label switching)?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-mpls/
+- [article] What Is NETCONF?: https://info.support.huawei.com/info-finder/encyclopedia/en/NETCONF.html
+- [article] What is NetFlow?: https://www.ibm.com/think/topics/netflow
+- [article] What is network automation?: https://www.ibm.com/think/topics/network-automation
+- [article] What is Network Bandwidth?: https://www.solarwinds.com/resources/it-glossary/network-bandwidth
+- [article] What is Network Design?: https://www.netcomlearning.com/blog/what-is-network-design
+- [article] What is Network Latency?: https://aws.amazon.com/what-is/latency/
+- [article] What is Network Load Balancing? Understanding Traffic Distribution: https://www.digitalocean.com/resources/articles/network-load-balancing
+- [article] What is network observability?: https://www.ibm.com/think/topics/network-observability
+- [article] What Is Network Packet Analysis and Why Does It Matter?: https://www.networkcritical.com/blogs/what-is-network-packet-analysis
+- [article] What Is Network Switching?: https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-switching.html
+- [article] What Is Network Troubleshooting?: https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-troubleshooting.html
+- [article] What is OSPF?: https://www.networkacademy.io/ccna/ospf/what-is-ospf
+- [article] What Is Quality Of Service (QoS) In Networking?: https://www.fortinet.com/resources/cyberglossary/qos-quality-of-service
+- [article] What is Quality of Service?: https://www.paloaltonetworks.com/cyberpedia/what-is-quality-of-service-qos
+- [article] What is RESTCONF?: https://ipcisco.com/lesson/restconf/
+- [article] What is routing? | IP routing: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-routing/
+- [article] What Is SD-WAN: https://www.fortinet.com/resources/cyberglossary/sd-wan-explained
+- [article] What is SD-WAN? Software-Defined WAN (SDWAN): https://www.cisco.com/site/us/en/learn/topics/networking/what-is-sd-wan.html
+- [article] What Is SNMP?: https://www.fortinet.com/uk/resources/cyberglossary/simple-network-management-protocol
+- [article] What is spine-leaf architecture?: https://www.hpe.com/emea_africa/en/what-is/spine-leaf-architecture.html
+- [article] What is SSH? | Secure Shell (SSH) protocol: https://www.cloudflare.com/en-gb/learning/access-management/what-is-ssh/
+- [article] What is the netstat Command?: https://www.cbtnuggets.com/blog/technology/networking/netstat-command
+- [article] What is the OSI Model?: https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/
+- [article] What Is the Physical Layer: A Beginner’s Guide: https://www.coursera.org/articles/physical-layer
+- [article] What is Traceroute? How It Works and How to Read Results: https://www.varonis.com/blog/what-is-traceroute
+- [article] What Is VLSM Variable Length Subnet Masking?: https://jumpcloud.com/it-index/what-is-vlsm-variable-length-subnet-masking
+- [article] What is VXLAN?: https://www.hpe.com/emea_europe/en/what-is/vxlan.html
+- [article] What is Wi-Fi security?: https://www.cisco.com/site/us/en/learn/topics/networking/what-is-wi-fi-security.html
+- [article] What is zero trust?: https://www.ibm.com/think/topics/zero-trust
+- [article] What NFC does: https://nfc-forum.org/learn/what-nfc-does
+- [article] What's the difference between SSL and TLS?: https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/
+- [article] What’s the Difference Between HTTP and HTTPS?: https://aws.amazon.com/compare/the-difference-between-https-and-http/
+- [article] What’s the Difference Between IPv4 and IPv6?: https://aws.amazon.com/compare/the-difference-between-ipv4-and-ipv6/
+- [article] What’s the Difference Between Throughput and Latency?: https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/
+- [article] Wi-Fi Security Comparisons: https://www.avast.com/c-wep-vs-wpa-or-wpa2
+- [article] WiFi Band Steering:: https://www.splashaccess.com/wifi-band-steering/
+- [article] WiFi Standards Explained: Compare 802.11be, 802.11ac, 802.11ax and More: https://www.fs.com/blog/80211-wireless-standards-explained-35.html
+- [article] Wireless Security Fundamentals: https://www.networkacademy.io/ccna/wireless/wireless-security-fundamentals
+- [article] YANG: a data modeling approach to network management: https://codilime.com/blog/yang-data-modeling-approach-to-network-management/
+- [article] Zigbee and Z-Wave explained: https://smart-living.es/zigbee-and-z-wave-explained/?srsltid=AfmBOoo1dF56Dj42yHIDX_U6O8gbUYTPQDxUz7XBpCW4rjJEzuKH6euL
+- [book] Python for Network Automation: https://python-automation-book.readthedocs.io/en/stable/
+- [course] AWS Networking Basics: https://skillbuilder.aws/learn/S1VYRYHD8V/aws-networking-basics/SKP7248UVF
+- [course] Encryption Course: https://www.internetsociety.org/learning/encryption/
+- [course] Linux Networking - Basics and Beyond Specialization: https://www.coursera.org/specializations/pearson-linux-networking-basics-and-beyond
+- [course] Networking in Google Cloud: Fundamentals: https://www.skills.google/course_templates/35
+- [link] Speedtest.net: http://Speedtest.net
+- [link] www.example.com: http://www.example.com
+- [official] Ansible Docs: https://docs.ansible.com/
+- [official] Ansible for Network Automation: https://docs.ansible.com/projects/ansible/latest/network/index.html
+- [official] AWS Certified Advanced Networking - Specialty: https://aws.amazon.com/certification/certified-advanced-networking-specialty/
+- [official] Azure Network Engineer Associate: https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/
+- [official] CCNA Certification: https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html
+- [official] CCNP Certification: https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccnp-enterprise/exams-and-training.html
+- [official] Cloudflare: https://www.cloudflare.com/en-gb/
+- [official] CompTIA Network+: https://www.comptia.org/certifications/network
+- [official] CompTIA Security+ Website: https://www.comptia.org/certifications/security
+- [official] Datadog: https://www.datadoghq.com/
+- [official] Datadog Docs: https://docs.datadoghq.com/
+- [official] EVE-NG: https://www.eve-ng.net/
+- [official] GNS3: https://www.gns3.com/
+- [official] Google  Coud DNS: https://cloud.google.com/dns
+- [official] Google Professional Cloud Network Engineer: https://cloud.google.com/learn/certification/cloud-network-engineer
+- [official] Grafana: https://grafana.com/
+- [official] Grafana Webinars and Videos: https://grafana.com/videos/
+- [official] netmiko: https://pypi.org/project/netmiko/
+- [official] Network Configuration Protocol (NETCONF): https://datatracker.ietf.org/doc/html/rfc6241
+- [official] Networking on Azure: https://azure.microsoft.com/en-us/products/category/networking
+- [official] Nmap: https://nmap.org/
+- [official] OpenDNS: https://www.opendns.com/
+- [official] Quad9: https://quad9.net/
+- [official] RESTCONF Protocol: https://datatracker.ietf.org/doc/html/rfc8040
+- [official] sflow: https://sflow.org/
+- [official] Terraform Docs: https://developer.hashicorp.com/terraform/docs
+- [official] Welcome to NAPALM’s documentation!¶: https://napalm.readthedocs.io/en/latest/
+- [official] What Is nslookup and How Does It Work?: https://www.networksolutions.com/blog/what-is-nslookup/
+- [official] Wireshark: https://www.wireshark.org/
+- [official] YANG: https://datatracker.ietf.org/doc/html/rfc7950
+- [opensource] gns3: https://github.com/GNS3/gns3-gui
+- [opensource] nmap: https://github.com/nmap/nmap
+- [opensource] wireshark: https://github.com/wireshark/wireshark
+- [roadmap] Visit the Dedicated API Design Roadmap: https://roadmap.sh/api-design
+- [roadmap] Visit the Dedicated Cloudflare Roadcamp: https://roadmap.sh/cloudflare
+- [roadmap] Visit the Dedicated Cybersecurity Roadmap: https://roadmap.sh/cyber-security
+- [roadmap] Visit the Dedicated Linux Roadmap: https://roadmap.sh/linux
+- [roadmap] Visit the Dedicated Python Roadmap: https://roadmap.sh/python
+- [roadmap] Visit the Dedicated Shell/Bash Roadmap: https://roadmap.sh/shell-bash
+- [roadmap] Visit the Dedicated Terraform Roadmap: https://roadmap.sh/terraform
+- [video] 02- Google Cloud Routing: A Complete Guide with Real-World Examples: https://www.youtube.com/watch?v=fby0PSTH3AY
+- [video] Amazon Virtual Private Cloud (VPC) Routing Deep Dive: https://www.youtube.com/watch?v=LJNNMTicv1c
+- [video] ARP Explained - Address Resolution Protocol: https://www.youtube.com/watch?v=cn8Zxh9bPio
+- [video] AWS Networking Basics For Programmers | Hands On: https://www.youtube.com/watch?v=2doSoMN2xvI
+- [video] AWS Security Groups Simply Explained: A Step-by-Step Tutorial for Beginners: https://www.youtube.com/watch?v=uYDT2SsHImQ
+- [video] AZ-900 Episode 21 | Azure Security Groups: https://www.youtube.com/watch?v=w8H5fWBHddA&pp=ygUbY2xvdWQgc2VjdXJpdHkgZ3JvdXBzIGF6dXJl
+- [video] Azure Master Class v3 - Part 6 - Networking: https://www.youtube.com/watch?v=nDtCSQyG_I8
+- [video] Azure Routing: https://www.youtube.com/watch?v=BUH9kVTrM-8&t=22s
+- [video] CCNP  Course Introduction: https://www.youtube.com/watch?v=0iBRK8GRTrI&list=PLxbwE86jKRgOb2uny1CYEzyRy_mc-lE39
+- [video] Cellular Mobile Communication (2G,3G,4G,5G) - A Crash Course: https://www.youtube.com/watch?v=m1dTsqElxS0&list=PL-XjHn7CHrmTjCaAVPTYQ1iMGEfq3x7j2
+- [video] Circuit Switching vs Packet Switching: https://www.youtube.com/watch?v=G7n8thqwO2c
+- [video] Cisco CCNA - What is LACP In Networking?: https://www.youtube.com/watch?v=z6hStQ3g4ck
+- [video] Cisco Spine-leaf Network Topology: https://www.youtube.com/watch?v=IPaU-N7p4L0
+- [video] Cloud Load Balancing: https://www.youtube.com/watch?v=egkxWAmw4BQ
+- [video] Cloud Networking Explained: https://www.youtube.com/playlist?list=PLOspHqNVtKAA_5N3pI49wkH4WsTkeZ_iQ
+- [video] Cloud OnAir: Google Cloud Networking 101: https://www.youtube.com/watch?v=0hN-dyOV10c&t=146s
+- [video] CN 5 : Transmission Media | Guided & Unguided Media with Examples: https://www.youtube.com/watch?v=HryzQDpKvwA
+- [video] Communication Networks Quality Of Service (QOS).: https://www.youtube.com/watch?v=-cGMmSx9Ag0
+- [video] CompTIA Network+ Course: https://www.youtube.com/watch?v=xmpYfyNmWbw
+- [video] CompTIA Security+ Course: https://www.youtube.com/watch?v=yLf2jRY39Rc&list=PLIhvC56v63IIyU0aBUed4qwP0nSCORAdB
+- [video] CompTIA SY0-701 Security+ Exam Course Playlist: https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv
+- [video] Computer Networks: Crash Course Computer Science #28: https://www.youtube.com/watch?v=3QhU9jd03a0
+- [video] Cryptography Full Course Part 1: https://www.youtube.com/watch?v=j_8PLI_wCVU
+- [video] Cryptography Full Course Part 2: https://www.youtube.com/watch?v=s5yza-s0bhM
+- [video] Cybersecurity and Zero Trust: https://www.youtube.com/watch?v=FMMWSLIcaME
+- [video] Default Gateway Explained: https://www.youtube.com/watch?v=pCcJFdYNamc
+- [video] DHCP Explained - Dynamic Host Configuration Protocol: https://www.youtube.com/watch?v=e6-TaH5bkjo
+- [video] DO NOT design your network like this!!: https://www.youtube.com/watch?v=wwwAXlE4OtU
+- [video] DoS vs DDoS Attacks: What's the Difference? | Animated: https://www.youtube.com/watch?v=nw2SBTgLLwc
+- [video] EIGRP Explained | Step by Step: https://www.youtube.com/watch?v=QyymlFWDEgM
+- [video] ES  Skip navigation nat64 what is     Create   Avatar image NAT64 - Theory and Configuration: https://www.youtube.com/watch?v=xLt0SAPNeP4
+- [video] ES  Skip navigation Search    Create   Avatar image Wireshark Full Course 🦈| Wireshark Tutorial Beginner to Advance: https://www.youtube.com/watch?v=n4muxtqLhN4
+- [video] EVE NG Installation: https://www.youtube.com/watch?v=FDbgTlr-tnw
+- [video] Every Mobile Network Explained in 8 Minutes: https://www.youtube.com/watch?v=4BZg9YQy5WY
+- [video] Every Networking Concept Explained In 20 Minutes: https://www.youtube.com/watch?v=xj_GjnD4uyI
+- [video] Fail-over and High-Availability (Explained by Example): https://www.youtube.com/watch?v=Zgy1miPsTNs
+- [video] Firewalls: Packet-Filtering/Stateless Firewalls: https://www.youtube.com/watch?v=jkYVRtiUmJ0
+- [video] Free CCNA | Wireless Security: https://www.youtube.com/watch?v=wHXKo9So5y8
+- [video] FTP (File Transfer Protocol), SFTP, TFTP Explained.: https://www.youtube.com/watch?v=tOj8MSEIbfA
+- [video] Full HTTP Networking Course – Fetch and REST APIs in JavaScript: https://www.youtube.com/watch?v=2JYT5f2isg4
+- [video] Fundamentals of Network Automation: https://www.youtube.com/watch?v=K8ptdi-z7ls
+- [video] Fundamentals of SD-WAN: https://www.youtube.com/watch?v=cos4ujj80iI
+- [video] Getting Started with NETCONF: https://www.youtube.com/watch?v=BvPRkAQOrD8
+- [video] GLBP Operation (Cisco SWITCH (300-115) Complete Video Course): https://www.youtube.com/watch?v=ujApoqozzsE
+- [video] GNS3 Installation: https://www.youtube.com/watch?v=Ibe3hgP8gCA&list=PLhfrWIlLOoKNFP_e5xcx5e2GDJIgk3ep6
+- [video] Guided Vs Unguided Transmission Media | Differences & Comparison | Types of Transmission Media: https://www.youtube.com/watch?v=vUDtFjiNib4
+- [video] Hands-On Packet Analysis : The Course Overview: https://www.youtube.com/watch?v=1b54-GSYqDc&list=PLTgRMOcmRb3PFf5ZBQbM1OJUcs4SQjggv
+- [video] How a DNS Server (Domain Name System) works.: https://www.youtube.com/watch?v=mpQZVYPuDGU
+- [video] How a Switch Forwards and Builds the MAC Address Table: https://www.youtube.com/watch?v=sdYDLip2ANI
+- [video] How Does Bluetooth Technology Work?: https://www.youtube.com/watch?v=ObcBJyVS10E
+- [video] How does Starlink Satellite Internet Work?📡☄🖥: https://www.youtube.com/watch?v=qs2QcycggWU
+- [video] How Does the Internet Work? | Data Packets: https://www.youtube.com/watch?v=KjD3KANH-xc
+- [video] How SNMP Works - a quick guide: https://www.youtube.com/watch?v=2IXP0TkwNJU
+- [video] How to Design Wi-Fi Channels: https://www.youtube.com/watch?v=4GvZtUW-JiU
+- [video] https://www.youtube.com/watch?v=R-JUOpCgTZc: https://www.youtube.com/watch?v=R-JUOpCgTZc
+- [video] Hub, Switch, & Router Explained - What's the difference?: https://www.youtube.com/watch?v=1z0ULvg_pW8&t=20s
+- [video] IDS vs IPS: Which to Use and When: https://www.youtube.com/watch?v=wQSd_piqxQo
+- [video] Inside Wireless: Network Throughput: https://www.youtube.com/watch?v=l23baEHJ9YQ
+- [video] Internet Bandwidth (speed) Explained: https://www.youtube.com/watch?v=DHa9gxRfAmM
+- [video] Internet Protocol - IPv4 vs IPv6 as Fast As Possible: https://www.youtube.com/watch?v=aor29pGhlFE
+- [video] Introduction to Ansible - Automating Network Configuration: https://www.youtube.com/watch?v=il5IjFehoMA
+- [video] Introduction to AWS Networking: https://www.youtube.com/watch?v=XZbvQWkpJTI
+- [video] Introduction to the Prometheus Monitoring System | Key Concepts and Features: https://www.youtube.com/watch?v=STVMGrYIlfg
+- [video] IPCONFIG Explained - Flush DNS Cache: https://www.youtube.com/watch?v=ZKhorleA5aA
+- [video] Jeremy's IT Lab: https://www.youtube.com/@JeremysITLab
+- [video] LAN vs. WAN: What's the Difference? | Network Essentials: https://www.youtube.com/watch?v=5OoX_cRLaNM
+- [video] LAN, WAN, SUBNET - EXPLAINED: https://www.youtube.com/watch?v=NyZWSvSj8ek&t=40s
+- [video] LAN, WAN, SUBNET - EXPLAINED: https://www.youtube.com/watch?v=NyZWSvSj8ek
+- [video] Layer 6 (Presentation Layer): https://www.youtube.com/watch?v=AtITX-U2mL4
+- [video] Learn YANG! Full Tutorial for Beginners (: https://www.youtube.com/watch?v=zy9QA-uU0u4&t=61s
+- [video] Linux For Network Engineers - INTRO: https://www.youtube.com/watch?v=Wz9eAdNMVUs&list=PLhHT1w6sU7CMj-NKi-wQrC0DM0WadS4Bq
+- [video] Load Balancer Explained: https://www.youtube.com/watch?v=1fN2UDbtGDQ
+- [video] LoRaWAN Fundamentals in 5 Minutes: https://www.youtube.com/watch?v=SmDza__-wAA
+- [video] LTM Load Balancing Algorithms: Least Connections Types: https://www.youtube.com/watch?v=tAAmZ3bz8AA
+- [video] MAC Address Explained: https://www.youtube.com/watch?v=TIiQiw7fpsU
+- [video] MicroNugget: What is BGP and BGP Configuration Explained: https://www.youtube.com/watch?v=z8INzy9E628
+- [video] MicroNugget: What is Netflow?: https://www.youtube.com/watch?v=aqTpUmUibB8
+- [video] Modem vs Router - What's the difference?: https://www.youtube.com/watch?v=Mad4kQ5835Y
+- [video] NAPALM Network Automation Python: https://www.youtube.com/watch?v=Mkc9dHg9rks
+- [video] NAS vs SAN - Network Attached Storage vs Storage Area Network: https://www.youtube.com/watch?v=3yZDDr0JKVc
+- [video] NAT & PAT Explained in 5 minutes: https://www.youtube.com/watch?v=VHYgmaEU-lg
+- [video] NAT Explained - Network Address Translation: https://www.youtube.com/watch?v=FTUV0t6JaDA
+- [video] NAT Overloading or PAT: https://www.youtube.com/watch?v=I6Euj0eJSoc
+- [video] NAT vs PAT, Static vs Dynamic: https://www.youtube.com/watch?v=KA56kj23RPU
+- [video] Net Talk - GRE over IPsec: https://www.youtube.com/watch?v=anm84IVNBZU
+- [video] Netmiko Tutorial: https://www.youtube.com/watch?v=eiYemtNKS-M&list=PLtw40n4ybvFoHoigW7IwITNilmZn2cfNv
+- [video] NETSTAT Command Explained: https://www.youtube.com/watch?v=8UZFpCQeXnM
+- [video] Network Chuck Free CCNA Course: https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P
+- [video] Network Design Principles: https://www.youtube.com/watch?v=wwwAXlE4OtU&list=PL8PlHKTsX2zENCbExeCNmDuEbExOBWMvL
+- [video] Network Devices Explained | Hub, Bridge, Router, Switch: https://www.youtube.com/watch?v=eMamgWllRFY
+- [video] Network Flow Monitoring Explained | Concepts and protocols: http://youtube.com/watch?v=5i9sgB7CprM&t=182s
+- [video] Network Ports Explained: https://www.youtube.com/watch?v=g2fT-g9PX9o
+- [video] Network Protocols Explained: Networking Basics: https://www.youtube.com/watch?v=1zVZ9cWFnCc
+- [video] Network Time Protocol (NTP): https://www.youtube.com/watch?v=BAo5C2qbLq8
+- [video] Network Topology Architectures (2-tier and 3-tier): https://www.youtube.com/watch?v=XHlr791Lid0
+- [video] Network Troubleshooting for Beginners: Fix Your Internet Step-by-Step: https://www.youtube.com/watch?v=czXiP1mYtPE
+- [video] Network Types: LAN, WAN, PAN, CAN, MAN, SAN, WLAN: https://www.youtube.com/watch?v=4_zSIXb7tLQ
+- [video] Networking Basics - How RIP Works: https://www.youtube.com/watch?v=tZWlRq-iunI&t=59s
+- [video] Networking Basics: What is a Server?: https://www.youtube.com/watch?v=SpcGyrhJUJk
+- [video] Networking End to End: https://www.youtube.com/playlist?list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u
+- [video] Networking Fundamentals: OSI 7 - Layer 1 - the physical layer: http://youtube.com/watch?v=a5SMTyhn0U8
+- [video] Networking Fundamentals: OSI 7 - Layer 2 - the data link layer - Part 1: https://www.youtube.com/watch?v=c5lV995dSAA
+- [video] Networking Fundamentals: OSI 7 - Layer 2 - the data link layer - Part 2: https://www.youtube.com/watch?v=Q_55Lryu9zc
+- [video] Networking Fundamentals: OSI 7 - Layer 3 - the network layer - Part 1: https://www.youtube.com/watch?v=WAZxo2ObFIw
+- [video] Networking Fundamentals: OSI 7 - Layer 3 - the network layer - Part 2: https://www.youtube.com/watch?v=2MpRlYIYxz4
+- [video] Networking Fundamentals: OSI 7 - Layer 4&5 - Transport & Session Layers - Part 1: https://www.youtube.com/watch?v=MBLecyQuNqk
+- [video] Networking Fundamentals: OSI 7 - Layer 4&5 - Transport & Session Layers - Part 2: https://www.youtube.com/watch?v=drvbm6R0ONY
+- [video] Nmap for beginners: https://www.youtube.com/watch?v=5MTZdN9TEO4&list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx
+- [video] Observability vs. APM vs. Monitoring: https://www.youtube.com/watch?v=CAQ_a2-9UOI
+- [video] OpenDNS vs Google DNS (2026) - Which One Is BETTER?: https://www.youtube.com/watch?v=b3fYQ77VOrk
+- [video] OSI Model Layer 7 - Application: https://www.youtube.com/watch?v=L_wLexApMkA
+- [video] Packets and Frames — The containers of networking: https://www.youtube.com/watch?v=-hkF4OyxzNQ
+- [video] PING Command - Troubleshooting Networks: https://www.youtube.com/watch?v=IIicPE38O-s
+- [video] Public vs Private IP Address: https://www.youtube.com/watch?v=po8ZFG0Xc4Q
+- [video] Python for Networking: https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs
+- [video] QoS Explained | How to Prioritize Voice, Video & Data on Your Network: https://www.youtube.com/watch?v=FFL8Uql1m_4
+- [video] RESTCONF API Tutorial: https://www.youtube.com/watch?v=eFY317eJzEI&list=PLOocymQm7YWZ1uCrl7YoL_uwysOqp-qp5
+- [video] Server Monitoring // Prometheus and Grafana Tutorial: https://www.youtube.com/watch?v=9TJx7QTrTyo
+- [video] Shell Scripting Tutorial for Beginners 1 - Introduction: https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
+- [video] simpleshow explains Near Field Communication (NFC): https://www.youtube.com/watch?v=Gbv2BIi9i58
+- [video] Smart Home Protocols: Z-Wave Explained!: https://www.youtube.com/watch?v=k2qOh1O5tug
+- [video] Smart Home Protocols: ZigBee Explained!: https://www.youtube.com/watch?v=UmpDXc3cXbU
+- [video] SMTP vs IMAP vs POP3 Explained - Tutorial by Mailtrap: https://www.youtube.com/watch?v=IMLFrYqI-oQ
+- [video] SNTP explained: https://www.youtube.com/watch?v=eGMZ5Eobx7c
+- [video] Spanning Tree Protocol | CCNA - Explained: https://www.youtube.com/watch?v=6MW5P6Ci7lw
+- [video] SSH explained in 2 minutes!: https://www.youtube.com/watch?v=P0Fk-K2eZF8
+- [video] SSL, TLS, HTTP, HTTPS Explained: https://www.youtube.com/watch?v=hExRDVZHhig
+- [video] SSL, TLS, HTTPS Explained: https://www.youtube.com/watch?v=j9QmMEWmcfo
+- [video] Stateful Inspection Firewall: https://www.youtube.com/watch?v=rC37jKY3ono
+- [video] Steps for Network Troubleshooting: https://www.youtube.com/watch?v=1i3XdhC2ZAs
+- [video] Subnet Mask - Explained: https://www.youtube.com/watch?v=s_Ntt6eTn94
+- [video] Subnetting Explained: Networking Basics: https://www.youtube.com/watch?v=hbdT_Q9DM8w
+- [video] Supernetting, IP Aggregation, and IP Summarization: https://www.youtube.com/watch?v=Q4MArJTbUwk
+- [video] Terraform explained in 15 mins | Terraform Tutorial for Beginners: https://www.youtube.com/watch?v=l5k1ai_GBDE
+- [video] Tethering and Personal Hotspots: https://www.youtube.com/watch?v=07r7nPeNDm0
+- [video] The Best Access Point Placement Tips!: https://www.youtube.com/watch?v=_NMS4bs8_II
+- [video] The Client Server Model | Clients and Servers: https://www.youtube.com/watch?v=L5BlpPU_muY
+- [video] Top 6 Load Balancing Algorithms Every Developer Should Know: https://www.youtube.com/watch?v=dBmxNsS3BGE
+- [video] Traceroute (tracert) Explained - Network Troubleshooting: https://www.youtube.com/watch?v=up3bcBLZS74
+- [video] Types Of Cloud Computing: https://www.youtube.com/watch?v=1BMO7YkwR6Y
+- [video] Types of Firewalls Explained: https://www.youtube.com/watch?v=IbimC-tx7XI
+- [video] Ultimate Beginners Guide to Storage Area Network / SAN: https://www.youtube.com/watch?v=1PIxEpQDRqc
+- [video] Understanding (and Configuring) HSRP: https://www.youtube.com/watch?v=-IaUa4-6ZeI&pp=ygUESFNSUA%3D%3D
+- [video] Understanding L2 VPNs in MPLS: https://www.youtube.com/watch?v=PErdlfW-wkQ
+- [video] Understanding Routing!: https://www.youtube.com/watch?v=gQtgtKtvRdo&t=77s
+- [video] Virtual Networking Explained: https://www.youtube.com/watch?v=u0TgGIn2LIM
+- [video] Virtual Private Cloud (VPC) Explained: https://www.youtube.com/watch?v=2fPgKvDBfbs
+- [video] VLAN Explained: https://www.youtube.com/watch?v=jC6MJTh9fRE
+- [video] VLSM Subnetting - subnetting a subnet: https://www.youtube.com/watch?v=RLCd5u0sjoU
+- [video] VPNs Explained | Site-to-Site + Remote Access: https://www.youtube.com/watch?v=CWy3x3Wux6o
+- [video] VXLAN - What is VXLAN?: https://www.youtube.com/watch?v=Jv0IqaM9KOs
+- [video] What Are Access Lists? -- Access Control Lists (ACLs) -- Part 1 of 8: https://www.youtube.com/watch?v=0gGhuYOh-54&list=PLIFyRwBY_4bRkAk_BkWL3ea6lRvOn8AKs
+- [video] What Are the Differences Between SSL VPN and IPsec VPN?: https://www.youtube.com/watch?v=At44WU9EKjQ
+- [video] What are Wireless LAN Controllers?: https://www.youtube.com/watch?v=LWhFYBsSG08
+- [video] What Does A Network Engineer Actually Do: https://www.youtube.com/watch?v=JpiCwQKb0PM
+- [video] What is a Firewall?: http://youtube.com/watch?v=kDEX1HXybrU
+- [video] What is a Hotspot?: https://www.youtube.com/watch?v=ktxC3vDukbc
+- [video] What is a Network Switch?: https://www.youtube.com/watch?v=OvEu4owdjcg
+- [video] What is a Peer to Peer Network? Blockchain P2P Networks Explained: https://www.youtube.com/watch?v=ie-qRQIQT4I
+- [video] What is a Personal Area Network (PAN)? (Animation): https://www.youtube.com/watch?v=AYq-sqSzHKs
+- [video] What is a Proxy Server?: https://www.youtube.com/watch?v=5cPIukqXe5w
+- [video] What is a ROUTER?: https://www.youtube.com/watch?v=p9ScLm9S3B4
+- [video] What is a Socket?: https://www.youtube.com/watch?v=Gr2ROxZXuvQ
+- [video] What is a SWITCH?: https://www.youtube.com/watch?v=9eH16Fxeb9o
+- [video] What is a Web Application Firewall (WAF)?: https://www.youtube.com/watch?v=p8CQcF_9280
+- [video] what is an IP Address?: https://www.youtube.com/watch?v=5WfiTHiU4x8
+- [video] What is Band Steering?: https://www.youtube.com/watch?v=GBhHNbkYTyU
+- [video] What is CIDR (Classless Inter Domain Routing)?: https://www.youtube.com/watch?v=KiWXRL-2TnY
+- [video] What is Cisco VRF (Virtual Routing and Forwarding)?: https://www.youtube.com/watch?v=JIEwTTZuNHI
+- [video] What is Infrastructure as Code?: https://www.youtube.com/watch?v=zWw2wuiKd5o
+- [video] What is LACP (Link Aggregation Control Protocol)?: https://www.youtube.com/watch?v=gtDkqhP6Gvc
+- [video] What is Latency? (In about a minute): https://www.youtube.com/watch?v=S0NKk86HRdg&pp=ygUZd2hhdCBpcyBhIGxhdGVuY3kgbmV0b3drcg%3D%3D
+- [video] What is MPLS and How Does it Work?: https://www.youtube.com/watch?v=E5Ud1m9h0yc
+- [video] What is network CIDR notation?: https://www.youtube.com/watch?v=tpa9QSiiiUo
+- [video] What is Next Generation Firewalls? | Next Gen Firewalls Explained | NGFWS: https://www.youtube.com/watch?v=KsELeMSYZN0
+- [video] What is NFC? Explained - Tech Tips: https://www.youtube.com/watch?v=-TwwqdDTzfU&t=33s
+- [video] What is Nslookup?: https://www.youtube.com/watch?v=n6pT8lbyhog
+- [video] What is OSI Model?: https://www.youtube.com/watch?v=Ilk7UXzV_Qc
+- [video] What is OSPF and How Does It Work?: https://www.youtube.com/watch?v=Xb3CbIDMDRk&t=74s
+- [video] What Is Ping and What Does Its Output Tell Me?: https://www.youtube.com/watch?v=ZCMMyzBv354
+- [video] What is TCP/IP?: https://www.youtube.com/watch?v=PpsEaqJV_A0
+- [video] What is Traffic Shaping and Policing?: https://www.youtube.com/watch?v=khS8c1WrWfU
+- [video] What is VRRP? Virtual Router Redundancy Protocol: https://www.youtube.com/watch?v=GyQrgfrKJ38
+- [video] What is Web Hosting and How Does It Work?: https://www.youtube.com/watch?v=H8oAvyqQwew
+- [video] WiFi (Wireless) Password Security: https://www.youtube.com/watch?v=WZaIfyvERcA
+- [video] WIFI (wireless) Standards and Generations Explained: https://www.youtube.com/watch?v=hhks5xSpM-0&list=PL7zRJGi6nMRyB2f3BHfecjyd7_nuO63P0&index=1
+- [video] WiFi Roaming Explained: https://www.youtube.com/watch?v=gf4XuGK4N5Q
+- [video] Wireless Access Point vs Wi-Fi Router: https://www.youtube.com/watch?v=OxiY4yf6GGg
+- [video] Wireless Access Points Explained - Home Networking For Beginners: https://www.youtube.com/watch?v=bRjbil52Qm4
+- [video] Wireless Networking Technology: https://www.youtube.com/watch?v=hhks5xSpM-0&list=PL7zRJGi6nMRyB2f3BHfecjyd7_nuO63P0
+- [video] Wireless Site Survey Checklist and Best Practices: https://www.parkplacetechnologies.com/blog/wireless-site-survey-checklist-best-practices/
+- [video] Wireshark Tutorial for Beginners | Network Scanning Made Easy: https://www.youtube.com/watch?v=qTaOZrDnMzQ
+- [video] WLAN vs. Wi-Fi: What's the Difference?: https://www.youtube.com/watch?v=xt0YqqbvSFQ
+- [video] 🛰️ Satellite Networks Explained: https://www.youtube.com/watch?v=UCd3Tj-LWTA

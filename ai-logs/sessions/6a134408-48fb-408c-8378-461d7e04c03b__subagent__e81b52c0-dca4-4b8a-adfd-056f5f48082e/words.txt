@@ -1,0 +1,5 @@
+I'll build a complete AI context pack from your facts and resume, then write scannable guardrail docs under `ai-context/`.
+
+---
+
+Resume confirms the timeline; certs will be treated as done per your brief. Planning the doc set next, then writing all files.

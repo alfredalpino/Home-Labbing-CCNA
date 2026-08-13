@@ -1,0 +1,20 @@
+Creating a clean, well-formatted markdown file from that content—no additions or cuts.
+
+---
+
+The folder is owned by root, so I'll write the file with elevated permissions.
+
+---
+
+The workspace folder is root-owned, so I'll write the file somewhere you can access and flag the permission issue.
+
+---
+
+Done. Saved as **`Network-Engineer-Roadmap.md`** on your Desktop — content unchanged, just cleaned up as markdown.
+
+Couldn’t write into `Home-Labbing-CCNA` because that folder is owned by **root**. To put it there and fix future writes:
+
+```bash
+sudo chown -R ubaid:staff /Users/ubaid/Home-Labbing-CCNA
+mv ~/Desktop/Network-Engineer-Roadmap.md /Users/ubaid/Home-Labbing-CCNA/
+```

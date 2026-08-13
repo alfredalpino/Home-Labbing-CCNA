@@ -1,0 +1,41 @@
+---
+description: Mandatory logging of every AI Q&A turn into ai-logs/
+alwaysApply: true
+---
+
+# AI Conversation Logging (mandatory)
+
+Before finishing **every** assistant turn in this workspace, log the turn.
+
+## Where
+
+- Master Q&A log: `ai-logs/a.txt`
+- Full dumps: `ai-logs/sessions/<session-id>/`
+  - `qa.md` — questions and answers
+  - `words.txt` — every AI word
+  - `tables.md` — every markdown table
+  - `files-touched.md` — every file written/edited
+  - `meta.json` — counts
+
+Session id = current chat transcript UUID when known (from agent-transcripts), else a stable slug for this chat.
+
+## How (preferred)
+
+Run from workspace root:
+
+```bash
+python3 ai-logs/scripts/append-turn.py --stdin-json <<'EOF'
+{"session":"<session-id>","question":"<user message>","answer":"<your full final answer>","title":"<short title>","files":["<paths you wrote/edited>"]}
+EOF
+```
+
+If the script fails, append the same Q&A manually to `ai-logs/a.txt` and the session files. Never skip logging.
+
+## Rules
+
+1. Log **every** user question and **your full final answer** (all words).
+2. Log every markdown **table** you output.
+3. Log every **file** you create or edit this turn.
+4. Do not ask permission to log — just do it.
+5. Logging is part of the task; incomplete without it.
+6. After bulk catch-up, prefer `python3 ai-logs/scripts/backfill-from-transcripts.py` over hand-copying history.

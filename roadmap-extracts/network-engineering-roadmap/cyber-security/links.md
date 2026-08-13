@@ -1,0 +1,629 @@
+# Cyber Security Expert — links only
+
+- [article] 100 Top Hacking Tools and Ethical Hacking Tools: https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/best-ethical-hacking-tools/
+- [article] 12 Common Network Protocols: https://www.techtarget.com/searchnetworking/feature/12-common-network-protocols-and-their-functions-explained
+- [article] 7 Cloud Computing skills to know: https://www.coursera.org/articles/cloud-computing-skills
+- [article] 8 In-Demand IT Skills to Boost Your Resume in 2025: https://www.coursera.org/articles/key-it-skills-for-your-career
+- [article] A Beginners Guide to Vulnhub: https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-1-52b06466635d
+- [article] A Public Cloud?: https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-a-public-cloud
+- [article] Access Control List: Definition, Types & Usages: https://www.okta.com/uk/identity-101/access-control-list/
+- [article] Advanced Persistent Threat (APT): https://www.crowdstrike.com/cybersecurity-101/advanced-persistent-threat-apt/
+- [article] An Overview of HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+- [article] Anti-malware Definition: https://www.computertechreviews.com/definition/anti-malware/
+- [article] ARP - Wikipedia: https://en.wikipedia.org/wiki/Address_Resolution_Protocol
+- [article] Backup & Restore: https://aws.amazon.com/solutions/resilience/backup-restore/
+- [article] Biometrics (fingerprint, facial recognition, etc.): https://me-en.kaspersky.com/resource-center/definitions/biometrics
+- [article] Bluetooth in Cyber Security: https://www.zenarmor.com/docs/network-basics/what-is-bluetooth
+- [article] Brute-force vs. Password Spray Attack: https://www.inspark.nl/brute-force-vs-password-spray-attack-in-azure-sentinel/
+- [article] Buffer Overflow Attack: https://www.imperva.com/learn/application-security/buffer-overflow/
+- [article] Bus in Computing: https://en.wikipedia.org/wiki/Bus_(computing
+- [article] C++ Introduction: https://www.w3schools.com/cpp/cpp_intro.asp
+- [article] Cat Command in Linux: https://linuxize.com/post/linux-cat-command/
+- [article] Catching all Threats - Known, Unknown, and Unknown Unknown: https://www.scworld.com/perspective/catching-all-threats-known-unknown-and-unknown-unknown-before-they-can-harm-you
+- [article] Certified Ethical Hacker Online Training: https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/
+- [article] Certified Information Security Manager (CISM): https://www.techtarget.com/searchsecurity/definition/certified-information-security-manager-CISM
+- [article] Check Your IP Address: https://ipleak.net
+- [article] CISA's definition of VirusTotal: https://www.cisa.gov/resources-tools/services/virustotal
+- [article] Cloud Security: https://www.checkpoint.com/cyber-hub/cloud-security/what-is-cloud-security/
+- [article] Common network ports you should know: https://opensource.com/article/18/10/common-network-ports
+- [article] Compliance Office and Internal Audit Roles and Responsibilities: https://www.compliance.com/resources/compliance-office-and-internal-audit-roles-and-responsibilities/
+- [article] CompTIA Linux+ Certification Training Labs: https://github.com/labex-labs/comptia-linux-plus-training-labs
+- [article] Containment - AWS: https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/containment.html
+- [article] Cross Site Scripting (XSS) - OWASP: https://owasp.org/www-community/attacks/xss/
+- [article] Cross Site Scripting Prevention Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
+- [article] Cross-Site Request Forgery: https://owasp.org/www-community/attacks/csrf
+- [article] CRUD Operations: https://www.freecodecamp.org/news/crud-operations-explained/
+- [article] Cyber Security Compliance 101: https://sprinto.com/blog/cyber-security-compliance/
+- [article] Cybersecurity – a responsibility of top management: https://www.valmet.com/insights/articles/experts-voice/cybersecurity--a-responsibility-of-top-management/
+- [article] Deauthentication Attacks: https://www.baeldung.com/cs/deauthentication-attacks
+- [article] Definition and Explanation of Spoofing: https://www.kaspersky.com/resource-center/definitions/spoofing
+- [article] Difference Between False Positive and False Negative: https://www.differencebetween.net/science/difference-between-false-positive-and-false-negative/
+- [article] DNS Poisoning (DNS Spoofing): Definition, Technique & Defense: https://www.okta.com/identity-101/dns-poisoning/
+- [article] DNS Sinkholes: What is it and how to start using: https://www.threatintelligence.com/blog/dns-sinkhole
+- [article] DoS vs DDoS: https://www.fortinet.com/resources/cyberglossary/dos-vs-ddos
+- [article] Dumpster Diving: https://www.techtarget.com/searchsecurity/definition/dumpster-diving
+- [article] Dynamic Host Configuration Protocol (DHCP): https://learn.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top
+- [article] Eradication - AWS: https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/eradication.html
+- [article] Essential Unix Commands: https://www.geeksforgeeks.org/essential-linuxunix-commands/
+- [article] Extensible Authentication Protocol (EAP) for network access: https://learn.microsoft.com/en-us/windows-server/networking/technologies/extensible-authentication-protocol/network-access?tabs=eap-tls%2Cserveruserprompt-eap-tls%2Ceap-sim
+- [article] False Positives and False Negatives in Information Security: https://www.guardrails.io/blog/false-positives-and-false-negatives-in-information-security/
+- [article] File Transfer Protocol: https://en.wikipedia.org/wiki/File_Transfer_Protocol
+- [article] From Known to Unknown: https://securitysandman.com/2025/01/06/from-known-to-unknown-shifting-cybersecurity-to-proactive-ai-detection/
+- [article] FTP defined and explained: https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning
+- [article] FTP meaning and uses: https://www.investopedia.com/terms/f/ftp-file-transfer-protocol.asp
+- [article] grep command in Linux: https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
+- [article] Guest Operating System: https://nordvpn.com/cybersecurity/glossary/guest-operating-system/?srsltid=AfmBOop0L-VFCtuYvEBQgHy7dCIa3sfzNVa-Zn6l0SniAYDpftfOgH7N
+- [article] Hashing Algorithm Overview: Types, Methodologies & Usage: https://www.okta.com/identity-101/hashing-algorithms/
+- [article] Host Operating System Definition: https://nordvpn.com/cybersecurity/glossary/host-operating-system/
+- [article] Host vs Guest OS: https://www.datto.com/blog/whats-the-difference-host-vs-guest-os/
+- [article] How bluetooth works: https://electronics.howstuffworks.com/bluetooth.htm
+- [article] How DNSSEC works: https://www.cloudflare.com/en-gb/dns/dnssec/how-dnssec-works/
+- [article] How does Obfuscation work?: https://www.hypr.com/security-encyclopedia/obfuscation
+- [article] How Honeypots help security: https://www.kaspersky.com/resource-center/threats/what-is-a-honeypot
+- [article] How to enable LDAPS: https://www.dell.com/support/kbdoc/en-uk/000212661/how-to-enable-secure-lightweight-directory-access-protocol-ldaps-on-an-active-directory-domain-controller
+- [article] How to identify Cybersecurity vulnerabilities: https://fieldeffect.com/blog/how-to-identify-cybersecurity-vulnerabilities
+- [article] How to Prepare for OSCP Exam: https://cybersecurityguide.org/programs/cybersecurity-certifications/oscp/
+- [article] How to Recognize and Avoid Phishing Scams: https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams
+- [article] How to use Linux dig command: https://www.google.com/search?client=firefox-b-d&q=linux+dig+command
+- [article] How to use the whois command on Linux: https://www.howtogeek.com/680086/how-to-use-the-whois-command-on-linux/
+- [article] How to Use Wireshark: Comprehensive Tutorial + Tips: https://www.varonis.com/blog/how-to-use-wireshark
+- [article] Incident Response Plan: Framework and Steps: https://www.crowdstrike.com/cybersecurity-101/incident-response/incident-response-steps/
+- [article] Infrared: https://www.larksuite.com/en_us/topics/cybersecurity-glossary/infrared
+- [article] Infrared Definition: https://nordvpn.com/cybersecurity/glossary/infrared/?srsltid=AfmBOop7r5E41gRA5itc1NmwrS9qpjfiFnW6UKBwVLuu_MifaKdLHoTe
+- [article] Introduction to Digital Forensics (TryHackMe): https://tryhackme.com/room/introdigitalforensics
+- [article] IP Address Management: https://learn.microsoft.com/en-us/windows-server/networking/technologies/ipam/ipam-top
+- [article] ipconfig command: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig
+- [article] iptables man page: https://linux.die.net/man/8/iptables
+- [article] Is Your Router Blocking Your Ports? Here's How to Find Out?: https://softhandtech.com/how-can-i-tell-if-a-port-is-blocked-on-my-router/
+- [article] IT Skills: Definition and Examples: https://www.indeed.com/career-advice/finding-a-job/it-skills
+- [article] Key Exchange: https://nordvpn.com/cybersecurity/glossary/key-exchange/?srsltid=AfmBOoocoykou-7M3OHUQq7APIsGDVjOR8P6wIcIvNA2fgOt1620RZwG
+- [article] Key Functions of a Legal Team: https://uk.practicallaw.thomsonreuters.com/w-009-3932?transitionType=Default&contextData=(sc.Default
+- [article] Linux cat command: https://phoenixnap.com/kb/linux-cat-command
+- [article] Linux Commands Cheat Sheet: https://cdn.hostinger.com/tutorials/pdf/Linux-Commands-Cheat-Sheet.pdf
+- [article] Linux File Permissions (Linux Journey): https://linuxjourney.com/lesson/file-permissions
+- [article] Local authentication, registration, and other settings: https://learn.microsoft.com/en-us/power-pages/security/authentication/set-authentication-identity
+- [article] Man-in-the-middle attack: https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+- [article] Mesh Topology explained: https://www.computerhope.com/jargon/m/mesh.htm
+- [article] Microsoft Security Incident Management: Containment, Eradication, and Recovery: https://learn.microsoft.com/en-us/compliance/assurance/assurance-sim-containment-eradication-recovery
+- [article] Microsoft's PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
+- [article] NAS vs SAN - What are the differences?: https://www.backblaze.com/blog/whats-the-diff-nas-vs-san/
+- [article] netstat command: https://docs.oracle.com/cd/E19504-01/802-5753/6i9g71m3i/index.html
+- [article] Network connection types explained: https://nordvpn.com/blog/network-connection-types/
+- [article] Networking basics - What you need to know: https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html
+- [article] Networking Basics: What is IPv4 Subnetting?: https://www.cbtnuggets.com/blog/technology/networking/networking-basics-what-is-ipv4-subnetting
+- [article] NFC Guide: All You Need to Know About Near Field Communication: https://squareup.com/us/en/the-bottom-line/managing-your-finances/nfc
+- [article] NMAP Cheat Sheet: https://www.tutorialspoint.com/nmap-cheat-sheet
+- [article] nslookup: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup
+- [article] Operating System (OS) Hardening: Pros, Cons, and Importance: https://linfordco.com/blog/operating-system-hardening/
+- [article] OS Hardening: 15 Best Practices: https://perception-point.io/guides/os-isolation/os-hardening-10-best-practices/
+- [article] OS-Independent Troubleshooting Flashcards: https://quizlet.com/ph/837474114/os-independent-troubleshooting-flash-cards/
+- [article] Packet Capture: What is it and What You Need to Know: https://www.varonis.com/blog/packet-capture
+- [article] Packet Sniffing Explained: https://www.avast.com/c-packet-sniffing
+- [article] Pass the Hash Attack: https://www.netwrix.com/pass_the_hash_attack_explained.html
+- [article] phishing - definition: https://www.techtarget.com/searchsecurity/definition/phishing
+- [article] PortSwigger - SQL Injection: https://portswigger.net/web-security/sql-injection
+- [article] Portswigger's guide on File Path Traversal: https://portswigger.net/web-security/file-path-traversal
+- [article] Problem Solve: https://www.techtarget.com/searchsecurity/info/problemsolve
+- [article] Proxmox Virtual Environment: https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment
+- [article] Public Key vs Private Key: How are they Different?: https://venafi.com/blog/what-difference-between-public-key-and-private-key/
+- [article] Public vs Private IP Addresses: https://www.avast.com/c-ip-address-public-vs-private
+- [article] Purple Teaming Explained: https://www.crowdstrike.com/cybersecurity-101/purple-teaming/
+- [article] RADIUS (Remote Authentication Dial-In User Service): https://www.techtarget.com/searchsecurity/definition/RADIUS
+- [article] Red Team VS Blue Team: What's the Difference?: https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/red-team-vs-blue-team/
+- [article] Rogue Access Points: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:cyber-attacks/a/rogue-access-points-mitm-attacks
+- [article] Role-based access control (RBAC): https://en.wikipedia.org/wiki/Role-based_access_control
+- [article] route command: https://www.man7.org/linux/man-pages/man8/route.8.html
+- [article] S/MIME for message signing and encryption in Exchange Online: https://learn.microsoft.com/en-us/exchange/security-and-compliance/smime-exo/smime-exo
+- [article] Security 101: What is a SIEM? - Microsoft: https://www.microsoft.com/security/business/security-101/what-is-siem
+- [article] Security tokens or certificates: https://www.comodo.com/e-commerce/ssl-certificates/certificate.php
+- [article] Software as a Service?: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas
+- [article] SRTP (Secure RTP): https://developer.mozilla.org/en-US/docs/Glossary/RTP
+- [article] SSH Keys Explained: https://www.sectigo.com/resource-library/what-is-an-ssh-key
+- [article] Star Topology: https://www.computerhope.com/jargon/s/startopo.htm
+- [article] tail man page: https://man7.org/linux/man-pages/man1/tail.1.html
+- [article] Tailgating attacks: https://www.proofpoint.com/us/threat-reference/tailgating-attacks-cybersecurity
+- [article] tcpdump man page: https://www.tcpdump.org/manpages/tcpdump.1.html
+- [article] The Beginner's Guide to NFCs: https://www.spiceworks.com/tech/networking/articles/what-is-near-field-communication/
+- [article] The CIA Triad: https://www.fortinet.com/resources/cyberglossary/cia-triad
+- [article] The Diamond Model: Simple Intelligence-Driven Intrusion Analysis: https://kravensecurity.com/diamond-model-analysis/
+- [article] The Head and Tail commands in Linux: https://www.baeldung.com/linux/head-tail-commands
+- [article] The Legal Team’s Responsibility in Corporate Cybersecurity: https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/expert-insight-the-legal-teams-responsibility-in-corporate-cybersecurity/
+- [article] The Power of Isolation in Cyber security: https://peel-cyber.co.uk/the-power-of-isolation-in-cyber-security/
+- [article] Threat Intelligence: https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/
+- [article] TLS Basics: https://www.internetsociety.org/deploy360/tls/basics/
+- [article] Top 5 Free Open Port Check Tools in 2026: https://www.upguard.com/blog/best-open-port-scanners
+- [article] Top IT Skills in Demand: https://www.comptia.org/en/blog/top-it-skills-in-demand
+- [article] traceroute man page: https://linux.die.net/man/8/traceroute
+- [article] tracert: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tracert
+- [article] Troubleshooting Guide: https://cdnsm5-ss6.sharpschool.com/userfiles/servers/server_20856499/file/teacher%20pages/lindsay%20dolezal/it%20essentials/5.6.pdf
+- [article] Two-factor authentication (2FA): https://authy.com/what-is-2fa/
+- [article] Understanding Cryptography Types:: https://geekflare.com/cybersecurity/cryptography-types/
+- [article] Understanding ipconfig: https://www.whatismyip.com/ipconfig/
+- [article] Understanding the Loopback Address and Loopback Interfaces: https://study-ccna.com/loopback-interface-loopback-address/
+- [article] Understanding the risks of LOLBAS in security: https://pentera.io/blog/the-lol-isnt-so-funny-when-it-bites-you-in-the-bas/
+- [article] WADComs: Windows/Active Directory Interactive Cheat Sheet: https://john-woodman.com/research/wadcoms/
+- [article] What are event logs and why do they matter?: https://www.blumira.com/blog/what-are-event-logs-and-why-do-they-matter
+- [article] What are memory leaks?: https://learn.snyk.io/lesson/memory-leaks/
+- [article] What are Network Protocols?: https://www.solarwinds.com/resources/it-glossary/network-protocols
+- [article] What does HR actually do?: https://www.lucidchart.com/blog/what-does-hr-do
+- [article] What is 2FA?: https://www.microsoft.com/en-gb/security/business/security-101/what-is-two-factor-authentication-2fa
+- [article] What is a Blue Team?: https://www.checkpoint.com/cyber-hub/cyber-security/what-is-a-blue-team/
+- [article] What is a Brute-force Attack?: https://www.fortinet.com/resources/cyberglossary/brute-force-attack
+- [article] What is a Bus?: https://www.lenovo.com/gb/en/glossary/bus/?srsltid=AfmBOoocoXVvqdupLu13XAm0FZMOHjRtjnnCCFxa59tEa-bQwhiVhac2
+- [article] What is a Certificate Authority: https://www.ssl.com/article/what-is-a-certificate-authority-ca/
+- [article] What is a Certified Information Systems Auditor?: https://www.investopedia.com/terms/c/certified-information-systems-auditor.asp
+- [article] What is a Compliance Audit?: https://www.auditboard.com/blog/compliance-audit/
+- [article] What is a Default Gateway?: https://nordvpn.com/blog/what-is-a-default-gateway/?srsltid=AfmBOoosi5g4acnT9Gv_B86FMGr72hWDhk8J-4jr1HvxPCSu96FikCyw
+- [article] What is a DMZ Network?: https://www.fortinet.com/resources/cyberglossary/what-is-dmz
+- [article] What is a Drive-By Attack?: https://www.ericom.com/glossary/what-is-a-drive-by-attack/
+- [article] What is a Firewall?: https://www.kaspersky.com/resource-center/definitions/firewall
+- [article] What is a Guest Operating System?: https://www.techtarget.com/searchitoperations/definition/guest-OS-guest-operating-system
+- [article] What is a host-based firewall?: https://www.paloaltonetworks.com/cyberpedia/what-is-a-host-based-firewall
+- [article] What is a Hybrid Cloud?: https://cloud.google.com/learn/what-is-hybrid-cloud
+- [article] What is a hypervisor?: https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor
+- [article] What is a Jump Server?: https://www.ssh.com/academy/iam/jump-server
+- [article] What is a LAN?: https://www.cisco.com/c/en_uk/products/switches/what-is-a-lan-local-area-network.html
+- [article] What is a Metropolitan Area Network?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-metropolitan-area-network/
+- [article] What is a Network Intrusion Detection system (NIDS)?: https://bunny.net/academy/security/what-is-network-intrusion-detection-nids/
+- [article] What is a Network Switch?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-network-switch/
+- [article] What is a next-generation firewall (NGFW)?: https://www.cloudflare.com/en-gb/learning/security/what-is-next-generation-firewall-ngfw/
+- [article] What is a Operating System?: https://en.wikipedia.org/wiki/Operating_system
+- [article] What is a pass-the-hash attack?: https://www.crowdstrike.com/cybersecurity-101/pass-the-hash/
+- [article] What is a Private Cloud?: https://aws.amazon.com/what-is/private-cloud/
+- [article] What is a Protocol Analyzer?: https://www.liveaction.com/glossary/protocol-analyzer/
+- [article] What Is a Replay Attack?: https://usa.kaspersky.com/resource-center/definitions/replay-attack
+- [article] What is a Router: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-router/
+- [article] What is a runbook?: https://www.pagerduty.com/resources/learn/what-is-a-runbook/
+- [article] What Is a Subnet Mask?: https://www.spiceworks.com/tech/networking/articles/what-is-subnet-mask/
+- [article] What is a Virtual Machine and how does it work?: https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-a-virtual-machine
+- [article] What is a VLAN?: https://www.solarwinds.com/resources/it-glossary/vlan
+- [article] What is a VPN?: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn
+- [article] What is a WAN?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-wan/
+- [article] What is a Watering Hole Attack?: https://www.techtarget.com/searchsecurity/definition/watering-hole-attack
+- [article] What is a Whaling Attack?: https://usa.kaspersky.com/resource-center/definitions/what-is-a-whaling-attack
+- [article] What Is a Wireless LAN?: https://www.cisco.com/c/en/us/products/wireless/wireless-lan.html
+- [article] What is a Zero Trust Network?: https://www.cloudflare.com/en-gb/learning/security/glossary/what-is-zero-trust/
+- [article] What is a Zero-day Attack?: https://www.kaspersky.com/resource-center/definitions/zero-day-exploit
+- [article] What is Address Resolution Protocol?: https://www.fortinet.com/resources/cyberglossary/what-is-arp
+- [article] What is an Event Log?: https://www.crowdstrike.com/cybersecurity-101/observability/event-log/
+- [article] What is an Evil Twin attack?: https://www.techtarget.com/searchsecurity/definition/evil-twin
+- [article] What is an Impersonation Attack?: https://www.upguard.com/blog/impersonation-attack
+- [article] What is an Intrusion Detection System: https://www.ibm.com/topics/intrusion-detection-system
+- [article] What is an Intrusion Detection System?: https://www.paloaltonetworks.com/cyberpedia/what-is-an-intrusion-detection-system-ids
+- [article] What is an Intrusion Prevention System?: https://www.paloaltonetworks.com/cyberpedia/what-is-an-intrusion-prevention-system-ips
+- [article] What is an Intrusion Prevention System?: https://www.paloaltonetworks.co.uk/cyberpedia/what-is-an-intrusion-prevention-system-ips
+- [article] What is an IP Address and What does it mean?: https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address
+- [article] What is an operating system? - IBM: https://www.ibm.com/think/topics/operating-systems
+- [article] What is an SSL Certificate?: https://www.cloudflare.com/en-gb/learning/ssl/what-is-an-ssl-certificate/
+- [article] What is Antimalware?: https://riskxchange.co/1006974/cybersecurity-what-is-anti-malware/
+- [article] What is Antivirus Software?: https://www.webroot.com/gb/en/resources/tips-articles/what-is-anti-virus-software
+- [article] What Is Buffer Overflow?: https://www.fortinet.com/resources/cyberglossary/buffer-overflow
+- [article] What is CIDR?: https://aws.amazon.com/what-is/cidr/
+- [article] What is Cloud Deployment?: https://www.cognizant.com/us/en/glossary/cloud-deployment
+- [article] What Is Cloud Security? - Google Cloud: https://cloud.google.com/learn/what-is-cloud-security
+- [article] What is computer hardware?: https://www.ibm.com/think/topics/hardware
+- [article] What is CRUD?: https://www.crowdstrike.com/cybersecurity-101/observability/crud/
+- [article] What is Cyber Reconnaissance: https://www.sentinelone.com/cybersecurity-101/threat-intelligence/what-is-cyber-reconnaissance/
+- [article] What is Cyber Security Compliance?: https://www.comptia.org/content/articles/what-is-cybersecurity-compliance
+- [article] What is Cybersecurity Reconnaissance?: https://cymulate.com/cybersecurity-glossary/cyber-reconnaissance/
+- [article] What is Cybersecurity Risk?: https://securityscorecard.com/blog/what-is-cybersecurity-risk-factors-to-consider/
+- [article] What is Data Loss Prevention (DLP)?: https://www.techtarget.com/whatis/definition/data-loss-prevention-DLP
+- [article] What is Defense in Depth?: https://www.fortinet.com/resources/cyberglossary/defense-in-depth
+- [article] What is DLP (data loss prevention)?: https://www.cloudflare.com/en-gb/learning/access-management/what-is-dlp/
+- [article] What is DNS Cache Poisoning? | DNS spoofing: https://www.cloudflare.com/learning/dns/dns-cache-poisoning/
+- [article] What Is DNS Poisoning?: https://www.fortinet.com/resources/cyberglossary/dns-poisoning
+- [article] What is DNS?: https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/
+- [article] What is Dumpster Diving: https://powerdmarc.com/dumpster-diving-in-cybersecurity/
+- [article] What is Endpoint Detection and Response?: https://www.crowdstrike.com/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/
+- [article] What is Endpoint Security?: https://www.crowdstrike.com/cybersecurity-101/endpoint-security/
+- [article] What is eradication in Cybersecurity?: https://heimdalsecurity.com/blog/what-is-eradication-in-cybersecurity/
+- [article] What is Ethernet?: https://www.techtarget.com/searchnetworking/definition/Ethernet
+- [article] What is Firewall Logging and Why is it Important?: https://cybriant.com/what-is-firewall-logging-and-why-is-it-important/
+- [article] What is hashing and how does it work?: https://www.techtarget.com/searchdatamanagement/definition/hashing
+- [article] What is Host intrusion prevention system (HIPS)?: https://cyberpedia.reasonlabs.com/EN/host%20intrusion%20prevention%20system%20(hips
+- [article] What is hping?: https://www.okta.com/uk/identity-101/hping/
+- [article] What is HR?: https://www.investopedia.com/terms/h/humanresources.asp
+- [article] What is HTTPS?: https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/
+- [article] What is IaaS?: https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-iaas
+- [article] What is Incident Response: https://www.microsoft.com/en-gb/security/business/security-101/what-is-incident-response
+- [article] What is infrastructure as code (IaC)? - Azure DevOps: https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
+- [article] What is Infrastructure as Code? - IaC Explained - AWS: https://aws.amazon.com/what-is/iac/
+- [article] What is Intrusion Detection Systems (IDS): https://www.fortinet.com/resources/cyberglossary/intrusion-detection-system
+- [article] What is IPAM?: https://www.infoblox.com/glossary/ipam-ip-address-management/
+- [article] What is IPSec?: https://www.cloudflare.com/en-gb/learning/network-layer/what-is-ipsec/
+- [article] What is JavaScript?: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+- [article] What is Kerberos?: https://www.fortinet.com/resources/cyberglossary/kerberos-authentication
+- [article] What Is LDAP & How Does It Work?: https://www.okta.com/uk/identity-101/what-is-ldap/
+- [article] What is localhost?: https://www.freecodecamp.org/news/what-is-localhost/
+- [article] What is Mandatory Access Control?: https://nordlayer.com/learn/access-control/mandatory-access-control/
+- [article] What is Mesh Topology?: https://www.lenovo.com/gb/en/glossary/mesh-topology
+- [article] What is MFA?: https://www.onelogin.com/learn/what-is-mfa
+- [article] What is Network Access Control: https://www.fortinet.com/resources/cyberglossary/what-is-network-access-control
+- [article] What Is Network Address Translation (NAT)?: https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-address-translation-nat.html
+- [article] What is NIST?: https://www.encryptionconsulting.com/education-center/nist/
+- [article] What is NTP?: https://www.pubnub.com/learn/glossary/ntp-protocol/
+- [article] What is On-Premises Data Centers vs. Cloud Computing?: https://www.hpe.com/uk/en/what-is/on-premises-vs-cloud.html
+- [article] What is OSI Model? - AWS: https://aws.amazon.com/what-is/osi-model/
+- [article] What is PaaS?: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas
+- [article] What is Password Spraying?: https://www.techtarget.com/whatis/definition/password-spraying
+- [article] What is Patch Management?: https://www.ibm.com/topics/patch-management
+- [article] What is ping?: https://www.solarwinds.com/resources/it-glossary/ping
+- [article] What is PKI?: https://cpl.thalesgroup.com/faq/public-key-infrastructure-pki/what-public-key-infrastructure-pki
+- [article] What is Port Blocking?: https://cyberpedia.reasonlabs.com/EN/port%20blocking.html
+- [article] What is Privilege Escalation?: https://www.crowdstrike.com/cybersecurity-101/privilege-escalation/
+- [article] What is Protected Extensible Authentication Protocol (PEAP): https://www.techtarget.com/searchsecurity/definition/PEAP-Protected-Extensible-Authentication-Protocol
+- [article] What Is Public Key Infrastructure (PKI) & How Does It Work?: https://www.okta.com/identity-101/public-key-infrastructure/
+- [article] What is Red Teaming?: https://www.ibm.com/think/topics/red-teaming
+- [article] What is Ring Topology?: https://www.lenovo.com/gb/en/glossary/what-is-ring-topology/
+- [article] What is Rogue Access Point: https://pentescope.com/rogue-access-point-detection-and-prevention/
+- [article] What is salting?: https://www.techtarget.com/searchsecurity/definition/salt
+- [article] What is Sandboxing?: https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-sandboxing/
+- [article] What is Serverless Computing?: https://www.cloudflare.com/en-gb/learning/serverless/what-is-serverless/
+- [article] What is SFTP?: https://www.precisely.com/glossary/sftp
+- [article] What is Shoulder Surfing, and How can you avoid it?: https://nordvpn.com/blog/shoulder-surfing/?srsltid=AfmBOorl5NPpW_Tnhas9gB2HiblorqwXyK0NJae7uaketrnDwbjJmiYV
+- [article] What is Shoulder Surfing?: https://www.mcafee.com/learn/what-is-shoulder-surfing/
+- [article] What is Shoulder Surfing? 9 ways to protect yourself: https://www.bigrock.in/blog/products/security/what-is-shoulder-surfing-9-ways-to-protect-yourself-from-shoulder-surfing/
+- [article] What is smishing (SMS phishing)?: https://www.ibm.com/topics/smishing
+- [article] What is SOAR?: https://www.paloaltonetworks.co.uk/cyberpedia/what-is-soar
+- [article] What Is Social Engineering?: https://www.cisco.com/c/en/us/products/security/what-is-social-engineering.html
+- [article] What Is Spam?: https://www.proofpoint.com/us/threat-reference/spam
+- [article] What Is Spim?: https://www.brosix.com/blog/what-is-spim/
+- [article] What is SSH? | Secure Shell (SSH) protocol: https://www.cloudflare.com/en-gb/learning/access-management/what-is-ssh/
+- [article] What is SSL? | SSL definition: https://www.cloudflare.com/en-gb/learning/ssl/what-is-ssl/
+- [article] What is SSO? | How single sign-on works: https://www.cloudflare.com/en-gb/learning/access-management/what-is-sso/
+- [article] What is syslog?: https://www.solarwinds.com/resources/it-glossary/syslog
+- [article] What is the cURL command?: https://blog.hubspot.com/website/curl-command
+- [article] What is the GPEN Certification?: https://hackernoon.com/what-is-the-giac-penetration-tester-gpen-certification
+- [article] What is the ISO?: https://www.techtarget.com/searchdatacenter/definition/ISO#:~:text=ISO%20(International%20Organization%20for%20Standardization
+- [article] What is the Remote Desktop Protocol (RDP)?: https://www.cloudflare.com/en-gb/learning/access-management/what-is-the-remote-desktop-protocol/
+- [article] What is the Risk Management Framework?: https://www.techtarget.com/searchcio/definition/Risk-Management-Framework-RMF
+- [article] What is Threat Hunting: https://www.ibm.com/topics/threat-hunting
+- [article] What is Threat Hunting? Threat Hunting Types and Techniques: https://www.fortinet.com/resources/cyberglossary/threat-hunting
+- [article] What is Typosquatting: https://www.mcafee.com/learn/what-is-typosquatting/#:~:text=Typosquatting%2C%20also%20known%20as%20URL,%E2%80%9CGoogle.com%E2%80%9D
+- [article] What is VLAN Hopping?: https://www.packetlabs.net/posts/what-is-vlan-hopping/
+- [article] What is VMWare ESXi?: https://www.liquidweb.com/blog/what-is-vmware-esxi/
+- [article] What is Vulnerability Management? - CrowdStrike: https://www.crowdstrike.com/cybersecurity-101/vulnerability-management/
+- [article] What is Vulnerability Management? - Rapid7: https://www.rapid7.com/fundamentals/vulnerability-management-and-scanning/
+- [article] What Is Wi-Fi Security? WEP, WPA, WPA2 & WPA3 Differences: https://nilesecure.com/network-security/what-is-wi-fi-security-wep-wpa-wpa2-wpa3-differences
+- [article] What is WinHex?: https://www.lenovo.com/in/en/glossary/winhex/
+- [article] What’s the Difference Between SSL and TLS?: https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/
+- [article] When and how to use the dd command: https://www.baeldung.com/linux/dd-command
+- [article] Who Holds the Ultimate Responsibility for Cyber Security?: https://resolutionit.com/news/who-holds-the-ultimate-responsibility-for-cyber-security/
+- [article] Whois lookup: https://www.whois.com/whois/
+- [article] Why are Rules of Engagement Important to a Penetration Test?: https://www.triaxiomsecurity.com/rules-of-engagement-important-to-penetration-test/
+- [article] Wi-Fi Deauthentication Attack: https://medium.com/@balaramapunna123/wi-fi-deauthentication-attack-76cdd91d5fc
+- [article] Wi-fi Phishing Explained: https://it-explained.com/words/wi-fi-phishing-explained-explained
+- [article] Wi-Fi Protected Setup: https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup
+- [article] Wireless Networks - Howstuffworks: https://computer.howstuffworks.com/wireless-network.htm
+- [article] WPS – What is it, and how does it work?: https://passwork.pro/blog/what-is-wps/
+- [course] AWS Complete Tutorial: https://www.youtube.com/watch?v=B8i49C8fC3E
+- [course] Beginners Guide To The Bash Terminal: https://www.youtube.com/watch?v=oxuRxtrO2Ag
+- [course] Cisco Networking Academy: Introduction to Cybersecurity: https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US
+- [course] CompTIA Security+ Course: https://www.youtube.com/watch?v=yLf2jRY39Rc&list=PLIhvC56v63IIyU0aBUed4qwP0nSCORAdB
+- [course] CompTIA SY0-701 Security+ Exam Course Playlist: https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv
+- [course] HackTheBox Academy's module on File Inclusion & Path Traversal: https://academy.hackthebox.com/course/preview/file-inclusion
+- [course] Linux from scratch - Cisco: https://www.netacad.com/courses/os-it/ndg-linux-unhatched
+- [course] Open-Source Intelligence (OSINT) in 5 Hours: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=457s
+- [course] Python Full Course for Beginners: https://www.youtube.com/watch?v=K5KVEU3aaeQ
+- [course] Reverse Engineering for Everyone!: https://0xinfection.github.io/reversing/
+- [course] Start learning bash: https://linuxhandbook.com/bash/
+- [course] TryHackMe room on Cyber Governance and regulation: https://tryhackme.com/r/room/cybergovernanceregulation
+- [course] TryHackMe's room on Path Traversal & File Inclusion: https://tryhackme.com/r/room/filepathtraversal
+- [feed] daily.dev Azure Feed: https://app.daily.dev/tags/azure
+- [feed] Explore top posts about Infrastructure: https://app.daily.dev/tags/infrastructure?ref=roadmapsh
+- [feed] Explore top posts about Windows: https://app.daily.dev/tags/windows?ref=roadmapsh
+- [link] google.com: http://google.com
+- [link] urlscan.io: http://urlscan.io
+- [official] Amazon Simple Storage Service Documentation: https://docs.aws.amazon.com/s3/
+- [official] Amazon Web Services S3: https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+- [official] Any.run: https://any.run/
+- [official] Autopsy: https://www.autopsy.com/
+- [official] AWS: https://aws.amazon.com
+- [official] Azure: https://azure.microsoft.com
+- [official] Bash: https://www.gnu.org/software/bash/
+- [official] Box: https://www.box.com/en-gb/home
+- [official] CCNA Certification: https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html
+- [official] CEH: https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/
+- [official] CIS: https://www.cisecurity.org/
+- [official] CISA: https://www.isaca.org/credentialing/cisa
+- [official] Cisco NetFlow: https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-netflow/index.html
+- [official] CISM: https://www.isaca.org/credentialing/cism
+- [official] CISSP Certification: https://www.isc2.org/certifications/cissp
+- [official] Cloud Computing, Hosting Services, and APIs: https://cloud.google.com/gcp
+- [official] CompTIA A+: https://www.comptia.org/certifications/a
+- [official] CompTIA Linux+: https://www.comptia.org/certifications/linux
+- [official] CompTIA Network+: https://www.comptia.org/certifications/network
+- [official] CompTIA Security+ Website: https://www.comptia.org/certifications/security
+- [official] Core Impact: https://www.coresecurity.com/
+- [official] Create Forensic Images with Exterro FTK Imager: https://www.exterro.com/digital-forensics-software/ftk-imager
+- [official] CREST Certifications: https://www.crest-approved.org/skills-certifications-careers/crest-certifications/
+- [official] Cyber Kill Chain: https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+- [official] Dropbox: https://dropbox.com
+- [official] Get Certified - GIAC: https://www.giac.org/get-certified/?msc=main-nav
+- [official] GIAC: https://www.giac.org/
+- [official] Google Cloud Platform: https://cloud.google.com
+- [official] Google Drive: https://drive.google.com
+- [official] Google Workspace: https://workspace.google.com/intl/en_uk/
+- [official] Google Workspace: https://workspace.google.com
+- [official] GPEN Certification: https://www.giac.org/certifications/penetration-tester-gpen/
+- [official] Group Policy overview: https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791(v=ws.11
+- [official] GSEC Certification: https://www.giac.org/certifications/security-essentials-gsec/
+- [official] GWAPT Certification: https://www.giac.org/certifications/web-application-penetration-tester-gwapt/
+- [official] Hack The Box: https://www.hackthebox.com/
+- [official] How to Use Dropbox - a guide to your account: https://learn.dropbox.com/self-guided-learning/dropbox-fundamentals-course/how-to-use-dropbox
+- [official] How VirusTotal Works: https://docs.virustotal.com/docs/how-it-works
+- [official] hping: https://salsa.debian.org/debian/hping3
+- [official] iCloud: https://www.icloud.com/
+- [official] International Organization for Standardization: https://www.iso.org/home.html
+- [official] Joe Sandbox: https://www.joesandbox.com/#windows
+- [official] Kali Docs: https://www.kali.org/docs/
+- [official] Kali Linux: https://www.kali.org/
+- [official] Kali Tools: https://www.kali.org/tools
+- [official] LibreOffice: https://www.libreoffice.org/
+- [official] LOLBAS Project: https://lolbas-project.github.io/#
+- [official] macOS: https://www.apple.com/macos/macos-sequoia/
+- [official] memdump: https://www.kali.org/tools/memdump/
+- [official] Metasploit Framework: https://www.metasploit.com/
+- [official] Microsoft Office: https://www.office.com/
+- [official] Microsoft Office Suite Directory: https://www.microsoft.com/en-gb/microsoft-365/products-apps-services
+- [official] Microsoft OneDrive: https://onedrive.live.com
+- [official] MITRE ATT&CK®: https://attack.mitre.org/
+- [official] NIST: https://www.nist.gov/
+- [official] NIST Cybersecurity Framework: https://www.nist.gov/cyberframework
+- [official] NIST Glossary: https://csrc.nist.gov/glossary/term/stakeholder
+- [official] NIST Publication on Engineering Trustworthy Secure Systems: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1r1.pdf
+- [official] NMAP Website: https://nmap.org/
+- [official] Offensive Security Certified Professional: https://www.offsec.com/courses/pen-200/
+- [official] OSINT Framework: https://osintframework.com/
+- [official] OWASP Top Ten: https://owasp.org/www-project-top-ten/
+- [official] OWASP Vulnerable Web Applications Directory (VWAD): https://vwad.owasp.org/
+- [official] OWASP's article on Path Traversal: https://owasp.org/www-community/attacks/Path_Traversal
+- [official] ParrotOS: https://parrotsec.org/
+- [official] ParrotOS Documentation: https://parrotsec.org/docs
+- [official] ParrotOS Downloads: https://parrotsec.org/download
+- [official] picoCTF: https://picoctf.org/
+- [official] PowerShell.org: https://powershell.org/
+- [official] Proxmox: https://www.proxmox.com/en/
+- [official] pwn.college: https://pwn.college/
+- [official] TryHackMe: https://tryhackme.com/
+- [official] urlscan.io: https://urlscan.io/
+- [official] UrlVoid: https://www.urlvoid.com/
+- [official] VirtualBox: https://www.virtualbox.org/
+- [official] VirtualBox Documentation: https://www.virtualbox.org/wiki/Documentation
+- [official] VirusTotal: https://www.virustotal.com
+- [official] VMWare: https://www.vmware.com/
+- [official] Vulnhub: https://www.vulnhub.com/
+- [official] What is ESXi?: https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx
+- [official] Windows Security: https://learn.microsoft.com/en-us/windows/security/
+- [official] WinHex: https://x-ways.net/winhex/
+- [official] Wireshark: https://www.wireshark.org/
+- [opensource] Best practice for network segmentation: https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
+- [opensource] GTFOBins/GTFOBins.github.io: https://gtfobins.github.io/
+- [opensource] memdump - GitHub: https://github.com/tchebb/memdump
+- [opensource] OWASP Network segmentation Cheat Sheet: https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Network_Segmentation_Cheat_Sheet.md#network-segmentation-cheat-sheet
+- [opensource] PowerShell for beginners: https://gist.github.com/devops-school/43dfcd57c0c807e83d01fc6a9639d3d9
+- [opensource] WADComs/WADComs.github.io: https://wadcoms.github.io/
+- [roadmap] Visit C++ Roadmap: https://roadmap.sh/cpp
+- [roadmap] Visit Dedicated AWS Roadmap: https://roadmap.sh/aws
+- [roadmap] Visit Dedicated Go Roadmap: https://roadmap.sh/golang
+- [roadmap] Visit Dedicated Python Roadmap: https://roadmap.sh/python
+- [roadmap] Visit Dedicated Terraform Roadmap: https://roadmap.sh/terraform
+- [roadmap] Visit Java Roadmap: https://roadmap.sh/java
+- [roadmap] Visit JavaScript Roadmap: https://roadmap.sh/javascript
+- [roadmap] Visit Linux Roadmap: https://roadmap.sh/linux
+- [roadmap] Visit the Dedicated Shell/Bash Roadmap: https://roadmap.sh/shell-bash
+- [roadmap] Visit Typescript Roadmap: https://roadmap.sh/typescript
+- [video] 100 JavaScript concepts you need to know: https://www.youtube.com/watch?v=lkIFF4maKMU
+- [video] 60 Linux commands you must know: https://www.youtube.com/watch?v=gd7BXuUQ91w
+- [video] A brief overview of CREST: https://www.youtube.com/watch?v=Cci5qrv8fHY
+- [video] Access Control Lists: https://www.youtube.com/watch?v=IwLyr0mKK1w
+- [video] ARP Explained: https://www.youtube.com/watch?v=cn8Zxh9bPio
+- [video] AWS Overview: https://www.youtube.com/watch?v=a9__D53WsUs
+- [video] AWS re:Invent 2023 - Backup and disaster recovery strategies for increased resilience: https://www.youtube.com/watch?v=E073XISxrSU
+- [video] Azure DevOps Tutorial for Beginners: https://www.youtube.com/watch?v=4BibQ69MD8c
+- [video] BEGINNER Capture The Flag - PicoCTF 2021 001 "Obedient Cat": https://www.youtube.com/watch?v=P07NH5F-t3s
+- [video] Box Cloud Storage Review 2024: https://www.youtube.com/watch?v=ktNDLO1T96c
+- [video] Bridging the Air Gap - Understanding Digital Isolation: https://www.youtube.com/watch?v=0rv2996e3S0
+- [video] Buffer Overflows Made Easy: https://www.youtube.com/watch?v=qSnPayW6F7U
+- [video] C++ Full Course - BroCode: https://www.youtube.com/watch?v=-TkoO8Z07hI
+- [video] CIS Overview: https://www.youtube.com/watch?v=f-Z7h5dI6uQ
+- [video] CISSP Certification Course: https://www.youtube.com/watch?v=M1_v5HBVHWo
+- [video] Common Network Ports: https://www.youtube.com/watch?v=dh8h-4u7Wak
+- [video] CompTIA A+ Course: https://www.youtube.com/watch?v=1CZXXNKAY5o
+- [video] CompTIA Network+ Course: https://www.youtube.com/watch?v=xmpYfyNmWbw
+- [video] CompTIA Pentest+ : Rules of Engagement: https://www.youtube.com/watch?v=Rt-4j8k6J2U
+- [video] Computer Buses: https://www.youtube.com/watch?v=aBCaCrC3z0k
+- [video] Computer Components for Dummies: https://www.youtube.com/watch?v=cZs6kh0WFRY
+- [video] Computer Networking in 100 seconds: https://www.youtube.com/watch?v=keeqnciDVOo
+- [video] Computer Networks: Crash Course Computer Science #28: https://www.youtube.com/watch?v=3QhU9jd03a0
+- [video] Create Automation Runbooks with AWS Systems Manager: https://www.youtube.com/watch?v=fQ_KahCPBeU
+- [video] Cross-Site Request Forgery Explained: https://www.youtube.com/watch?v=eWEgUcHPle0
+- [video] Cross-site Scripting: https://www.youtube.com/watch?v=PKgw0CLZIhE
+- [video] Cyber Security Incident Response Explained: https://www.youtube.com/watch?v=ePZGqlcB1O8
+- [video] Cyber Security Threat Hunting Explained: https://www.youtube.com/watch?v=VNp35Uw_bSM
+- [video] Cybersecurity Sandbox for Security Analysts: https://www.youtube.com/watch?v=FJGmRzY1igY
+- [video] Cybersecurity Tool for Beginner Security Analysts - URLScan: https://www.youtube.com/watch?v=tA60bJstrQQ
+- [video] Defense-in-Depth - CompTIA Security+: https://www.youtube.com/watch?v=HLQ4wX8NxQY
+- [video] Deploying a Website to AWS in Under 1 Minute: https://www.youtube.com/watch?v=goiW0g7A0WE
+- [video] Detecting known threats: https://www.youtube.com/watch?v=hOaHDVMQ9_s
+- [video] Digital Forensics: https://www.youtube.com/watch?v=UtDWApdO8Zk
+- [video] Disk analysis with Autopsy: https://www.youtube.com/watch?v=o6boK9dG-Lc&t=236s
+- [video] DMZ explained: https://www.youtube.com/watch?v=48QZfBeU4ps
+- [video] DNS Explained in 100 Seconds: https://www.youtube.com/watch?v=UVR9lhUGAyU
+- [video] Drive-By Download attack: https://www.youtube.com/watch?v=xL4DyblbnKg
+- [video] Dropbox Tutorial for Beginners: https://www.youtube.com/watch?v=b0Nk9muiUcQ
+- [video] Dumpster Diving for Sensitive Information: https://www.youtube.com/watch?v=Pom86gq4mk4
+- [video] Endpoints are the IT Frontdoor - Guard them!: https://www.youtube.com/watch?v=Njqid_JpqTs
+- [video] Every Office 365 App Explained: https://www.youtube.com/watch?v=2W0T2qGZ9Dc
+- [video] Everything about Bluetooth Security: https://www.youtube.com/watch?v=i9mzl51ammA
+- [video] Everything Routers do: https://youtu.be/AzXys5kxpAM?si=nEsCH6jG2Lj6Ua8N
+- [video] False Positives and False Negatives: https://www.youtube.com/watch?v=bUNBzMnfHLw
+- [video] Free CCNA | Syslog: https://www.youtube.com/watch?v=RaQPSKQ4J5A
+- [video] Getting started with AWS S3: https://www.youtube.com/watch?v=e6w9LwZJFIA
+- [video] Go in 100 seconds: https://www.youtube.com/watch?v=446E-r0rXHI
+- [video] Go Tutorial for beginners: https://www.youtube.com/watch?v=yyUHQIec83I
+- [video] Google Cloud Platform Video Course: https://www.youtube.com/watch?v=fZOz13joN0o
+- [video] Hardening Techniques: https://www.youtube.com/watch?v=wXoC46Qr_9Q
+- [video] Hashing Explained: https://www.youtube.com/watch?v=EOe1XUykdP4
+- [video] Head and Tail commands: https://www.youtube.com/watch?v=5EqL6Fc7NNw
+- [video] Host-based Firewalls: https://www.youtube.com/watch?v=aRHhm980oaE
+- [video] How Does Antivirus and Antimalware Software Work?: https://www.youtube.com/watch?v=bTU1jbVXlmM
+- [video] How does SSH work: https://www.youtube.com/watch?v=5JvLV2-ngCI
+- [video] How Hackers Can Grab Your Passwords Over Wi-Fi with Evil Twin Attacks: https://www.youtube.com/watch?v=HyxQqDq3qs4
+- [video] How RADIUS Authentication Works: https://www.youtube.com/watch?v=LLrb3em-_po
+- [video] How Routers forward Packets?: https://youtu.be/Ep-x_6kggKA?si=II5xBPoXjYEjLvWX
+- [video] How to Check a Suspicious Web Link Without Clicking It: https://www.youtube.com/watch?v=C1D0tNnTDe4
+- [video] How to deal with unknown threats: https://www.youtube.com/watch?v=CH4tX_MVLh0
+- [video] How to look up DNS records with dig: https://www.youtube.com/watch?v=3AOKomsmeUY
+- [video] How to look up DNS records with dig: https://www.youtube.com/watch?v=iESSCDnC74k
+- [video] How To Use Nmap To Scan For Open Ports: https://www.youtube.com/watch?v=ifbwTt3_oCg
+- [video] How to use SFTP commands: https://www.youtube.com/watch?v=22lBJIfO9qQ
+- [video] How to use SFTP Commands to Copy Files to/from a Server: https://www.youtube.com/watch?v=22lBJIfO9qQ&t=4s
+- [video] How to use the dd command in Linux: https://www.youtube.com/watch?v=hsDxcJhCRLI
+- [video] How to use VirtualBox: https://www.youtube.com/watch?v=nvdnQX9UkMY
+- [video] How to use Wireshark: https://www.youtube.com/watch?v=zWoHJ3oGRGY
+- [video] I played HTB for 30 days, heres what I learnt: https://www.youtube.com/watch?v=bPv5pb7AcYs
+- [video] I Tried 100+ Hacking Tools: https://www.youtube.com/watch?v=4WqymtvuWZQ
+- [video] IaaS Explained: https://www.youtube.com/watch?v=XRdmfo4M_YA
+- [video] Imaging a Directory Using FTK Imager: https://www.youtube.com/watch?v=trWDlPif84o
+- [video] Incident Response Process: https://www.youtube.com/watch?v=fU_w8Ou9RVg
+- [video] Introduction to Linux: https://youtu.be/sWbUDq4S6Y8
+- [video] Introduction To The MITRE ATT&CK Framework: https://www.youtube.com/watch?v=LCec9K0aAkM
+- [video] Intrusion Prevention - SY0-601 CompTIA Security+: https://www.youtube.com/watch?v=WPPSsFnWOYg
+- [video] Intrusion Prevention System (IPS): https://www.youtube.com/watch?v=7QuYupuic3Q
+- [video] IP Sec VPN Fundamentals: https://www.youtube.com/watch?v=15amNny_kKI
+- [video] iptables complete guide: https://www.youtube.com/watch?v=6Ra17Qpj68c
+- [video] Jeremy's IT Lab: https://www.youtube.com/@JeremysITLab
+- [video] Kerberos Authentication Explained: https://www.youtube.com/watch?v=5N242XcKAsM
+- [video] LAN vs. WAN: What's the Difference?: https://www.youtube.com/watch?v=5OoX_cRLaNM
+- [video] LDAP vs LDAPS - Whats the difference?: https://www.youtube.com/watch?v=J2qtayKzMmA
+- [video] Learn the Cyber Kill Chain: https://www.youtube.com/watch?v=oCUrkc_0tmw
+- [video] Learn Windows Group Policy the easy way!: https://www.youtube.com/watch?v=rEhTzP-ScBo
+- [video] Linux Crash Course - Understanding File Permissions: https://www.youtube.com/watch?v=4N4Q576i3zA
+- [video] Linux Tail Command: https://www.youtube.com/watch?v=7Y6Ho9JUxTE
+- [video] Linux+ Exam Prep: https://www.youtube.com/watch?v=niPWk7tgD2Q&list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp
+- [video] LOLBAS T1105, MS Process Abuse: https://www.youtube.com/watch?v=fq2_VvAU29g
+- [video] Mac Tutorial for Beginners 2024: https://www.youtube.com/watch?v=3jeeFc2Vo1U
+- [video] Malware analysis with ANY.RUN: https://www.youtube.com/watch?v=QH_u7DHKzzI
+- [video] Managing Windows permissions with CLI (Icacls): https://www.youtube.com/watch?v=ddtc2rgtgAI
+- [video] Mandatory Access Control (MAC) Models: https://www.youtube.com/watch?v=mNN-fEboRAA
+- [video] Mastering Privilege Escalation: A Comprehensive Guide on GTFOBins: https://www.youtube.com/watch?v=gx6CTtWohLQ
+- [video] Metasploit for Beginners: https://www.youtube.com/watch?v=8lR27r8Y_ik
+- [video] Microsoft OneDrive Tutorial: https://www.youtube.com/watch?v=qgw01w0iYjA
+- [video] MITRE ATT&CK Framework: https://www.youtube.com/watch?v=Yxv1suJYMI8
+- [video] NAT explained: https://www.youtube.com/watch?v=FTUV0t6JaDA
+- [video] netstat Command Explained: https://www.youtube.com/watch?v=8UZFpCQeXnM
+- [video] Network Access Control: https://www.youtube.com/watch?v=hXeFJ05J4pQ
+- [video] Network Chuck Free CCNA Course: https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P
+- [video] Network Time Protocol (NTP): https://www.youtube.com/watch?v=BAo5C2qbLq8
+- [video] Network Topologies - Ring: https://www.youtube.com/watch?v=hjeDN2xnc50
+- [video] Network Types: MAN: https://youtu.be/4_zSIXb7tLQ?si=1jTQ5C9PT4WUOztP&t=183
+- [video] Networking For Hackers! (Common Network Protocols): https://www.youtube.com/watch?v=p3vaaD9pn9I
+- [video] NFC Explained: What is NFC? How NFC Works? Applications of NFC: https://youtu.be/eWPtt2hLnJk
+- [video] NIST Cybersecurity Framework Explained: https://www.youtube.com/watch?v=_KXqDNVmpu8
+- [video] Nmap Tutorial to find Network Vulnerabilities: https://www.youtube.com/watch?v=4t4kBkMsDbQ
+- [video] Obfuscation - CompTIA Security+: https://www.youtube.com/watch?v=LfuTMzZke4g
+- [video] On Premise vs Cloud : Is Cloud Computing the future?: https://www.youtube.com/watch?v=FuPh2o-GMDA
+- [video] Operating System Troubleshooting - CompTIA A+: https://www.youtube.com/watch?v=6gainrNiypc
+- [video] OWASP Top Ten: https://youtube.com/playlist?list=PLyqga7AXMtPOguwtCCXGZUKvd2CDCmUgQ&si=ZYRbcDSRvqTOnDOo
+- [video] PaaS Explained: https://www.youtube.com/watch?v=QAbqJzd0PEE
+- [video] Passive Reconnaissance - Whois Lookup Tutorial: https://www.youtube.com/watch?v=12MITs5KK40
+- [video] Phishing attacks are SCARY easy to do!! (let me show you!): https://www.youtube.com/watch?v=u9dBGWVwMMA
+- [video] Ping command explained: https://www.youtube.com/watch?v=7sv5pL-XgSg
+- [video] PowerShell Course: https://www.youtube.com/watch?v=ZOoCaWyifmI
+- [video] Private Cloud Rules: https://www.youtube.com/watch?v=Tzqy8lW0bk4
+- [video] Privilege Escalation: https://www.youtube.com/watch?v=ksjU3Iu195Q
+- [video] Protect yourself from phishing: https://support.microsoft.com/en-us/windows/protect-yourself-from-phishing-0c7ea947-ba98-3bd9-7184-430e1f860a44
+- [video] Protocol Analyzers: https://www.youtube.com/watch?v=hTMhlB-o0Ow
+- [video] Python in 100 Seconds: https://www.youtube.com/watch?v=x7X9w_GIm1s
+- [video] Reviewing Firewall Logs: https://www.youtube.com/watch?v=XiJ30f8V_T4
+- [video] Risk Analysis - Know Your Threat Tolerance: https://www.youtube.com/watch?v=xt_Cdtvjbd4
+- [video] RMF explained in 5 minutes: https://www.youtube.com/watch?v=X5yqPFp__rc
+- [video] route command explained: https://www.youtube.com/watch?v=uOqBollh_x4
+- [video] Routers and Default Gateways: https://www.youtube.com/watch?v=JOomC1wFrbU
+- [video] S/MIME - Secure MIME protocol - Functions, Services: https://www.youtube.com/watch?v=0hzmoB7yYfw
+- [video] Sandboxing in under 4 minutes: https://www.youtube.com/watch?v=kn32PHG2wcU
+- [video] Secret Key Exchange: https://www.youtube.com/watch?v=NmM9HA2MQGI
+- [video] SIEM Explained - Professor Messer: https://www.youtube.com/watch?v=JEcETdy5WxU
+- [video] Social Engineering Explained: https://www.youtube.com/shorts/DdCSraNCxhs
+- [video] SQL Injections are scary: https://www.youtube.com/watch?v=2OPVViV-GQk
+- [video] Star Topology: https://www.youtube.com/watch?v=EQ3rW22-Py0
+- [video] Start Your Cybersecurity Career with TryHackMe: https://www.youtube.com/watch?v=HPF8y_gDP7w
+- [video] Steps for Network Troubleshooting: https://www.youtube.com/watch?v=1i3XdhC2ZAs
+- [video] Subnetting: https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF
+- [video] Tailgating and Piggybacking - Social Engineering Tactics Explained: https://www.youtube.com/watch?v=4SpvulRcVQ0
+- [video] TCP Dump - What is it and how to use it?: https://www.youtube.com/watch?v=e45Kt1IYdCI
+- [video] That's How Wi-Fi Works: https://youtu.be/hePLDVbULZc
+- [video] The cat command: https://www.youtube.com/shorts/lTOje2weu_o?app=desktop
+- [video] The CIA Triad - Professor Messer: https://www.youtube.com/watch?v=SBcDGb9l6yo
+- [video] The grep command: https://www.youtube.com/watch?v=Tc_jntovCM0
+- [video] TLS Handshake Explained: https://www.youtube.com/watch?v=86cQJ0MMses
+- [video] TLS vs SSL - What's the Difference?: https://www.youtube.com/watch?v=J7fI_jH7L84
+- [video] Top 40 Windows commands to know: https://www.youtube.com/watch?v=Jfvg3CS1X3A
+- [video] Traceroute (tracert) Explained: https://www.youtube.com/watch?v=up3bcBLZS74
+- [video] Virtual Private Networks - Professor Messer: https://www.youtube.com/watch?v=YFyt8aY8PfI
+- [video] Virtualization Explained: https://www.youtube.com/watch?v=UBVVq-xz5i0
+- [video] VLAN Explained: https://www.youtube.com/watch?v=jC6MJTh9fRE
+- [video] VLAN Hopping: https://www.youtube.com/watch?v=pDumMKDK4Wc
+- [video] VPN (Virtual Private Network) Explained: https://www.youtube.com/watch?v=R-JUOpCgTZc
+- [video] Vulnerability Management explained by experts: https://www.youtube.com/watch?v=RE6_Lo2wSIg
+- [video] Walkthrough VirusTotal Intelligence Interface: https://www.youtube.com/watch?v=WoHVM8pCfsQ
+- [video] WAN...it's not the internet!: https://www.youtube.com/watch?v=xPi4uZu4uF0
+- [video] Watering Hole Attacks: https://www.youtube.com/watch?v=uBoVWqkfZjk
+- [video] Wazuh | Open source SIEM: https://www.youtube.com/watch?v=3CaG2GI1kn0
+- [video] What are memory leaks?: https://www.youtube.com/watch?v=00Kdpgl6fsY
+- [video] What Cloud Skills are Essential?: https://www.youtube.com/watch?v=udKBDRcj178
+- [video] What is a Bastion Host and Why is it so important?: https://www.youtube.com/watch?v=pI6glWVEkcY
+- [video] What is a DDoS attack?: https://www.youtube.com/watch?v=z503nLsfe5s
+- [video] What is a false positive virus?: https://www.youtube.com/watch?v=WrcAGBvIT14
+- [video] What is a Honeypot?: https://www.youtube.com/watch?v=FtR9sFJlkSA
+- [video] What is a Hypervisor?: https://www.youtube.com/watch?v=LMAEbB2a50M
+- [video] What is a NAS: https://www.youtube.com/watch?v=ZwhT-KI16jo
+- [video] What is a Public Cloud: https://www.youtube.com/watch?v=KaCyfQ7luVY
+- [video] What is a router and How does it work?: https://www.youtube.com/watch?v=UIJzHLpG9bM
+- [video] What is a Storage Area Network: https://www.youtube.com/watch?v=7eGw4vhyeTA
+- [video] What is a subnet mask?: https://www.youtube.com/watch?v=s_Ntt6eTn94
+- [video] What is a Switch?: https://www.youtube.com/watch?v=9eH16Fxeb9o
+- [video] What is a whaling attack and how to stay protected: https://www.youtube.com/watch?v=jQONycdUOAA
+- [video] What is a Zero Day Threat?: https://www.youtube.com/watch?v=w5MV1Jeo76g
+- [video] What is an Advanced Persistent Threat?: https://www.youtube.com/watch?v=sGthMsDlqew
+- [video] What is an Antivirus and how does it keep us safe?: https://www.youtube.com/watch?v=jW626WMWNAE
+- [video] What is an operating system as fast as possible: https://www.youtube.com/watch?v=pVzRTmdd9j0
+- [video] What is cloud security: https://www.youtube.com/watch?v=jI8IKpjiCSM
+- [video] What is CRUD?: https://www.youtube.com/watch?v=iNkspbIfcic
+- [video] What is Denial-of-Service attack?: https://www.youtube.com/watch?v=Z7xG3b0aL_I
+- [video] What is DHCP and how does it work?: https://www.youtube.com/watch?v=ldtUSSZJCGg
+- [video] What is DNS?: https://www.youtube.com/watch?v=nyH0nYhMW9M
+- [video] What is DNSSEC?: https://www.youtube.com/watch?v=Fk2oejzgSVQ
+- [video] What is Endpoint Detection and Response (EDR)? - IBM: https://www.youtube.com/watch?v=55GaIolVVqI
+- [video] What is FTP?: https://www.youtube.com/watch?v=HI0Oh4NJqcI
+- [video] What is Hybrid cloud?: https://www.youtube.com/watch?v=3kGFBBy3Lyg
+- [video] What is LDAP: https://www.youtube.com/watch?v=vy3e6ekuqqg
+- [video] What is localhost? | Explained: https://www.youtube.com/watch?v=m98GX51T5dI
+- [video] What is NetFlow?: https://www.youtube.com/watch?v=aqTpUmUibB8
+- [video] What is Network CIDR Notation?: https://www.youtube.com/watch?v=tpa9QSiiiUo
+- [video] What is Nslookup?: https://www.youtube.com/watch?v=n6pT8lbyhog
+- [video] What is OSI Model?: https://www.youtube.com/watch?v=Ilk7UXzV_Qc
+- [video] What is Packet Sniffing?: https://www.youtube.com/watch?v=5oioSbgBQ8I
+- [video] What Is Patch Management, and Why Does Your Company Need It?: https://www.youtube.com/watch?v=O5XXlJear0w
+- [video] What is Proxmox virtualization?: https://www.youtube.com/watch?v=GMAvmHEWAMU
+- [video] What is RDP and how to use it?: https://www.youtube.com/watch?v=flPnBSz-lqw
+- [video] What is reverse engineering?: https://www.youtube.com/watch?v=gh2RXE9BIN8
+- [video] What is SaaS?: https://www.youtube.com/watch?v=UEHdYNXiIUU
+- [video] What is serverless?: https://www.youtube.com/watch?v=vxJobGtqKVM
+- [video] What Is Single Sign-on (SSO)? How It Works: https://www.youtube.com/watch?v=O1cRJWYF-g4
+- [video] What is smishing? How phishing via text message works: https://www.youtube.com/watch?v=ZOZGQeG8avQ
+- [video] What is SOAR (Security, Orchestration, Automation & Response): https://www.youtube.com/watch?v=k7ju95jDxFA
+- [video] What is spoofing?: https://www.youtube.com/watch?v=jIS9XUC4TB4
+- [video] What is the difference between public and private ip?: https://www.youtube.com/watch?v=R6Czae6Iow4&t=1s
+- [video] What is VMWare: https://www.youtube.com/watch?v=zPNCp9AV-vA
+- [video] What is WPS in WiFi: https://www.youtube.com/watch?v=pO1r4PWf2yg
+- [video] Whats an IP address?: https://www.youtube.com/watch?v=6is6Gulh7qE
+- [video] Why backup should be a part of your cyber resilience plan?: https://www.youtube.com/watch?v=S8BIkoHlU_0
+- [video] WiFi Security: What is WEP, WPA, and WPA2: https://www.youtube.com/watch?v=jErjdGfbgoE
+- [video] Windows 11 Full Tutorial - A 2 Hour Course to Learn and Master Windows 11: https://www.youtube.com/watch?v=UKn-r3X2CLk
+- [video] Wireless Networking Explained | Cisco CCNA 200-301: https://www.youtube.com/watch?v=Uz-RTurph3c
+- [video] Wireless Technologies: https://www.youtube.com/watch?v=_VwpcLiBkAQ
+- [video] Wireshark Tutorial for Beginners: https://www.youtube.com/watch?v=qTaOZrDnMzQ
+- [video] You need to know how to use cURL: https://www.youtube.com/watch?v=q2sqkvXzsw8
+- [video] Zero Trust Explained in 4 minutes: https://www.youtube.com/watch?v=yn6CPQ9RioA

@@ -1,0 +1,41 @@
+I'll build the AI context docs from scratch using your source facts and the resume for accuracy. First I'll inspect the resume and plan the document set.
+
+---
+
+Resume shows older “in progress” cert status; your source facts treat them as done — I’ll align the context docs to those facts. Planning the full document set next.
+
+---
+
+Creating all seven documents now from your source facts.
+
+---
+
+Permission denied on that path — checking ownership and creating the folder with elevated access.
+
+---
+
+Workspace is owned by `root` — fixing ownership, then writing the docs.
+
+---
+
+Directory is root-owned. Requesting admin rights to fix ownership, then writing the docs.
+
+---
+
+Ownership fixed. Writing all seven documents now.
+
+---
+
+All 7 files exist under `/Users/ubaid/Home-Labbing-CCNA/ai-context/` (~828 lines total). Resume/portfolio were not edited.
+
+| File | Purpose |
+|------|---------|
+| `00-README.md` | How to load the pack (paste order 01→05), per-tool instructions, refresh cadence |
+| `01-identity-and-profile.md` | First-person identity, contacts, timeline, skills, certs-as-done, portfolio stance |
+| `02-goals-and-north-star.md` | North star, GCC targets, 30-/90-day outcomes, apply-language titles |
+| `03-roadmap-and-curriculum.md` | Network Engineer spine, keep/graft/drop, W1–W4, LAB-01..06 |
+| `04-ai-guardrails.md` | AI must/must-not, conflict-resolution priority, tone, forbidden advice |
+| `05-do-dont-playbook.md` | DO/DON’T/HOW/HOW NOT for learning, labs, portfolio, resume, jobs, AI use |
+| `06-prompt-templates.md` | 15 ready-to-paste prompts assuming 01–05 are loaded |
+
+**Note:** The workspace directory was root-owned (blocked the earlier attempt); ownership was fixed to `ubaid` before writing. Certs follow your ASSUMED DONE facts; the pack notes the PDF still says Candidate/in-progress and should be synced separately.
