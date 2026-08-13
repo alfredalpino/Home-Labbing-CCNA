@@ -94,3 +94,14 @@ Listed /Users/ubaid/Home-Labbing-CCNA root (and depth-2 overview). Top-level inc
 
 ---
 
+Created public repo and pushed all content.
+
+URL: https://github.com/alfredalpino/Home-Labbing-CCNA
+Visibility: PUBLIC
+Owner: alfredalpino (authenticated gh account)
+Branch: main (91 files in initial commit)
+
+Also added .gitignore for .DS_Store. Local origin tracks origin/main.
+
+---
+

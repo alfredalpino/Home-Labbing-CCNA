@@ -58,3 +58,4 @@
 - `live` → `roadmap-extracts/network-engineering-roadmap/cyber-security/data.json`
 - `live` → `roadmap-extracts/network-engineering-roadmap/shell-bash/data.json`
 - `live` → `roadmap-extracts/network-engineering-roadmap/technical-writer/data.json`
+- `live` → `.gitignore`
