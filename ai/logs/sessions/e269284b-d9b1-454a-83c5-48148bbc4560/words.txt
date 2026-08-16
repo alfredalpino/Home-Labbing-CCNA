@@ -1,0 +1,111 @@
+Created thorough Obsidian mastery notes (LAN.md/VPN.md style) under `04-Building-a-Network` for Linux, IP addressing, NAT, and subnetting — plus folder Index MOCs. Did not edit `Home.md`.
+
+Also ensured `04-Building-a-Network/Index.md` exists as the parent MOC so child backlinks resolve (covers Linux → Packet Analysis sections).
+
+### Files written
+
+**01-Linux-for-Networking**
+1. `04-Building-a-Network/01-Linux-for-Networking/Shell-and-Scripting.md`
+2. `04-Building-a-Network/01-Linux-for-Networking/Linux-Roadmap.md`
+3. `04-Building-a-Network/01-Linux-for-Networking/Index.md`
+
+**02-IP-Addressing**
+4. `04-Building-a-Network/02-IP-Addressing/IPv4-vs-IPv6.md`
+5. `04-Building-a-Network/02-IP-Addressing/Public-vs-Private-Addresses.md`
+6. `04-Building-a-Network/02-IP-Addressing/IP-vs-MAC-vs-ARP.md`
+7. `04-Building-a-Network/02-IP-Addressing/Index.md`
+
+**02-IP-Addressing/01-NAT**
+8. `04-Building-a-Network/02-IP-Addressing/01-NAT/NAT-vs-PAT.md`
+9. `04-Building-a-Network/02-IP-Addressing/01-NAT/Static-vs-Dynamic-NAT.md`
+10. `04-Building-a-Network/02-IP-Addressing/01-NAT/PAT-NAT-Overload.md`
+11. `04-Building-a-Network/02-IP-Addressing/01-NAT/NAT64.md`
+12. `04-Building-a-Network/02-IP-Addressing/01-NAT/Index.md`
+
+**03-Subnetting**
+13. `04-Building-a-Network/03-Subnetting/Subnet-Masks.md`
+14. `04-Building-a-Network/03-Subnetting/CIDR.md`
+15. `04-Building-a-Network/03-Subnetting/VLSM.md`
+16. `04-Building-a-Network/03-Subnetting/Supernetting.md`
+17. `04-Building-a-Network/03-Subnetting/Index.md`
+
+**Parent MOC (for navigation)**
+18. `04-Building-a-Network/Index.md`
+
+Each mastery note includes YAML frontmatter, learning objectives with wikilinks, definition + analogy blockquotes, deep dive (ascii mental models / mechanism / on-the-wire), OSI table, Lab 1/2 CLI, troubleshooting table, traps, checklist, and related notes.
+
+---
+
+Created **29** Obsidian mastery notes under `04-Building-a-Network/` (sections 07–10), matching the LAN/WLAN/VPN style (YAML, objectives, definition, strong analogy, deep dive with ASCII mental model, OSI table, Lab 1+2, troubleshooting, gotchas, checklist, wikilinks). `Home.md` was not edited.
+
+### Files written
+
+**07-Wireless-Networking/**
+1. `04-Building-a-Network/07-Wireless-Networking/WiFi-Standards.md`
+2. `04-Building-a-Network/07-Wireless-Networking/Access-Points-Controllers.md`
+3. `04-Building-a-Network/07-Wireless-Networking/AP-Placement-and-Coverage.md`
+4. `04-Building-a-Network/07-Wireless-Networking/Roaming-and-Band-Steering.md`
+5. `04-Building-a-Network/07-Wireless-Networking/Channel-Planning.md`
+6. `04-Building-a-Network/07-Wireless-Networking/Wireless-Site-Surveys.md`
+7. `04-Building-a-Network/07-Wireless-Networking/Wireless-Security.md`
+8. `04-Building-a-Network/07-Wireless-Networking/WPA-vs-WPS.md`
+9. `04-Building-a-Network/07-Wireless-Networking/Index.md`
+
+**07-Wireless-Networking/01-Wireless-Technologies/**
+10. `04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Bluetooth-NFC.md`
+11. `04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Zigbee-Z-Wave.md`
+12. `04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Mobile-Networks.md`
+13. `04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Hotspot-and-Tethering.md`
+14. `04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/LoRaWAN-Satellite.md`
+15. `04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Index.md`
+
+**08-Packet-Analysis/**
+16. `04-Building-a-Network/08-Packet-Analysis/Packet-Analysis.md`
+17. `04-Building-a-Network/08-Packet-Analysis/Index.md`
+
+**09-High-Availability/**
+18. `04-Building-a-Network/09-High-Availability/HSRP.md`
+19. `04-Building-a-Network/09-High-Availability/VRRP.md`
+20. `04-Building-a-Network/09-High-Availability/GLBP.md`
+21. `04-Building-a-Network/09-High-Availability/Load-Balancer.md`
+22. `04-Building-a-Network/09-High-Availability/Round-Robin.md`
+23. `04-Building-a-Network/09-High-Availability/Least-Connections.md`
+24. `04-Building-a-Network/09-High-Availability/Failover.md`
+25. `04-Building-a-Network/09-High-Availability/Index.md`
+
+**10-Traffic-Management/**
+26. `04-Building-a-Network/10-Traffic-Management/QoS.md`
+27. `04-Building-a-Network/10-Traffic-Management/Traffic-Shaping.md`
+28. `04-Building-a-Network/10-Traffic-Management/Packet-Prioritization.md`
+29. `04-Building-a-Network/10-Traffic-Management/Index.md`
+
+Cross-links include [[WLAN]], [[Access Points]], [[VPN]], and (for packet analysis) [[Frame]], [[Packet]], [[TCP]], [[UDP]], [[ICMP]]. Section Indexes are MOCs; `04-Building-a-Network/Index.md` already pointed at these sections.
+
+---
+
+Added module **04-Building-a-Network** from your two roadmap images — ~69 notes (~6.7k lines), analogy-first mastery style, nested for Obsidian graph hubs.
+
+## Open path
+Home → [[04-Building-a-Network/Index|Building a Network]]
+
+## What’s inside
+1. **Linux for Networking** — Shell & Scripting, Linux Roadmap
+2. **IP Addressing** — IPv4 vs IPv6, Public vs Private, IP vs MAC vs ARP · **NAT** (NAT vs PAT, Static vs Dynamic, PAT/Overload, NAT64)
+3. **Subnetting** — Masks, CIDR, VLSM, Supernetting
+4. **Routing** — Static vs Dynamic, Default Gateway, SD-WAN, VRFs · protocols BGP/OSPF/RIP/EIGRP/MPLS
+5. **Switching** — VLANs, VXLAN, STP, Link Aggregation, MAC Address Tables
+6. **Tunneling & VPNs** — IPsec vs SSL, Site-to-Site vs Remote Access, MPLS VPN, GRE/IPsec
+7. **Wireless Networking** — standards, APs/controllers, placement, roaming, channels, surveys, security, WPA vs WPS · Bluetooth/NFC, Zigbee/Z-Wave, Mobile, Hotspot, LoRaWAN/Satellite
+8. **Packet Analysis**
+9. **High Availability** — HSRP, VRRP, GLBP, Load Balancer, Round Robin, Least Connections, Failover
+10. **Traffic Management** — QoS, Traffic Shaping, Packet Prioritization
+
+## Vault updates
+- `Home.md` curriculum item 4 + progress checkboxes
+- `Obsidian-Setup.md` folder tree
+- `.obsidian/graph.json` color group for module 04
+
+Reload Obsidian / Graph if filters reset; use Local graph on the module Index for the cleanest nest view.
+
+---
+

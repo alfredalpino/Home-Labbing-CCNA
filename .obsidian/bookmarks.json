@@ -1,0 +1,40 @@
+{
+  "folders": [
+    {
+      "query": {
+        "path": "00-Networks-and-Devices"
+      },
+      "title": "00 Networks & Devices"
+    },
+    {
+      "query": {
+        "path": "01-Basic-Terminology"
+      },
+      "title": "01 Basic Terminology"
+    },
+    {
+      "query": {
+        "path": "02-Core-Protocols"
+      },
+      "title": "02 Core Protocols"
+    },
+    {
+      "query": {
+        "path": "03-Application-Protocols"
+      },
+      "title": "03 Application Protocols"
+    },
+    {
+      "query": {
+        "path": "04-Network-Security"
+      },
+      "title": "04 Network Security"
+    },
+    {
+      "query": {
+        "path": "90-Reference"
+      },
+      "title": "90 Reference"
+    }
+  ]
+}

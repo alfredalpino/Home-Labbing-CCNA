@@ -1,0 +1,115 @@
+{
+  "corePlugins": [
+    {
+      "id": "file-explorer",
+      "name": "File explorer"
+    },
+    {
+      "id": "global-search",
+      "name": "Search"
+    },
+    {
+      "id": "switcher",
+      "name": "Quick switcher"
+    },
+    {
+      "id": "graph",
+      "name": "Graph view"
+    },
+    {
+      "id": "backlink",
+      "name": "Backlinks"
+    },
+    {
+      "id": "outgoing-link",
+      "name": "Outgoing links"
+    },
+    {
+      "id": "tag-pane",
+      "name": "Tags"
+    },
+    {
+      "id": "page-preview",
+      "name": "Page preview"
+    },
+    {
+      "id": "daily-notes",
+      "name": "Daily notes"
+    },
+    {
+      "id": "templates",
+      "name": "Templates"
+    },
+    {
+      "id": "note-composer",
+      "name": "Note composer"
+    },
+    {
+      "id": "command-palette",
+      "name": "Command palette"
+    },
+    {
+      "id": "editor-status",
+      "name": "Editor status"
+    },
+    {
+      "id": "bookmarks",
+      "name": "Bookmarks"
+    },
+    {
+      "id": "outline",
+      "name": "Outline"
+    },
+    {
+      "id": "word-count",
+      "name": "Word count"
+    },
+    {
+      "id": "file-recovery",
+      "name": "File recovery"
+    },
+    {
+      "id": "sync",
+      "name": "Sync"
+    },
+    {
+      "id": "canvas",
+      "name": "Canvas"
+    },
+    {
+      "id": "properties",
+      "name": "Properties"
+    }
+  ],
+  "file-explorer": true,
+  "global-search": true,
+  "switcher": true,
+  "graph": true,
+  "backlink": true,
+  "canvas": true,
+  "outgoing-link": true,
+  "tag-pane": true,
+  "footnotes": false,
+  "properties": true,
+  "page-preview": true,
+  "daily-notes": true,
+  "templates": true,
+  "note-composer": true,
+  "command-palette": true,
+  "slash-command": false,
+  "editor-status": true,
+  "bookmarks": true,
+  "markdown-importer": false,
+  "zk-prefixer": false,
+  "random-note": false,
+  "outline": true,
+  "word-count": true,
+  "slides": false,
+  "audio-recorder": false,
+  "workspaces": false,
+  "file-recovery": true,
+  "publish": false,
+  "sync": true,
+  "bases": true,
+  "webviewer": false
+}

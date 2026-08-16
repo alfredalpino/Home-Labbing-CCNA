@@ -1,0 +1,114 @@
+Built your Home-Labbing-CCNA repo as an Obsidian vault with ~3.8k lines of mastery notes covering every topic from your roadmap image.
+
+## Open in Obsidian
+1. Install Obsidian → Open folder as vault → select `/Users/ubaid/Home-Labbing-CCNA`
+2. Start at `Home.md` (also see `Obsidian-Setup.md`)
+
+## Vault layout
+- `01-Basic-Terminology/` — Client, Server, Host, Packet (corrected from Package), Frame, Bandwidth, Latency, Throughput, Protocol, Port, Socket, IP Address, MAC Address, ARP, Transmission Media Types
+- `02-Core-Protocols/` — TCP, UDP, ICMP
+- `03-Application-Protocols/` — HTTP/HTTPS, SSH, SSL/TLS, NTP, SNTP, FTP/SFTP, SMTP/IMAP, DHCP, DNS
+- `04-DNS-Servers/` — Cloudflare, Google, OpenDNS, Quad9
+- `Templates/Mastery-Note.md`, `Attachments/`, `.obsidian/` config
+
+## Note structure (every topic)
+Learning objectives → definition → why it matters → deep dive / on-the-wire → OSI mapping → labs (macOS/Linux CLI) → troubleshooting table → interview traps → mastery checklist → wikilinks
+
+## How to study
+Follow the order on `Home.md`: Terminology → Core Protocols → Application Protocols → DNS Servers. Use graph view and complete each note’s mastery checklist + labs.
+
+GNS3, ai-logs, and roadmap docs stay in place and are linked from Home.
+
+---
+
+Re-nested the curriculum so Obsidian’s graph can form clear hubs instead of one flat hairball + log noise.
+
+## New folder tree
+- `01-Basic-Terminology/` → Roles, Data-Units, Performance, Addressing, Physical (each with Index hub)
+- `02-Core-Protocols/` unchanged content, Index renamed
+- `03-Application-Protocols/` → Web-and-Security, Remote-Access, Time, File-Transfer, Email, Host-Config, Name-Resolution/DNS-Servers/
+- Removed flat `04-DNS-Servers/` (now under Name-Resolution)
+- `90-Reference/` holds roadmap docs
+
+## Graph cleanup (`.obsidian/graph.json`)
+Filter excludes: `ai-logs`, `roadmap-extracts`, `ai-context`, `Templates`, `GNS3`, `.cursor`, `bash-learn`
+Color groups: Basic Terminology / Core Protocols / Application Protocols / DNS Servers / Home / Reference
+Orphans + unresolved hidden; stronger clustering forces
+
+## What you should do in Obsidian
+1. Reload the vault / reopen Graph view
+2. Confirm filter search box has the `-path:...` query
+3. Prefer **Local graph** on `Home` or any `Index` for the cleanest nested view
+
+See `Obsidian-Setup.md` for the full map.
+
+---
+
+Added module `00-Networks-and-Devices` from your roadmap image, with analogy-first mastery notes, and upgraded existing curriculum notes with Analogy sections.
+
+## New section
+`00-Networks-and-Devices/`
+- Network Types: LAN, WAN, MAN, WLAN, PAN, SAN, VPN, Cloud, Client-Server, Peer-to-Peer
+- Network Devices: Routers, Switches, Hub, Modems, Access Points
+
+## Quality upgrades
+- Every new note includes a strong analogy + labs + troubleshooting
+- Added Analogy sections to all Basic Terminology, Core Protocols, and Application Protocol mastery notes
+- Template `Templates/Mastery-Note.md` now requires Analogy
+- Home study order starts at module 00
+- Restored graph filters/colors (including teal for module 00)
+
+Start at Home → Networks & Devices. If graph filters reset again, paste the `-path:ai-logs ...` query from Home.md.
+
+---
+
+Created **22** detailed Obsidian mastery notes under `04-Building-a-Network`, matching the LAN/VPN style (YAML frontmatter, learning objectives, definition, strong analogy, why it matters, deep dive with ASCII mental models, OSI/TCP-IP tables, Lab 1+2 with GNS3/IOS/Linux, troubleshooting tables, interview gotchas, mastery checklists, wikilinks). `Home.md` was not edited.
+
+### 04-Routing/
+1. `04-Building-a-Network/04-Routing/Static-vs-Dynamic-Routing.md`
+2. `04-Building-a-Network/04-Routing/Default-Gateway.md`
+3. `04-Building-a-Network/04-Routing/SD-WAN.md`
+4. `04-Building-a-Network/04-Routing/VRFs.md`
+5. `04-Building-a-Network/04-Routing/Index.md`
+
+### 04-Routing/01-Routing-Protocols/
+6. `04-Building-a-Network/04-Routing/01-Routing-Protocols/BGP.md`
+7. `04-Building-a-Network/04-Routing/01-Routing-Protocols/OSPF.md`
+8. `04-Building-a-Network/04-Routing/01-Routing-Protocols/RIP.md`
+9. `04-Building-a-Network/04-Routing/01-Routing-Protocols/EIGRP.md`
+10. `04-Building-a-Network/04-Routing/01-Routing-Protocols/MPLS.md`
+11. `04-Building-a-Network/04-Routing/01-Routing-Protocols/Index.md`
+
+### 05-Switching/
+12. `04-Building-a-Network/05-Switching/VLANs.md`
+13. `04-Building-a-Network/05-Switching/VXLAN.md`
+14. `04-Building-a-Network/05-Switching/STP.md`
+15. `04-Building-a-Network/05-Switching/Link-Aggregation.md`
+16. `04-Building-a-Network/05-Switching/MAC-Address-Tables.md`
+17. `04-Building-a-Network/05-Switching/Index.md`
+
+### 06-Tunneling-and-VPNs/
+18. `04-Building-a-Network/06-Tunneling-and-VPNs/IPSec-vs-SSL-VPN.md`
+19. `04-Building-a-Network/06-Tunneling-and-VPNs/Site-to-Site-vs-Remote-Access.md`
+20. `04-Building-a-Network/06-Tunneling-and-VPNs/MPLS-VPN.md`
+21. `04-Building-a-Network/06-Tunneling-and-VPNs/GRE-IPSec-Tunnels.md`
+22. `04-Building-a-Network/06-Tunneling-and-VPNs/Index.md`
+
+---
+
+Added `04-Network-Security/` (Cybersecurity Roadmap) with analogy-first mastery notes.
+
+## Contents
+- **Firewalls:** Packet Filtering, Stateful Inspection, Next-Generation, Proxy, Circuit-Level Gateway, Web Application
+- **Network Attacks:** DoS & DDoS (defensive triage/mitigation focus)
+- **Encryption Basics**
+- **IDS / IPS**
+- **ACLs**
+- **Zero Trust Architecture**
+
+Wired into Home.md, graph colors, bookmarks. Start at [[04-Network-Security/Index]].
+
+Automation / Cloud / Observability from the other roadmaps are not in this batch — say when you want those next.
+
+---
+

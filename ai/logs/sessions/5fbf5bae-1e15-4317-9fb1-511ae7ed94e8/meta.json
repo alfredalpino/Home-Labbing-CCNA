@@ -1,0 +1,11 @@
+{
+  "session_id": "5fbf5bae-1e15-4317-9fb1-511ae7ed94e8",
+  "source": "live-append",
+  "title": "Install Vendo in repo",
+  "first_timestamp": "2026-08-14T11:23:59.553287+00:00",
+  "user_turns": 8,
+  "assistant_turns": 8,
+  "table_count": 0,
+  "files_touched_count": 13,
+  "imported_at": "2026-08-14T11:23:59.553437+00:00"
+}

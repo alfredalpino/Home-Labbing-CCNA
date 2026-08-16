@@ -91,4 +91,4 @@ Detail and workflows: [HOW-TO-USE.md](HOW-TO-USE.md)
 
 - Graph JSON: `https://roadmap.sh/api/v1-official-roadmap/{slug}`
 - Topic content: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) → `roadmaps/{slug}/content/`
-- Local curriculum context: [`../ai-context/03-roadmap-and-curriculum.md`](../ai-context/03-roadmap-and-curriculum.md), [`../Network-Engineer-Roadmap.md`](../Network-Engineer-Roadmap.md)
+- Local curriculum context: [`../ai/context/03-roadmap-and-curriculum.md`](../ai/context/03-roadmap-and-curriculum.md), [`../90-Reference/Network-Engineer-Roadmap.md`](../90-Reference/Network-Engineer-Roadmap.md)

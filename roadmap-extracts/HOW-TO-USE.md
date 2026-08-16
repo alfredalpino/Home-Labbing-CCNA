@@ -1,6 +1,6 @@
 # How to use these extracted roadmaps
 
-This folder is an **offline study library**, not a second curriculum. Your living plan stays in [`../Network-Engineer-Roadmap.md`](../Network-Engineer-Roadmap.md) and [`../ai-context/03-roadmap-and-curriculum.md`](../ai-context/03-roadmap-and-curriculum.md). Use these extracts to look up topics, open curated links, and stay aligned with the Network Engineer spine.
+This folder is an **offline study library**, not a second curriculum. Your living plan stays in [`../90-Reference/Network-Engineer-Roadmap.md`](../90-Reference/Network-Engineer-Roadmap.md) and [`../ai/context/03-roadmap-and-curriculum.md`](../ai/context/03-roadmap-and-curriculum.md). Use these extracts to look up topics, open curated links, and stay aligned with the Network Engineer spine.
 
 ---
 

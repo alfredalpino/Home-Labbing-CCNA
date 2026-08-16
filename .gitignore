@@ -4,3 +4,12 @@
 *.swo
 .Spotlight-V100
 .Trashes
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+.env
