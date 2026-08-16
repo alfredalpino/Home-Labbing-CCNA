@@ -2280,3 +2280,20 @@ ai/
 Updated live references: Cursor logging rule, append/backfill scripts, Home.md + Obsidian-Setup graph filters, context README/@ paths, roadmap-extracts + 90-Reference links. Historical session dumps still mention old paths (archive text left alone).
 
 Use `@ai/context` in Cursor. Graph filter: `-path:ai`. Log command: `python3 ai/logs/scripts/append-turn.py ...`
+
+================================================================================
+SESSION: fa637566-27df-4446-a01d-31e75a60f76e
+TITLE: Push vault to GitHub
+LOGGED_AT: 2026-08-16T11:44:12.889046+00:00
+SOURCE: live-append
+================================================================================
+
+----- QUESTION (USER) -----
+push all the notes and everything to the repo now
+
+----- ANSWER (AI) -----
+Pushed to `main` on https://github.com/alfredalpino/Home-Labbing-CCNA.git
+
+- Commit: `63e44ab` — Publish Obsidian mastery vault and consolidate AI tooling.
+- 248 files (+16,353 / −135): curriculum notes 00–04, Home/Obsidian setup, Templates, `ai/context` + `ai/logs`, Obsidian config (workspace/graph still gitignored).
+- Branch is up to date with `origin/main`.

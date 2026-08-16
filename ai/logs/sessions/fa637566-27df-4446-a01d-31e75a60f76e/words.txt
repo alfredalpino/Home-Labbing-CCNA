@@ -31,3 +31,11 @@ Use `@ai/context` in Cursor. Graph filter: `-path:ai`. Log command: `python3 ai/
 
 ---
 
+Pushed to `main` on https://github.com/alfredalpino/Home-Labbing-CCNA.git
+
+- Commit: `63e44ab` — Publish Obsidian mastery vault and consolidate AI tooling.
+- 248 files (+16,353 / −135): curriculum notes 00–04, Home/Obsidian setup, Templates, `ai/context` + `ai/logs`, Obsidian config (workspace/graph still gitignored).
+- Branch is up to date with `origin/main`.
+
+---
+
