@@ -1,0 +1,11 @@
+{
+  "session_id": "bb640094-72da-4d7d-bc32-aa0edbf9c83a",
+  "source": "live-append",
+  "title": "Push all pending work to GitHub",
+  "first_timestamp": "2026-08-22T18:29:56.558786+00:00",
+  "user_turns": 1,
+  "assistant_turns": 1,
+  "table_count": 0,
+  "files_touched_count": 0,
+  "imported_at": "2026-08-22T18:29:56.558935+00:00"
+}
