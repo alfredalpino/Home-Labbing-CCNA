@@ -39,3 +39,49 @@ Pushed to `main` on https://github.com/alfredalpino/Home-Labbing-CCNA.git
 
 ---
 
+Built a drop-in web notes package matching alubaid.xyz design.
+
+**Drop-in folder:** `notes/` (152 HTML pages)
+- Paths like `/notes/00-Networks-and-Devices/01-Network-Types/LAN/`
+- Sidebar curriculum + search, prev/next, wiki links resolved
+- Light/Dark toggle using the same `localStorage.theme` as the portfolio
+- IBM Plex + signal teal tokens; `noindex` + `robots.txt` Disallow (unlisted)
+
+**Builder:** `tools/notes-site/` (`build.py`, assets, README)
+```bash
+tools/notes-site/.venv/bin/python tools/notes-site/build.py --base /notes
+```
+
+**Integration prompt:** `notes/INTEGRATION-PROMPT.md` (also under `tools/notes-site/`) — paste into Cursor on UBAID-Site: copy `notes/` → `public/notes/`, no homepage nav link.
+
+**Note polish:** improved thin Application Protocol Index pages; Home mentions web path; fixed a few wiki-link edge cases.
+
+**Preview now:** http://127.0.0.1:8765/notes/
+
+Your site already has `/wire` (React drafts). This `/notes` pack is the full Obsidian curriculum export — keep `/wire` unless you want to replace it.
+
+---
+
+Those two local preview server starts failed/aborted only because of a port clash while setting up — a later server on :8765 succeeded and the notes site itself is fine.
+
+---
+
+Packaged everything as `ubaid-notes/`:
+
+```
+ubaid-notes/
+  PROMPT.md    ← paste this into the UBAID-Site chat
+  README.md
+  site/        ← copy to public/notes/
+```
+
+Old `notes/` folder removed; rebuilds now go to `ubaid-notes/site/`.
+
+**How to use**
+1. Copy `ubaid-notes/` into your UBAID-Site project root
+2. Open that project chat and paste the full contents of `ubaid-notes/PROMPT.md`
+
+The prompt tells the agent to mount at `/notes/...`, match IBM Plex + signal teal + `localStorage.theme`, and keep Notes unlisted (no homepage link).
+
+---
+

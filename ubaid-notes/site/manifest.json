@@ -1,0 +1,1740 @@
+[
+  {
+    "title": "Home Labbing CCNA \u2014 Vault Home",
+    "path": "/notes/",
+    "source": "Home.md",
+    "tags": [
+      "moc",
+      "vault",
+      "ccna",
+      "networking"
+    ]
+  },
+  {
+    "title": "Client-Server Network",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/Client-Server-Network/",
+    "source": "00-Networks-and-Devices/01-Network-Types/Client-Server-Network.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "client-server"
+    ]
+  },
+  {
+    "title": "Cloud",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/Cloud/",
+    "source": "00-Networks-and-Devices/01-Network-Types/Cloud.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "cloud"
+    ]
+  },
+  {
+    "title": "Network Types",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/",
+    "source": "00-Networks-and-Devices/01-Network-Types/Index.md",
+    "tags": [
+      "moc",
+      "network-types",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "LAN",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/LAN/",
+    "source": "00-Networks-and-Devices/01-Network-Types/LAN.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "lan"
+    ]
+  },
+  {
+    "title": "MAN",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/MAN/",
+    "source": "00-Networks-and-Devices/01-Network-Types/MAN.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "man"
+    ]
+  },
+  {
+    "title": "PAN",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/PAN/",
+    "source": "00-Networks-and-Devices/01-Network-Types/PAN.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "pan"
+    ]
+  },
+  {
+    "title": "Peer-to-Peer Network",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/Peer-to-Peer-Network/",
+    "source": "00-Networks-and-Devices/01-Network-Types/Peer-to-Peer-Network.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "p2p",
+      "peer-to-peer"
+    ]
+  },
+  {
+    "title": "SAN",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/SAN/",
+    "source": "00-Networks-and-Devices/01-Network-Types/SAN.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "san"
+    ]
+  },
+  {
+    "title": "VPN",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/VPN/",
+    "source": "00-Networks-and-Devices/01-Network-Types/VPN.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "vpn"
+    ]
+  },
+  {
+    "title": "WAN",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/WAN/",
+    "source": "00-Networks-and-Devices/01-Network-Types/WAN.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "wan"
+    ]
+  },
+  {
+    "title": "WLAN",
+    "path": "/notes/00-Networks-and-Devices/01-Network-Types/WLAN/",
+    "source": "00-Networks-and-Devices/01-Network-Types/WLAN.md",
+    "tags": [
+      "network-types",
+      "networking",
+      "ccna",
+      "wlan",
+      "wifi"
+    ]
+  },
+  {
+    "title": "Access Points",
+    "path": "/notes/00-Networks-and-Devices/02-Network-Devices/Access-Points/",
+    "source": "00-Networks-and-Devices/02-Network-Devices/Access-Points.md",
+    "tags": [
+      "network-devices",
+      "networking",
+      "ccna",
+      "access-point",
+      "wifi"
+    ]
+  },
+  {
+    "title": "Hub",
+    "path": "/notes/00-Networks-and-Devices/02-Network-Devices/Hub/",
+    "source": "00-Networks-and-Devices/02-Network-Devices/Hub.md",
+    "tags": [
+      "network-devices",
+      "networking",
+      "ccna",
+      "hub"
+    ]
+  },
+  {
+    "title": "Network Devices",
+    "path": "/notes/00-Networks-and-Devices/02-Network-Devices/",
+    "source": "00-Networks-and-Devices/02-Network-Devices/Index.md",
+    "tags": [
+      "moc",
+      "network-devices",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Modems",
+    "path": "/notes/00-Networks-and-Devices/02-Network-Devices/Modems/",
+    "source": "00-Networks-and-Devices/02-Network-Devices/Modems.md",
+    "tags": [
+      "network-devices",
+      "networking",
+      "ccna",
+      "modem"
+    ]
+  },
+  {
+    "title": "Routers",
+    "path": "/notes/00-Networks-and-Devices/02-Network-Devices/Routers/",
+    "source": "00-Networks-and-Devices/02-Network-Devices/Routers.md",
+    "tags": [
+      "network-devices",
+      "networking",
+      "ccna",
+      "router"
+    ]
+  },
+  {
+    "title": "Switches",
+    "path": "/notes/00-Networks-and-Devices/02-Network-Devices/Switches/",
+    "source": "00-Networks-and-Devices/02-Network-Devices/Switches.md",
+    "tags": [
+      "network-devices",
+      "networking",
+      "ccna",
+      "switch"
+    ]
+  },
+  {
+    "title": "Networks & Devices \u2014 Map of Content",
+    "path": "/notes/00-Networks-and-Devices/",
+    "source": "00-Networks-and-Devices/Index.md",
+    "tags": [
+      "moc",
+      "networks-and-devices",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Client",
+    "path": "/notes/01-Basic-Terminology/01-Roles/Client/",
+    "source": "01-Basic-Terminology/01-Roles/Client.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "client"
+    ]
+  },
+  {
+    "title": "Host",
+    "path": "/notes/01-Basic-Terminology/01-Roles/Host/",
+    "source": "01-Basic-Terminology/01-Roles/Host.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "host"
+    ]
+  },
+  {
+    "title": "Roles",
+    "path": "/notes/01-Basic-Terminology/01-Roles/",
+    "source": "01-Basic-Terminology/01-Roles/Index.md",
+    "tags": [
+      "moc",
+      "basic-terminology",
+      "roles"
+    ]
+  },
+  {
+    "title": "Server",
+    "path": "/notes/01-Basic-Terminology/01-Roles/Server/",
+    "source": "01-Basic-Terminology/01-Roles/Server.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "server"
+    ]
+  },
+  {
+    "title": "Frame",
+    "path": "/notes/01-Basic-Terminology/02-Data-Units/Frame/",
+    "source": "01-Basic-Terminology/02-Data-Units/Frame.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "frame"
+    ]
+  },
+  {
+    "title": "Data Units",
+    "path": "/notes/01-Basic-Terminology/02-Data-Units/",
+    "source": "01-Basic-Terminology/02-Data-Units/Index.md",
+    "tags": [
+      "moc",
+      "basic-terminology",
+      "pdus"
+    ]
+  },
+  {
+    "title": "Packet",
+    "path": "/notes/01-Basic-Terminology/02-Data-Units/Packet/",
+    "source": "01-Basic-Terminology/02-Data-Units/Packet.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "packet"
+    ]
+  },
+  {
+    "title": "Bandwidth",
+    "path": "/notes/01-Basic-Terminology/03-Performance/Bandwidth/",
+    "source": "01-Basic-Terminology/03-Performance/Bandwidth.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "bandwidth"
+    ]
+  },
+  {
+    "title": "Performance",
+    "path": "/notes/01-Basic-Terminology/03-Performance/",
+    "source": "01-Basic-Terminology/03-Performance/Index.md",
+    "tags": [
+      "moc",
+      "basic-terminology",
+      "performance"
+    ]
+  },
+  {
+    "title": "Latency",
+    "path": "/notes/01-Basic-Terminology/03-Performance/Latency/",
+    "source": "01-Basic-Terminology/03-Performance/Latency.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "latency"
+    ]
+  },
+  {
+    "title": "Throughput",
+    "path": "/notes/01-Basic-Terminology/03-Performance/Throughput/",
+    "source": "01-Basic-Terminology/03-Performance/Throughput.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "throughput"
+    ]
+  },
+  {
+    "title": "ARP",
+    "path": "/notes/01-Basic-Terminology/04-Addressing/ARP/",
+    "source": "01-Basic-Terminology/04-Addressing/ARP.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "arp"
+    ]
+  },
+  {
+    "title": "Addressing & identity",
+    "path": "/notes/01-Basic-Terminology/04-Addressing/",
+    "source": "01-Basic-Terminology/04-Addressing/Index.md",
+    "tags": [
+      "moc",
+      "basic-terminology",
+      "addressing"
+    ]
+  },
+  {
+    "title": "IP Address",
+    "path": "/notes/01-Basic-Terminology/04-Addressing/IP Address/",
+    "source": "01-Basic-Terminology/04-Addressing/IP Address.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "ip"
+    ]
+  },
+  {
+    "title": "MAC Address",
+    "path": "/notes/01-Basic-Terminology/04-Addressing/MAC Address/",
+    "source": "01-Basic-Terminology/04-Addressing/MAC Address.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "mac"
+    ]
+  },
+  {
+    "title": "Port",
+    "path": "/notes/01-Basic-Terminology/04-Addressing/Port/",
+    "source": "01-Basic-Terminology/04-Addressing/Port.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "port"
+    ]
+  },
+  {
+    "title": "Protocol",
+    "path": "/notes/01-Basic-Terminology/04-Addressing/Protocol/",
+    "source": "01-Basic-Terminology/04-Addressing/Protocol.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "protocol"
+    ]
+  },
+  {
+    "title": "Socket",
+    "path": "/notes/01-Basic-Terminology/04-Addressing/Socket/",
+    "source": "01-Basic-Terminology/04-Addressing/Socket.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "socket"
+    ]
+  },
+  {
+    "title": "Physical",
+    "path": "/notes/01-Basic-Terminology/05-Physical/",
+    "source": "01-Basic-Terminology/05-Physical/Index.md",
+    "tags": [
+      "moc",
+      "basic-terminology",
+      "physical"
+    ]
+  },
+  {
+    "title": "Transmission Media Types",
+    "path": "/notes/01-Basic-Terminology/05-Physical/Transmission Media Types/",
+    "source": "01-Basic-Terminology/05-Physical/Transmission Media Types.md",
+    "tags": [
+      "basic-terminology",
+      "networking",
+      "ccna",
+      "media"
+    ]
+  },
+  {
+    "title": "Basic Terminology \u2014 Map of Content",
+    "path": "/notes/01-Basic-Terminology/",
+    "source": "01-Basic-Terminology/Index.md",
+    "tags": [
+      "moc",
+      "basic-terminology",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "ICMP",
+    "path": "/notes/02-Core-Protocols/ICMP/",
+    "source": "02-Core-Protocols/ICMP.md",
+    "tags": [
+      "core-protocols",
+      "networking",
+      "ccna",
+      "icmp"
+    ]
+  },
+  {
+    "title": "Core Protocols \u2014 Map of Content",
+    "path": "/notes/02-Core-Protocols/",
+    "source": "02-Core-Protocols/Index.md",
+    "tags": [
+      "moc",
+      "core-protocols",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "TCP",
+    "path": "/notes/02-Core-Protocols/TCP/",
+    "source": "02-Core-Protocols/TCP.md",
+    "tags": [
+      "core-protocols",
+      "networking",
+      "ccna",
+      "tcp"
+    ]
+  },
+  {
+    "title": "UDP",
+    "path": "/notes/02-Core-Protocols/UDP/",
+    "source": "02-Core-Protocols/UDP.md",
+    "tags": [
+      "core-protocols",
+      "networking",
+      "ccna",
+      "udp"
+    ]
+  },
+  {
+    "title": "HTTP / HTTPS",
+    "path": "/notes/03-Application-Protocols/01-Web-and-Security/HTTP-HTTPS/",
+    "source": "03-Application-Protocols/01-Web-and-Security/HTTP-HTTPS.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "http",
+      "https"
+    ]
+  },
+  {
+    "title": "Web & Security",
+    "path": "/notes/03-Application-Protocols/01-Web-and-Security/",
+    "source": "03-Application-Protocols/01-Web-and-Security/Index.md",
+    "tags": [
+      "moc",
+      "application-protocols",
+      "web-security"
+    ]
+  },
+  {
+    "title": "SSL / TLS",
+    "path": "/notes/03-Application-Protocols/01-Web-and-Security/SSL-TLS/",
+    "source": "03-Application-Protocols/01-Web-and-Security/SSL-TLS.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "tls",
+      "ssl"
+    ]
+  },
+  {
+    "title": "Remote Access",
+    "path": "/notes/03-Application-Protocols/02-Remote-Access/",
+    "source": "03-Application-Protocols/02-Remote-Access/Index.md",
+    "tags": [
+      "moc",
+      "application-protocols",
+      "remote-access"
+    ]
+  },
+  {
+    "title": "SSH",
+    "path": "/notes/03-Application-Protocols/02-Remote-Access/SSH/",
+    "source": "03-Application-Protocols/02-Remote-Access/SSH.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "ssh"
+    ]
+  },
+  {
+    "title": "Time",
+    "path": "/notes/03-Application-Protocols/03-Time/",
+    "source": "03-Application-Protocols/03-Time/Index.md",
+    "tags": [
+      "moc",
+      "application-protocols",
+      "time"
+    ]
+  },
+  {
+    "title": "NTP",
+    "path": "/notes/03-Application-Protocols/03-Time/NTP/",
+    "source": "03-Application-Protocols/03-Time/NTP.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "ntp"
+    ]
+  },
+  {
+    "title": "SNTP",
+    "path": "/notes/03-Application-Protocols/03-Time/SNTP/",
+    "source": "03-Application-Protocols/03-Time/SNTP.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "sntp"
+    ]
+  },
+  {
+    "title": "FTP / SFTP",
+    "path": "/notes/03-Application-Protocols/04-File-Transfer/FTP-SFTP/",
+    "source": "03-Application-Protocols/04-File-Transfer/FTP-SFTP.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "ftp",
+      "sftp"
+    ]
+  },
+  {
+    "title": "File Transfer",
+    "path": "/notes/03-Application-Protocols/04-File-Transfer/",
+    "source": "03-Application-Protocols/04-File-Transfer/Index.md",
+    "tags": [
+      "moc",
+      "application-protocols",
+      "file-transfer"
+    ]
+  },
+  {
+    "title": "Email",
+    "path": "/notes/03-Application-Protocols/05-Email/",
+    "source": "03-Application-Protocols/05-Email/Index.md",
+    "tags": [
+      "moc",
+      "application-protocols",
+      "email"
+    ]
+  },
+  {
+    "title": "SMTP / IMAP",
+    "path": "/notes/03-Application-Protocols/05-Email/SMTP-IMAP/",
+    "source": "03-Application-Protocols/05-Email/SMTP-IMAP.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "email",
+      "smtp",
+      "imap"
+    ]
+  },
+  {
+    "title": "DHCP",
+    "path": "/notes/03-Application-Protocols/06-Host-Config/DHCP/",
+    "source": "03-Application-Protocols/06-Host-Config/DHCP.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "dhcp"
+    ]
+  },
+  {
+    "title": "Host Config",
+    "path": "/notes/03-Application-Protocols/06-Host-Config/",
+    "source": "03-Application-Protocols/06-Host-Config/Index.md",
+    "tags": [
+      "moc",
+      "application-protocols",
+      "host-config"
+    ]
+  },
+  {
+    "title": "Cloudflare DNS",
+    "path": "/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/Cloudflare/",
+    "source": "03-Application-Protocols/07-Name-Resolution/DNS-Servers/Cloudflare.md",
+    "tags": [
+      "dns-servers",
+      "networking",
+      "dns",
+      "resolvers",
+      "cloudflare"
+    ]
+  },
+  {
+    "title": "Google DNS",
+    "path": "/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/Google/",
+    "source": "03-Application-Protocols/07-Name-Resolution/DNS-Servers/Google.md",
+    "tags": [
+      "dns-servers",
+      "networking",
+      "dns",
+      "resolvers",
+      "google"
+    ]
+  },
+  {
+    "title": "DNS Servers \u2014 Map of Content",
+    "path": "/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/",
+    "source": "03-Application-Protocols/07-Name-Resolution/DNS-Servers/Index.md",
+    "tags": [
+      "moc",
+      "dns",
+      "resolvers",
+      "networking"
+    ]
+  },
+  {
+    "title": "OpenDNS",
+    "path": "/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/OpenDNS/",
+    "source": "03-Application-Protocols/07-Name-Resolution/DNS-Servers/OpenDNS.md",
+    "tags": [
+      "dns-servers",
+      "networking",
+      "dns",
+      "resolvers",
+      "opendns"
+    ]
+  },
+  {
+    "title": "Quad9",
+    "path": "/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/Quad9/",
+    "source": "03-Application-Protocols/07-Name-Resolution/DNS-Servers/Quad9.md",
+    "tags": [
+      "dns-servers",
+      "networking",
+      "dns",
+      "resolvers",
+      "quad9"
+    ]
+  },
+  {
+    "title": "DNS",
+    "path": "/notes/03-Application-Protocols/07-Name-Resolution/DNS/",
+    "source": "03-Application-Protocols/07-Name-Resolution/DNS.md",
+    "tags": [
+      "application-protocols",
+      "networking",
+      "ccna",
+      "dns"
+    ]
+  },
+  {
+    "title": "Name Resolution",
+    "path": "/notes/03-Application-Protocols/07-Name-Resolution/",
+    "source": "03-Application-Protocols/07-Name-Resolution/Index.md",
+    "tags": [
+      "moc",
+      "application-protocols",
+      "dns",
+      "name-resolution"
+    ]
+  },
+  {
+    "title": "Application Protocols \u2014 Map of Content",
+    "path": "/notes/03-Application-Protocols/",
+    "source": "03-Application-Protocols/Index.md",
+    "tags": [
+      "moc",
+      "application-protocols",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Linux for Networking",
+    "path": "/notes/04-Building-a-Network/01-Linux-for-Networking/",
+    "source": "04-Building-a-Network/01-Linux-for-Networking/Index.md",
+    "tags": [
+      "moc",
+      "linux",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Linux Roadmap",
+    "path": "/notes/04-Building-a-Network/01-Linux-for-Networking/Linux-Roadmap/",
+    "source": "04-Building-a-Network/01-Linux-for-Networking/Linux-Roadmap.md",
+    "tags": [
+      "linux",
+      "networking",
+      "ccna",
+      "roadmap"
+    ]
+  },
+  {
+    "title": "Shell and Scripting",
+    "path": "/notes/04-Building-a-Network/01-Linux-for-Networking/Shell-and-Scripting/",
+    "source": "04-Building-a-Network/01-Linux-for-Networking/Shell-and-Scripting.md",
+    "tags": [
+      "linux",
+      "networking",
+      "ccna",
+      "shell",
+      "tooling"
+    ]
+  },
+  {
+    "title": "NAT",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/",
+    "source": "04-Building-a-Network/02-IP-Addressing/01-NAT/Index.md",
+    "tags": [
+      "moc",
+      "nat",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "NAT vs PAT",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/NAT-vs-PAT/",
+    "source": "04-Building-a-Network/02-IP-Addressing/01-NAT/NAT-vs-PAT.md",
+    "tags": [
+      "nat",
+      "networking",
+      "ccna",
+      "ip-addressing"
+    ]
+  },
+  {
+    "title": "NAT64",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/NAT64/",
+    "source": "04-Building-a-Network/02-IP-Addressing/01-NAT/NAT64.md",
+    "tags": [
+      "nat",
+      "networking",
+      "ccna",
+      "ipv6",
+      "nat64"
+    ]
+  },
+  {
+    "title": "PAT NAT Overload",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/PAT-NAT-Overload/",
+    "source": "04-Building-a-Network/02-IP-Addressing/01-NAT/PAT-NAT-Overload.md",
+    "tags": [
+      "nat",
+      "networking",
+      "ccna",
+      "pat",
+      "ip-addressing"
+    ]
+  },
+  {
+    "title": "Static vs Dynamic NAT",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/Static-vs-Dynamic-NAT/",
+    "source": "04-Building-a-Network/02-IP-Addressing/01-NAT/Static-vs-Dynamic-NAT.md",
+    "tags": [
+      "nat",
+      "networking",
+      "ccna",
+      "ip-addressing"
+    ]
+  },
+  {
+    "title": "IP Addressing",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/",
+    "source": "04-Building-a-Network/02-IP-Addressing/Index.md",
+    "tags": [
+      "moc",
+      "ip-addressing",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "IP vs MAC vs ARP",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/IP-vs-MAC-vs-ARP/",
+    "source": "04-Building-a-Network/02-IP-Addressing/IP-vs-MAC-vs-ARP.md",
+    "tags": [
+      "ip-addressing",
+      "networking",
+      "ccna",
+      "arp",
+      "mac"
+    ]
+  },
+  {
+    "title": "IPv4 vs IPv6",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/IPv4-vs-IPv6/",
+    "source": "04-Building-a-Network/02-IP-Addressing/IPv4-vs-IPv6.md",
+    "tags": [
+      "ip-addressing",
+      "networking",
+      "ccna",
+      "ipv4",
+      "ipv6"
+    ]
+  },
+  {
+    "title": "Public vs Private Addresses",
+    "path": "/notes/04-Building-a-Network/02-IP-Addressing/Public-vs-Private-Addresses/",
+    "source": "04-Building-a-Network/02-IP-Addressing/Public-vs-Private-Addresses.md",
+    "tags": [
+      "ip-addressing",
+      "networking",
+      "ccna",
+      "rfc1918",
+      "nat"
+    ]
+  },
+  {
+    "title": "CIDR",
+    "path": "/notes/04-Building-a-Network/03-Subnetting/CIDR/",
+    "source": "04-Building-a-Network/03-Subnetting/CIDR.md",
+    "tags": [
+      "subnetting",
+      "networking",
+      "ccna",
+      "cidr"
+    ]
+  },
+  {
+    "title": "Subnetting",
+    "path": "/notes/04-Building-a-Network/03-Subnetting/",
+    "source": "04-Building-a-Network/03-Subnetting/Index.md",
+    "tags": [
+      "moc",
+      "subnetting",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Subnet Masks",
+    "path": "/notes/04-Building-a-Network/03-Subnetting/Subnet-Masks/",
+    "source": "04-Building-a-Network/03-Subnetting/Subnet-Masks.md",
+    "tags": [
+      "subnetting",
+      "networking",
+      "ccna",
+      "ipv4"
+    ]
+  },
+  {
+    "title": "Supernetting",
+    "path": "/notes/04-Building-a-Network/03-Subnetting/Supernetting/",
+    "source": "04-Building-a-Network/03-Subnetting/Supernetting.md",
+    "tags": [
+      "subnetting",
+      "networking",
+      "ccna",
+      "summarization",
+      "routing"
+    ]
+  },
+  {
+    "title": "VLSM",
+    "path": "/notes/04-Building-a-Network/03-Subnetting/VLSM/",
+    "source": "04-Building-a-Network/03-Subnetting/VLSM.md",
+    "tags": [
+      "subnetting",
+      "networking",
+      "ccna",
+      "vlsm"
+    ]
+  },
+  {
+    "title": "BGP",
+    "path": "/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/BGP/",
+    "source": "04-Building-a-Network/04-Routing/01-Routing-Protocols/BGP.md",
+    "tags": [
+      "routing-protocols",
+      "networking",
+      "ccna",
+      "bgp"
+    ]
+  },
+  {
+    "title": "EIGRP",
+    "path": "/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/EIGRP/",
+    "source": "04-Building-a-Network/04-Routing/01-Routing-Protocols/EIGRP.md",
+    "tags": [
+      "routing-protocols",
+      "networking",
+      "ccna",
+      "eigrp"
+    ]
+  },
+  {
+    "title": "Routing Protocols",
+    "path": "/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/",
+    "source": "04-Building-a-Network/04-Routing/01-Routing-Protocols/Index.md",
+    "tags": [
+      "moc",
+      "routing-protocols",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "MPLS",
+    "path": "/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/MPLS/",
+    "source": "04-Building-a-Network/04-Routing/01-Routing-Protocols/MPLS.md",
+    "tags": [
+      "routing-protocols",
+      "networking",
+      "ccna",
+      "mpls",
+      "underlay"
+    ]
+  },
+  {
+    "title": "OSPF",
+    "path": "/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/OSPF/",
+    "source": "04-Building-a-Network/04-Routing/01-Routing-Protocols/OSPF.md",
+    "tags": [
+      "routing-protocols",
+      "networking",
+      "ccna",
+      "ospf"
+    ]
+  },
+  {
+    "title": "RIP",
+    "path": "/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/RIP/",
+    "source": "04-Building-a-Network/04-Routing/01-Routing-Protocols/RIP.md",
+    "tags": [
+      "routing-protocols",
+      "networking",
+      "ccna",
+      "rip"
+    ]
+  },
+  {
+    "title": "Default Gateway",
+    "path": "/notes/04-Building-a-Network/04-Routing/Default-Gateway/",
+    "source": "04-Building-a-Network/04-Routing/Default-Gateway.md",
+    "tags": [
+      "routing",
+      "networking",
+      "ccna",
+      "default-gateway",
+      "gateway"
+    ]
+  },
+  {
+    "title": "Routing",
+    "path": "/notes/04-Building-a-Network/04-Routing/",
+    "source": "04-Building-a-Network/04-Routing/Index.md",
+    "tags": [
+      "moc",
+      "routing",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "SD-WAN",
+    "path": "/notes/04-Building-a-Network/04-Routing/SD-WAN/",
+    "source": "04-Building-a-Network/04-Routing/SD-WAN.md",
+    "tags": [
+      "routing",
+      "networking",
+      "ccna",
+      "sd-wan",
+      "wan"
+    ]
+  },
+  {
+    "title": "Static vs Dynamic Routing",
+    "path": "/notes/04-Building-a-Network/04-Routing/Static-vs-Dynamic-Routing/",
+    "source": "04-Building-a-Network/04-Routing/Static-vs-Dynamic-Routing.md",
+    "tags": [
+      "routing",
+      "networking",
+      "ccna",
+      "static-routing",
+      "dynamic-routing"
+    ]
+  },
+  {
+    "title": "VRFs",
+    "path": "/notes/04-Building-a-Network/04-Routing/VRFs/",
+    "source": "04-Building-a-Network/04-Routing/VRFs.md",
+    "tags": [
+      "routing",
+      "networking",
+      "ccna",
+      "vrf",
+      "segmentation"
+    ]
+  },
+  {
+    "title": "Switching",
+    "path": "/notes/04-Building-a-Network/05-Switching/",
+    "source": "04-Building-a-Network/05-Switching/Index.md",
+    "tags": [
+      "moc",
+      "switching",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Link-Aggregation",
+    "path": "/notes/04-Building-a-Network/05-Switching/Link-Aggregation/",
+    "source": "04-Building-a-Network/05-Switching/Link-Aggregation.md",
+    "tags": [
+      "switching",
+      "networking",
+      "ccna",
+      "etherchannel",
+      "lacp",
+      "link-aggregation"
+    ]
+  },
+  {
+    "title": "MAC-Address-Tables",
+    "path": "/notes/04-Building-a-Network/05-Switching/MAC-Address-Tables/",
+    "source": "04-Building-a-Network/05-Switching/MAC-Address-Tables.md",
+    "tags": [
+      "switching",
+      "networking",
+      "ccna",
+      "mac-table",
+      "cam"
+    ]
+  },
+  {
+    "title": "STP",
+    "path": "/notes/04-Building-a-Network/05-Switching/STP/",
+    "source": "04-Building-a-Network/05-Switching/STP.md",
+    "tags": [
+      "switching",
+      "networking",
+      "ccna",
+      "stp",
+      "spanning-tree"
+    ]
+  },
+  {
+    "title": "VLANs",
+    "path": "/notes/04-Building-a-Network/05-Switching/VLANs/",
+    "source": "04-Building-a-Network/05-Switching/VLANs.md",
+    "tags": [
+      "switching",
+      "networking",
+      "ccna",
+      "vlan"
+    ]
+  },
+  {
+    "title": "VXLAN",
+    "path": "/notes/04-Building-a-Network/05-Switching/VXLAN/",
+    "source": "04-Building-a-Network/05-Switching/VXLAN.md",
+    "tags": [
+      "switching",
+      "networking",
+      "ccna",
+      "vxlan",
+      "overlay"
+    ]
+  },
+  {
+    "title": "GRE-IPSec-Tunnels",
+    "path": "/notes/04-Building-a-Network/06-Tunneling-and-VPNs/GRE-IPSec-Tunnels/",
+    "source": "04-Building-a-Network/06-Tunneling-and-VPNs/GRE-IPSec-Tunnels.md",
+    "tags": [
+      "vpn",
+      "tunneling",
+      "networking",
+      "ccna",
+      "gre",
+      "ipsec",
+      "gre-ipsec"
+    ]
+  },
+  {
+    "title": "Tunneling & VPNs",
+    "path": "/notes/04-Building-a-Network/06-Tunneling-and-VPNs/",
+    "source": "04-Building-a-Network/06-Tunneling-and-VPNs/Index.md",
+    "tags": [
+      "moc",
+      "vpn",
+      "tunneling",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "IPSec-vs-SSL-VPN",
+    "path": "/notes/04-Building-a-Network/06-Tunneling-and-VPNs/IPSec-vs-SSL-VPN/",
+    "source": "04-Building-a-Network/06-Tunneling-and-VPNs/IPSec-vs-SSL-VPN.md",
+    "tags": [
+      "vpn",
+      "tunneling",
+      "networking",
+      "ccna",
+      "ipsec",
+      "ssl-vpn"
+    ]
+  },
+  {
+    "title": "MPLS-VPN",
+    "path": "/notes/04-Building-a-Network/06-Tunneling-and-VPNs/MPLS-VPN/",
+    "source": "04-Building-a-Network/06-Tunneling-and-VPNs/MPLS-VPN.md",
+    "tags": [
+      "vpn",
+      "tunneling",
+      "networking",
+      "ccna",
+      "mpls-vpn",
+      "l3vpn"
+    ]
+  },
+  {
+    "title": "Site-to-Site-vs-Remote-Access",
+    "path": "/notes/04-Building-a-Network/06-Tunneling-and-VPNs/Site-to-Site-vs-Remote-Access/",
+    "source": "04-Building-a-Network/06-Tunneling-and-VPNs/Site-to-Site-vs-Remote-Access.md",
+    "tags": [
+      "vpn",
+      "tunneling",
+      "networking",
+      "ccna",
+      "remote-access",
+      "site-to-site"
+    ]
+  },
+  {
+    "title": "Bluetooth & NFC",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Bluetooth-NFC/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Bluetooth-NFC.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "bluetooth",
+      "nfc",
+      "pan"
+    ]
+  },
+  {
+    "title": "Hotspot & Tethering",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Hotspot-and-Tethering/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Hotspot-and-Tethering.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "hotspot",
+      "tethering"
+    ]
+  },
+  {
+    "title": "Wireless Technologies",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Index.md",
+    "tags": [
+      "moc",
+      "wireless",
+      "networking",
+      "ccna",
+      "iot"
+    ]
+  },
+  {
+    "title": "LoRaWAN & Satellite",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/LoRaWAN-Satellite/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/LoRaWAN-Satellite.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "lorawan",
+      "satellite",
+      "iot",
+      "wan"
+    ]
+  },
+  {
+    "title": "Mobile Networks",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Mobile-Networks/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Mobile-Networks.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "cellular",
+      "4g",
+      "5g",
+      "mobile"
+    ]
+  },
+  {
+    "title": "Zigbee & Z-Wave",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Zigbee-Z-Wave/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Zigbee-Z-Wave.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "iot",
+      "zigbee",
+      "z-wave"
+    ]
+  },
+  {
+    "title": "Access Points & Controllers",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/Access-Points-Controllers/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/Access-Points-Controllers.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "access-point",
+      "wlc",
+      "controller"
+    ]
+  },
+  {
+    "title": "AP Placement & Coverage",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/AP-Placement-and-Coverage/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/AP-Placement-and-Coverage.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "wifi",
+      "rf-design"
+    ]
+  },
+  {
+    "title": "Channel Planning",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/Channel-Planning/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/Channel-Planning.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "wifi",
+      "channels",
+      "rf"
+    ]
+  },
+  {
+    "title": "Wireless Networking",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/Index.md",
+    "tags": [
+      "moc",
+      "wireless",
+      "networking",
+      "ccna",
+      "wifi"
+    ]
+  },
+  {
+    "title": "Roaming & Band Steering",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/Roaming-and-Band-Steering/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/Roaming-and-Band-Steering.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "wifi",
+      "roaming"
+    ]
+  },
+  {
+    "title": "Wi\u2011Fi Standards",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/WiFi-Standards/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/WiFi-Standards.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "wifi",
+      "802.11"
+    ]
+  },
+  {
+    "title": "Wireless Security",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/Wireless-Security/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/Wireless-Security.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "wifi",
+      "security"
+    ]
+  },
+  {
+    "title": "Wireless Site Surveys",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/Wireless-Site-Surveys/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/Wireless-Site-Surveys.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "wifi",
+      "site-survey"
+    ]
+  },
+  {
+    "title": "WPA vs WPS",
+    "path": "/notes/04-Building-a-Network/07-Wireless-Networking/WPA-vs-WPS/",
+    "source": "04-Building-a-Network/07-Wireless-Networking/WPA-vs-WPS.md",
+    "tags": [
+      "wireless",
+      "networking",
+      "ccna",
+      "wifi",
+      "security",
+      "wpa",
+      "wps"
+    ]
+  },
+  {
+    "title": "Packet Analysis",
+    "path": "/notes/04-Building-a-Network/08-Packet-Analysis/",
+    "source": "04-Building-a-Network/08-Packet-Analysis/Index.md",
+    "tags": [
+      "moc",
+      "packet-analysis",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Packet Analysis",
+    "path": "/notes/04-Building-a-Network/08-Packet-Analysis/Packet-Analysis/",
+    "source": "04-Building-a-Network/08-Packet-Analysis/Packet-Analysis.md",
+    "tags": [
+      "packet-analysis",
+      "networking",
+      "ccna",
+      "wireshark",
+      "tcpdump"
+    ]
+  },
+  {
+    "title": "Failover",
+    "path": "/notes/04-Building-a-Network/09-High-Availability/Failover/",
+    "source": "04-Building-a-Network/09-High-Availability/Failover.md",
+    "tags": [
+      "high-availability",
+      "networking",
+      "ccna",
+      "failover",
+      "ha"
+    ]
+  },
+  {
+    "title": "GLBP",
+    "path": "/notes/04-Building-a-Network/09-High-Availability/GLBP/",
+    "source": "04-Building-a-Network/09-High-Availability/GLBP.md",
+    "tags": [
+      "high-availability",
+      "networking",
+      "ccna",
+      "glbp",
+      "fhrp",
+      "cisco"
+    ]
+  },
+  {
+    "title": "HSRP",
+    "path": "/notes/04-Building-a-Network/09-High-Availability/HSRP/",
+    "source": "04-Building-a-Network/09-High-Availability/HSRP.md",
+    "tags": [
+      "high-availability",
+      "networking",
+      "ccna",
+      "hsrp",
+      "fhrp",
+      "cisco"
+    ]
+  },
+  {
+    "title": "High Availability",
+    "path": "/notes/04-Building-a-Network/09-High-Availability/",
+    "source": "04-Building-a-Network/09-High-Availability/Index.md",
+    "tags": [
+      "moc",
+      "high-availability",
+      "networking",
+      "ccna",
+      "fhrp"
+    ]
+  },
+  {
+    "title": "Least Connections",
+    "path": "/notes/04-Building-a-Network/09-High-Availability/Least-Connections/",
+    "source": "04-Building-a-Network/09-High-Availability/Least-Connections.md",
+    "tags": [
+      "high-availability",
+      "networking",
+      "ccna",
+      "load-balancing",
+      "least-connections"
+    ]
+  },
+  {
+    "title": "Load Balancer",
+    "path": "/notes/04-Building-a-Network/09-High-Availability/Load-Balancer/",
+    "source": "04-Building-a-Network/09-High-Availability/Load-Balancer.md",
+    "tags": [
+      "high-availability",
+      "networking",
+      "ccna",
+      "load-balancer",
+      "vip"
+    ]
+  },
+  {
+    "title": "Round Robin",
+    "path": "/notes/04-Building-a-Network/09-High-Availability/Round-Robin/",
+    "source": "04-Building-a-Network/09-High-Availability/Round-Robin.md",
+    "tags": [
+      "high-availability",
+      "networking",
+      "ccna",
+      "load-balancing",
+      "round-robin"
+    ]
+  },
+  {
+    "title": "VRRP",
+    "path": "/notes/04-Building-a-Network/09-High-Availability/VRRP/",
+    "source": "04-Building-a-Network/09-High-Availability/VRRP.md",
+    "tags": [
+      "high-availability",
+      "networking",
+      "ccna",
+      "vrrp",
+      "fhrp"
+    ]
+  },
+  {
+    "title": "Traffic Management",
+    "path": "/notes/04-Building-a-Network/10-Traffic-Management/",
+    "source": "04-Building-a-Network/10-Traffic-Management/Index.md",
+    "tags": [
+      "moc",
+      "traffic-management",
+      "networking",
+      "ccna",
+      "qos"
+    ]
+  },
+  {
+    "title": "Packet Prioritization",
+    "path": "/notes/04-Building-a-Network/10-Traffic-Management/Packet-Prioritization/",
+    "source": "04-Building-a-Network/10-Traffic-Management/Packet-Prioritization.md",
+    "tags": [
+      "traffic-management",
+      "networking",
+      "ccna",
+      "qos",
+      "prioritization"
+    ]
+  },
+  {
+    "title": "QoS",
+    "path": "/notes/04-Building-a-Network/10-Traffic-Management/QoS/",
+    "source": "04-Building-a-Network/10-Traffic-Management/QoS.md",
+    "tags": [
+      "traffic-management",
+      "networking",
+      "ccna",
+      "qos"
+    ]
+  },
+  {
+    "title": "Traffic Shaping",
+    "path": "/notes/04-Building-a-Network/10-Traffic-Management/Traffic-Shaping/",
+    "source": "04-Building-a-Network/10-Traffic-Management/Traffic-Shaping.md",
+    "tags": [
+      "traffic-management",
+      "networking",
+      "ccna",
+      "qos",
+      "shaping"
+    ]
+  },
+  {
+    "title": "Building a Network \u2014 Map of Content",
+    "path": "/notes/04-Building-a-Network/",
+    "source": "04-Building-a-Network/Index.md",
+    "tags": [
+      "moc",
+      "building-a-network",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Circuit-Level Gateway",
+    "path": "/notes/04-Network-Security/01-Firewalls/Circuit-Level-Gateway/",
+    "source": "04-Network-Security/01-Firewalls/Circuit-Level-Gateway.md",
+    "tags": [
+      "network-security",
+      "firewalls",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Firewalls",
+    "path": "/notes/04-Network-Security/01-Firewalls/",
+    "source": "04-Network-Security/01-Firewalls/Index.md",
+    "tags": [
+      "moc",
+      "network-security",
+      "firewalls",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Next-Generation Firewall",
+    "path": "/notes/04-Network-Security/01-Firewalls/Next-Generation-Firewall/",
+    "source": "04-Network-Security/01-Firewalls/Next-Generation-Firewall.md",
+    "tags": [
+      "network-security",
+      "firewalls",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Packet Filtering Firewall",
+    "path": "/notes/04-Network-Security/01-Firewalls/Packet-Filtering-Firewall/",
+    "source": "04-Network-Security/01-Firewalls/Packet-Filtering-Firewall.md",
+    "tags": [
+      "network-security",
+      "firewalls",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Proxy Firewall",
+    "path": "/notes/04-Network-Security/01-Firewalls/Proxy-Firewall/",
+    "source": "04-Network-Security/01-Firewalls/Proxy-Firewall.md",
+    "tags": [
+      "network-security",
+      "firewalls",
+      "networking",
+      "ccna",
+      "proxy"
+    ]
+  },
+  {
+    "title": "Stateful Inspection Firewall",
+    "path": "/notes/04-Network-Security/01-Firewalls/Stateful-Inspection-Firewall/",
+    "source": "04-Network-Security/01-Firewalls/Stateful-Inspection-Firewall.md",
+    "tags": [
+      "network-security",
+      "firewalls",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Web Application Firewall",
+    "path": "/notes/04-Network-Security/01-Firewalls/Web-Application-Firewall/",
+    "source": "04-Network-Security/01-Firewalls/Web-Application-Firewall.md",
+    "tags": [
+      "network-security",
+      "firewalls",
+      "networking",
+      "ccna",
+      "waf"
+    ]
+  },
+  {
+    "title": "DoS & DDoS",
+    "path": "/notes/04-Network-Security/02-Network-Attacks/DoS-DDoS/",
+    "source": "04-Network-Security/02-Network-Attacks/DoS-DDoS.md",
+    "tags": [
+      "network-security",
+      "attacks",
+      "networking",
+      "ccna",
+      "dos",
+      "ddos"
+    ]
+  },
+  {
+    "title": "Network Attacks",
+    "path": "/notes/04-Network-Security/02-Network-Attacks/",
+    "source": "04-Network-Security/02-Network-Attacks/Index.md",
+    "tags": [
+      "moc",
+      "network-security",
+      "attacks",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "ACLs",
+    "path": "/notes/04-Network-Security/ACLs/",
+    "source": "04-Network-Security/ACLs.md",
+    "tags": [
+      "network-security",
+      "acls",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Encryption Basics",
+    "path": "/notes/04-Network-Security/Encryption-Basics/",
+    "source": "04-Network-Security/Encryption-Basics.md",
+    "tags": [
+      "network-security",
+      "encryption",
+      "networking",
+      "ccna",
+      "cryptography"
+    ]
+  },
+  {
+    "title": "IDS / IPS",
+    "path": "/notes/04-Network-Security/IDS-IPS/",
+    "source": "04-Network-Security/IDS-IPS.md",
+    "tags": [
+      "network-security",
+      "ids",
+      "ips",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Network Security \u2014 Cybersecurity Roadmap",
+    "path": "/notes/04-Network-Security/",
+    "source": "04-Network-Security/Index.md",
+    "tags": [
+      "moc",
+      "network-security",
+      "cybersecurity",
+      "networking",
+      "ccna"
+    ]
+  },
+  {
+    "title": "Zero Trust Architecture",
+    "path": "/notes/04-Network-Security/Zero-Trust-Architecture/",
+    "source": "04-Network-Security/Zero-Trust-Architecture.md",
+    "tags": [
+      "network-security",
+      "zero-trust",
+      "networking",
+      "ccna",
+      "architecture"
+    ]
+  },
+  {
+    "title": "Become Genuinely Dangerous at Networking",
+    "path": "/notes/90-Reference/Become-Genuinely-Dangerous-at-Networking/",
+    "source": "90-Reference/Become-Genuinely-Dangerous-at-Networking.md",
+    "tags": []
+  },
+  {
+    "title": "Network Engineer Roadmap",
+    "path": "/notes/90-Reference/Network-Engineer-Roadmap/",
+    "source": "90-Reference/Network-Engineer-Roadmap.md",
+    "tags": []
+  },
+  {
+    "title": "Obsidian setup for this vault",
+    "path": "/notes/Obsidian-Setup/",
+    "source": "Obsidian-Setup.md",
+    "tags": [
+      "meta",
+      "obsidian",
+      "vault"
+    ]
+  }
+]

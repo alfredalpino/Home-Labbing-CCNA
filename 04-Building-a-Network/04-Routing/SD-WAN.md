@@ -96,7 +96,7 @@ Add latency on path A with a traffic-shaping/delay node. Show that “link up”
 - SD-WAN is **not** “no more routing” — underlay and overlay still need IP reachability.
 - Replacing MPLS with Internet DIA changes **SLA and security** assumptions — encryption becomes mandatory.
 - Vendor marketing “AI WAN” still rests on tunnels + policy + measurement.
-- SD-WAN ≠ [[SDN]] campus fabric; related idea (central control), different domain.
+- SD-WAN ≠ SDN campus fabric; related idea (central control), different domain.
 
 ## Mastery checklist
 

@@ -9,7 +9,7 @@ Host‑side skills that make CCNA fabric knowledge **provable** from real endpoi
 
 ## Analogy
 
-> Routers and switches are the **rail network**. Linux CLI is the **station master’s console**: if you can’t read arrivals ([[ss]]), track circuits ([[ip route]]), and CCTV ([[tcpdump]]), timetable theory ([[Shell-and-Scripting]] concepts) never saves a delayed train.
+> Routers and switches are the **rail network**. Linux CLI is the **station master’s console**: if you can’t read arrivals (`ss`), track circuits (`ip route`), and CCTV (`tcpdump`), timetable theory ([[Shell-and-Scripting]] concepts) never saves a delayed train.
 
 ## Study order
 

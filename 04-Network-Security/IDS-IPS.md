@@ -1,6 +1,6 @@
 ---
 tags: [network-security, ids, ips, networking, ccna]
-aliases: [IDS, IPS, Intrusion Detection, Intrusion Prevention, IDS/IPS]
+aliases: [IDS, IPS, Intrusion Detection, Intrusion Prevention, IDS/IPS, IDS IPS, IDS-IPS]
 layer: Detection / prevention
 ---
 

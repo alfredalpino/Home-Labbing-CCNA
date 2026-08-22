@@ -6,9 +6,9 @@ status: active
 
 # Home Labbing CCNA — Vault Home
 
-This vault is your **networking mastery workspace**. Open this folder in Obsidian as the vault root.
+This vault is your **networking mastery workspace**. Read it in Obsidian locally, or on the web at `alubaid.xyz/notes/` (unlisted — no homepage link).
 
-First-time setup: [[Obsidian-Setup]]
+First-time Obsidian setup: [[Obsidian-Setup]]
 
 ## Curriculum (nested)
 

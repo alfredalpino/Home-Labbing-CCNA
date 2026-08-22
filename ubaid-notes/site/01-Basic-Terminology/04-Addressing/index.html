@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Addressing &amp; identity</title>
+  <meta name="description" content="Addressing &amp; identity — network study note by Ubaid Ur Rahman." />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="theme-color" content="#0b0f0e" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#f4f7f6" media="(prefers-color-scheme: light)" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/notes/assets/notes.css" />
+  <script>
+    (function(){
+      try {
+        var t = localStorage.getItem('theme');
+        if (t !== 'light' && t !== 'dark') {
+          t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="top-left">
+      <button type="button" class="menu-btn" id="menu-toggle" aria-label="Open curriculum">Menu</button>
+      <a class="crumb" href="https://www.alubaid.xyz/">← Home</a>
+      <span class="sep" aria-hidden="true">/</span>
+      <a class="brand" href="/notes/">Notes</a>
+    </div>
+    <div class="top-right">
+      <button type="button" class="theme-btn" id="theme-toggle" aria-label="Switch theme">Light</button>
+      <a class="crumb" href="https://www.alubaid.xyz/">alubaid.xyz</a>
+    </div>
+  </header>
+  <div class="backdrop" id="nav-backdrop"></div>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar"><label class="sidebar-label" for="note-search">Search</label>
+<input class="search" id="note-search" type="search" placeholder="Filter notes…" autocomplete="off" />
+<p class="sidebar-label"><a class="nav-module" href="/notes/">Home</a></p>
+<details class="nav-section">
+<summary>0 · Networks &amp; Devices</summary>
+<ul class="nav-list">
+<li data-nav-item="Network Types 00-Networks-and-Devices/01-Network-Types/Index.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/">Index · Network Types</a></li>
+<li data-nav-item="Network Devices 00-Networks-and-Devices/02-Network-Devices/Index.md"><a class="" href="/notes/00-Networks-and-Devices/02-Network-Devices/">Index · Network Devices</a></li>
+<li data-nav-item="Networks &amp; Devices — Map of Content 00-Networks-and-Devices/Index.md"><a class="" href="/notes/00-Networks-and-Devices/">Index · Networks &amp; Devices — Map of Content</a></li>
+<li data-nav-item="Client-Server Network 00-Networks-and-Devices/01-Network-Types/Client-Server-Network.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/Client-Server-Network/">Client-Server Network</a></li>
+<li data-nav-item="Cloud 00-Networks-and-Devices/01-Network-Types/Cloud.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/Cloud/">Cloud</a></li>
+<li data-nav-item="LAN 00-Networks-and-Devices/01-Network-Types/LAN.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/LAN/">LAN</a></li>
+<li data-nav-item="MAN 00-Networks-and-Devices/01-Network-Types/MAN.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/MAN/">MAN</a></li>
+<li data-nav-item="PAN 00-Networks-and-Devices/01-Network-Types/PAN.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/PAN/">PAN</a></li>
+<li data-nav-item="Peer-to-Peer Network 00-Networks-and-Devices/01-Network-Types/Peer-to-Peer-Network.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/Peer-to-Peer-Network/">Peer-to-Peer Network</a></li>
+<li data-nav-item="SAN 00-Networks-and-Devices/01-Network-Types/SAN.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/SAN/">SAN</a></li>
+<li data-nav-item="VPN 00-Networks-and-Devices/01-Network-Types/VPN.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/VPN/">VPN</a></li>
+<li data-nav-item="WAN 00-Networks-and-Devices/01-Network-Types/WAN.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/WAN/">WAN</a></li>
+<li data-nav-item="WLAN 00-Networks-and-Devices/01-Network-Types/WLAN.md"><a class="" href="/notes/00-Networks-and-Devices/01-Network-Types/WLAN/">WLAN</a></li>
+<li data-nav-item="Access Points 00-Networks-and-Devices/02-Network-Devices/Access-Points.md"><a class="" href="/notes/00-Networks-and-Devices/02-Network-Devices/Access-Points/">Access Points</a></li>
+<li data-nav-item="Hub 00-Networks-and-Devices/02-Network-Devices/Hub.md"><a class="" href="/notes/00-Networks-and-Devices/02-Network-Devices/Hub/">Hub</a></li>
+<li data-nav-item="Modems 00-Networks-and-Devices/02-Network-Devices/Modems.md"><a class="" href="/notes/00-Networks-and-Devices/02-Network-Devices/Modems/">Modems</a></li>
+<li data-nav-item="Routers 00-Networks-and-Devices/02-Network-Devices/Routers.md"><a class="" href="/notes/00-Networks-and-Devices/02-Network-Devices/Routers/">Routers</a></li>
+<li data-nav-item="Switches 00-Networks-and-Devices/02-Network-Devices/Switches.md"><a class="" href="/notes/00-Networks-and-Devices/02-Network-Devices/Switches/">Switches</a></li>
+</ul></details>
+<details class="nav-section" open>
+<summary>1 · Basic Terminology</summary>
+<ul class="nav-list">
+<li data-nav-item="Roles 01-Basic-Terminology/01-Roles/Index.md"><a class="" href="/notes/01-Basic-Terminology/01-Roles/">Index · Roles</a></li>
+<li data-nav-item="Data Units 01-Basic-Terminology/02-Data-Units/Index.md"><a class="" href="/notes/01-Basic-Terminology/02-Data-Units/">Index · Data Units</a></li>
+<li data-nav-item="Performance 01-Basic-Terminology/03-Performance/Index.md"><a class="" href="/notes/01-Basic-Terminology/03-Performance/">Index · Performance</a></li>
+<li data-nav-item="Addressing &amp; identity 01-Basic-Terminology/04-Addressing/Index.md"><a class="active" href="/notes/01-Basic-Terminology/04-Addressing/">Index · Addressing &amp; identity</a></li>
+<li data-nav-item="Physical 01-Basic-Terminology/05-Physical/Index.md"><a class="" href="/notes/01-Basic-Terminology/05-Physical/">Index · Physical</a></li>
+<li data-nav-item="Basic Terminology — Map of Content 01-Basic-Terminology/Index.md"><a class="" href="/notes/01-Basic-Terminology/">Index · Basic Terminology — Map of Content</a></li>
+<li data-nav-item="Client 01-Basic-Terminology/01-Roles/Client.md"><a class="" href="/notes/01-Basic-Terminology/01-Roles/Client/">Client</a></li>
+<li data-nav-item="Host 01-Basic-Terminology/01-Roles/Host.md"><a class="" href="/notes/01-Basic-Terminology/01-Roles/Host/">Host</a></li>
+<li data-nav-item="Server 01-Basic-Terminology/01-Roles/Server.md"><a class="" href="/notes/01-Basic-Terminology/01-Roles/Server/">Server</a></li>
+<li data-nav-item="Frame 01-Basic-Terminology/02-Data-Units/Frame.md"><a class="" href="/notes/01-Basic-Terminology/02-Data-Units/Frame/">Frame</a></li>
+<li data-nav-item="Packet 01-Basic-Terminology/02-Data-Units/Packet.md"><a class="" href="/notes/01-Basic-Terminology/02-Data-Units/Packet/">Packet</a></li>
+<li data-nav-item="Bandwidth 01-Basic-Terminology/03-Performance/Bandwidth.md"><a class="" href="/notes/01-Basic-Terminology/03-Performance/Bandwidth/">Bandwidth</a></li>
+<li data-nav-item="Latency 01-Basic-Terminology/03-Performance/Latency.md"><a class="" href="/notes/01-Basic-Terminology/03-Performance/Latency/">Latency</a></li>
+<li data-nav-item="Throughput 01-Basic-Terminology/03-Performance/Throughput.md"><a class="" href="/notes/01-Basic-Terminology/03-Performance/Throughput/">Throughput</a></li>
+<li data-nav-item="ARP 01-Basic-Terminology/04-Addressing/ARP.md"><a class="" href="/notes/01-Basic-Terminology/04-Addressing/ARP/">ARP</a></li>
+<li data-nav-item="IP Address 01-Basic-Terminology/04-Addressing/IP Address.md"><a class="" href="/notes/01-Basic-Terminology/04-Addressing/IP Address/">IP Address</a></li>
+<li data-nav-item="MAC Address 01-Basic-Terminology/04-Addressing/MAC Address.md"><a class="" href="/notes/01-Basic-Terminology/04-Addressing/MAC Address/">MAC Address</a></li>
+<li data-nav-item="Port 01-Basic-Terminology/04-Addressing/Port.md"><a class="" href="/notes/01-Basic-Terminology/04-Addressing/Port/">Port</a></li>
+<li data-nav-item="Protocol 01-Basic-Terminology/04-Addressing/Protocol.md"><a class="" href="/notes/01-Basic-Terminology/04-Addressing/Protocol/">Protocol</a></li>
+<li data-nav-item="Socket 01-Basic-Terminology/04-Addressing/Socket.md"><a class="" href="/notes/01-Basic-Terminology/04-Addressing/Socket/">Socket</a></li>
+<li data-nav-item="Transmission Media Types 01-Basic-Terminology/05-Physical/Transmission Media Types.md"><a class="" href="/notes/01-Basic-Terminology/05-Physical/Transmission Media Types/">Transmission Media Types</a></li>
+</ul></details>
+<details class="nav-section">
+<summary>2 · Core Protocols</summary>
+<ul class="nav-list">
+<li data-nav-item="Core Protocols — Map of Content 02-Core-Protocols/Index.md"><a class="" href="/notes/02-Core-Protocols/">Index · Core Protocols — Map of Content</a></li>
+<li data-nav-item="ICMP 02-Core-Protocols/ICMP.md"><a class="" href="/notes/02-Core-Protocols/ICMP/">ICMP</a></li>
+<li data-nav-item="TCP 02-Core-Protocols/TCP.md"><a class="" href="/notes/02-Core-Protocols/TCP/">TCP</a></li>
+<li data-nav-item="UDP 02-Core-Protocols/UDP.md"><a class="" href="/notes/02-Core-Protocols/UDP/">UDP</a></li>
+</ul></details>
+<details class="nav-section">
+<summary>3 · Application Protocols</summary>
+<ul class="nav-list">
+<li data-nav-item="Web &amp; Security 03-Application-Protocols/01-Web-and-Security/Index.md"><a class="" href="/notes/03-Application-Protocols/01-Web-and-Security/">Index · Web &amp; Security</a></li>
+<li data-nav-item="Remote Access 03-Application-Protocols/02-Remote-Access/Index.md"><a class="" href="/notes/03-Application-Protocols/02-Remote-Access/">Index · Remote Access</a></li>
+<li data-nav-item="Time 03-Application-Protocols/03-Time/Index.md"><a class="" href="/notes/03-Application-Protocols/03-Time/">Index · Time</a></li>
+<li data-nav-item="File Transfer 03-Application-Protocols/04-File-Transfer/Index.md"><a class="" href="/notes/03-Application-Protocols/04-File-Transfer/">Index · File Transfer</a></li>
+<li data-nav-item="Email 03-Application-Protocols/05-Email/Index.md"><a class="" href="/notes/03-Application-Protocols/05-Email/">Index · Email</a></li>
+<li data-nav-item="Host Config 03-Application-Protocols/06-Host-Config/Index.md"><a class="" href="/notes/03-Application-Protocols/06-Host-Config/">Index · Host Config</a></li>
+<li data-nav-item="DNS Servers — Map of Content 03-Application-Protocols/07-Name-Resolution/DNS-Servers/Index.md"><a class="" href="/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/">Index · DNS Servers — Map of Content</a></li>
+<li data-nav-item="Name Resolution 03-Application-Protocols/07-Name-Resolution/Index.md"><a class="" href="/notes/03-Application-Protocols/07-Name-Resolution/">Index · Name Resolution</a></li>
+<li data-nav-item="Application Protocols — Map of Content 03-Application-Protocols/Index.md"><a class="" href="/notes/03-Application-Protocols/">Index · Application Protocols — Map of Content</a></li>
+<li data-nav-item="HTTP / HTTPS 03-Application-Protocols/01-Web-and-Security/HTTP-HTTPS.md"><a class="" href="/notes/03-Application-Protocols/01-Web-and-Security/HTTP-HTTPS/">HTTP / HTTPS</a></li>
+<li data-nav-item="SSL / TLS 03-Application-Protocols/01-Web-and-Security/SSL-TLS.md"><a class="" href="/notes/03-Application-Protocols/01-Web-and-Security/SSL-TLS/">SSL / TLS</a></li>
+<li data-nav-item="SSH 03-Application-Protocols/02-Remote-Access/SSH.md"><a class="" href="/notes/03-Application-Protocols/02-Remote-Access/SSH/">SSH</a></li>
+<li data-nav-item="NTP 03-Application-Protocols/03-Time/NTP.md"><a class="" href="/notes/03-Application-Protocols/03-Time/NTP/">NTP</a></li>
+<li data-nav-item="SNTP 03-Application-Protocols/03-Time/SNTP.md"><a class="" href="/notes/03-Application-Protocols/03-Time/SNTP/">SNTP</a></li>
+<li data-nav-item="FTP / SFTP 03-Application-Protocols/04-File-Transfer/FTP-SFTP.md"><a class="" href="/notes/03-Application-Protocols/04-File-Transfer/FTP-SFTP/">FTP / SFTP</a></li>
+<li data-nav-item="SMTP / IMAP 03-Application-Protocols/05-Email/SMTP-IMAP.md"><a class="" href="/notes/03-Application-Protocols/05-Email/SMTP-IMAP/">SMTP / IMAP</a></li>
+<li data-nav-item="DHCP 03-Application-Protocols/06-Host-Config/DHCP.md"><a class="" href="/notes/03-Application-Protocols/06-Host-Config/DHCP/">DHCP</a></li>
+<li data-nav-item="Cloudflare DNS 03-Application-Protocols/07-Name-Resolution/DNS-Servers/Cloudflare.md"><a class="" href="/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/Cloudflare/">Cloudflare DNS</a></li>
+<li data-nav-item="Google DNS 03-Application-Protocols/07-Name-Resolution/DNS-Servers/Google.md"><a class="" href="/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/Google/">Google DNS</a></li>
+<li data-nav-item="OpenDNS 03-Application-Protocols/07-Name-Resolution/DNS-Servers/OpenDNS.md"><a class="" href="/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/OpenDNS/">OpenDNS</a></li>
+<li data-nav-item="Quad9 03-Application-Protocols/07-Name-Resolution/DNS-Servers/Quad9.md"><a class="" href="/notes/03-Application-Protocols/07-Name-Resolution/DNS-Servers/Quad9/">Quad9</a></li>
+<li data-nav-item="DNS 03-Application-Protocols/07-Name-Resolution/DNS.md"><a class="" href="/notes/03-Application-Protocols/07-Name-Resolution/DNS/">DNS</a></li>
+</ul></details>
+<details class="nav-section">
+<summary>4 · Building a Network</summary>
+<ul class="nav-list">
+<li data-nav-item="Linux for Networking 04-Building-a-Network/01-Linux-for-Networking/Index.md"><a class="" href="/notes/04-Building-a-Network/01-Linux-for-Networking/">Index · Linux for Networking</a></li>
+<li data-nav-item="NAT 04-Building-a-Network/02-IP-Addressing/01-NAT/Index.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/">Index · NAT</a></li>
+<li data-nav-item="IP Addressing 04-Building-a-Network/02-IP-Addressing/Index.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/">Index · IP Addressing</a></li>
+<li data-nav-item="Subnetting 04-Building-a-Network/03-Subnetting/Index.md"><a class="" href="/notes/04-Building-a-Network/03-Subnetting/">Index · Subnetting</a></li>
+<li data-nav-item="Routing Protocols 04-Building-a-Network/04-Routing/01-Routing-Protocols/Index.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/">Index · Routing Protocols</a></li>
+<li data-nav-item="Routing 04-Building-a-Network/04-Routing/Index.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/">Index · Routing</a></li>
+<li data-nav-item="Switching 04-Building-a-Network/05-Switching/Index.md"><a class="" href="/notes/04-Building-a-Network/05-Switching/">Index · Switching</a></li>
+<li data-nav-item="Tunneling &amp; VPNs 04-Building-a-Network/06-Tunneling-and-VPNs/Index.md"><a class="" href="/notes/04-Building-a-Network/06-Tunneling-and-VPNs/">Index · Tunneling &amp; VPNs</a></li>
+<li data-nav-item="Wireless Technologies 04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Index.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/">Index · Wireless Technologies</a></li>
+<li data-nav-item="Wireless Networking 04-Building-a-Network/07-Wireless-Networking/Index.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/">Index · Wireless Networking</a></li>
+<li data-nav-item="Packet Analysis 04-Building-a-Network/08-Packet-Analysis/Index.md"><a class="" href="/notes/04-Building-a-Network/08-Packet-Analysis/">Index · Packet Analysis</a></li>
+<li data-nav-item="High Availability 04-Building-a-Network/09-High-Availability/Index.md"><a class="" href="/notes/04-Building-a-Network/09-High-Availability/">Index · High Availability</a></li>
+<li data-nav-item="Traffic Management 04-Building-a-Network/10-Traffic-Management/Index.md"><a class="" href="/notes/04-Building-a-Network/10-Traffic-Management/">Index · Traffic Management</a></li>
+<li data-nav-item="Building a Network — Map of Content 04-Building-a-Network/Index.md"><a class="" href="/notes/04-Building-a-Network/">Index · Building a Network — Map of Content</a></li>
+<li data-nav-item="Linux Roadmap 04-Building-a-Network/01-Linux-for-Networking/Linux-Roadmap.md"><a class="" href="/notes/04-Building-a-Network/01-Linux-for-Networking/Linux-Roadmap/">Linux Roadmap</a></li>
+<li data-nav-item="Shell and Scripting 04-Building-a-Network/01-Linux-for-Networking/Shell-and-Scripting.md"><a class="" href="/notes/04-Building-a-Network/01-Linux-for-Networking/Shell-and-Scripting/">Shell and Scripting</a></li>
+<li data-nav-item="NAT vs PAT 04-Building-a-Network/02-IP-Addressing/01-NAT/NAT-vs-PAT.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/NAT-vs-PAT/">NAT vs PAT</a></li>
+<li data-nav-item="NAT64 04-Building-a-Network/02-IP-Addressing/01-NAT/NAT64.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/NAT64/">NAT64</a></li>
+<li data-nav-item="PAT NAT Overload 04-Building-a-Network/02-IP-Addressing/01-NAT/PAT-NAT-Overload.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/PAT-NAT-Overload/">PAT NAT Overload</a></li>
+<li data-nav-item="Static vs Dynamic NAT 04-Building-a-Network/02-IP-Addressing/01-NAT/Static-vs-Dynamic-NAT.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/01-NAT/Static-vs-Dynamic-NAT/">Static vs Dynamic NAT</a></li>
+<li data-nav-item="IP vs MAC vs ARP 04-Building-a-Network/02-IP-Addressing/IP-vs-MAC-vs-ARP.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/IP-vs-MAC-vs-ARP/">IP vs MAC vs ARP</a></li>
+<li data-nav-item="IPv4 vs IPv6 04-Building-a-Network/02-IP-Addressing/IPv4-vs-IPv6.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/IPv4-vs-IPv6/">IPv4 vs IPv6</a></li>
+<li data-nav-item="Public vs Private Addresses 04-Building-a-Network/02-IP-Addressing/Public-vs-Private-Addresses.md"><a class="" href="/notes/04-Building-a-Network/02-IP-Addressing/Public-vs-Private-Addresses/">Public vs Private Addresses</a></li>
+<li data-nav-item="CIDR 04-Building-a-Network/03-Subnetting/CIDR.md"><a class="" href="/notes/04-Building-a-Network/03-Subnetting/CIDR/">CIDR</a></li>
+<li data-nav-item="Subnet Masks 04-Building-a-Network/03-Subnetting/Subnet-Masks.md"><a class="" href="/notes/04-Building-a-Network/03-Subnetting/Subnet-Masks/">Subnet Masks</a></li>
+<li data-nav-item="Supernetting 04-Building-a-Network/03-Subnetting/Supernetting.md"><a class="" href="/notes/04-Building-a-Network/03-Subnetting/Supernetting/">Supernetting</a></li>
+<li data-nav-item="VLSM 04-Building-a-Network/03-Subnetting/VLSM.md"><a class="" href="/notes/04-Building-a-Network/03-Subnetting/VLSM/">VLSM</a></li>
+<li data-nav-item="BGP 04-Building-a-Network/04-Routing/01-Routing-Protocols/BGP.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/BGP/">BGP</a></li>
+<li data-nav-item="EIGRP 04-Building-a-Network/04-Routing/01-Routing-Protocols/EIGRP.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/EIGRP/">EIGRP</a></li>
+<li data-nav-item="MPLS 04-Building-a-Network/04-Routing/01-Routing-Protocols/MPLS.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/MPLS/">MPLS</a></li>
+<li data-nav-item="OSPF 04-Building-a-Network/04-Routing/01-Routing-Protocols/OSPF.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/OSPF/">OSPF</a></li>
+<li data-nav-item="RIP 04-Building-a-Network/04-Routing/01-Routing-Protocols/RIP.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/01-Routing-Protocols/RIP/">RIP</a></li>
+<li data-nav-item="Default Gateway 04-Building-a-Network/04-Routing/Default-Gateway.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/Default-Gateway/">Default Gateway</a></li>
+<li data-nav-item="SD-WAN 04-Building-a-Network/04-Routing/SD-WAN.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/SD-WAN/">SD-WAN</a></li>
+<li data-nav-item="Static vs Dynamic Routing 04-Building-a-Network/04-Routing/Static-vs-Dynamic-Routing.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/Static-vs-Dynamic-Routing/">Static vs Dynamic Routing</a></li>
+<li data-nav-item="VRFs 04-Building-a-Network/04-Routing/VRFs.md"><a class="" href="/notes/04-Building-a-Network/04-Routing/VRFs/">VRFs</a></li>
+<li data-nav-item="Link-Aggregation 04-Building-a-Network/05-Switching/Link-Aggregation.md"><a class="" href="/notes/04-Building-a-Network/05-Switching/Link-Aggregation/">Link-Aggregation</a></li>
+<li data-nav-item="MAC-Address-Tables 04-Building-a-Network/05-Switching/MAC-Address-Tables.md"><a class="" href="/notes/04-Building-a-Network/05-Switching/MAC-Address-Tables/">MAC-Address-Tables</a></li>
+<li data-nav-item="STP 04-Building-a-Network/05-Switching/STP.md"><a class="" href="/notes/04-Building-a-Network/05-Switching/STP/">STP</a></li>
+<li data-nav-item="VLANs 04-Building-a-Network/05-Switching/VLANs.md"><a class="" href="/notes/04-Building-a-Network/05-Switching/VLANs/">VLANs</a></li>
+<li data-nav-item="VXLAN 04-Building-a-Network/05-Switching/VXLAN.md"><a class="" href="/notes/04-Building-a-Network/05-Switching/VXLAN/">VXLAN</a></li>
+<li data-nav-item="GRE-IPSec-Tunnels 04-Building-a-Network/06-Tunneling-and-VPNs/GRE-IPSec-Tunnels.md"><a class="" href="/notes/04-Building-a-Network/06-Tunneling-and-VPNs/GRE-IPSec-Tunnels/">GRE-IPSec-Tunnels</a></li>
+<li data-nav-item="IPSec-vs-SSL-VPN 04-Building-a-Network/06-Tunneling-and-VPNs/IPSec-vs-SSL-VPN.md"><a class="" href="/notes/04-Building-a-Network/06-Tunneling-and-VPNs/IPSec-vs-SSL-VPN/">IPSec-vs-SSL-VPN</a></li>
+<li data-nav-item="MPLS-VPN 04-Building-a-Network/06-Tunneling-and-VPNs/MPLS-VPN.md"><a class="" href="/notes/04-Building-a-Network/06-Tunneling-and-VPNs/MPLS-VPN/">MPLS-VPN</a></li>
+<li data-nav-item="Site-to-Site-vs-Remote-Access 04-Building-a-Network/06-Tunneling-and-VPNs/Site-to-Site-vs-Remote-Access.md"><a class="" href="/notes/04-Building-a-Network/06-Tunneling-and-VPNs/Site-to-Site-vs-Remote-Access/">Site-to-Site-vs-Remote-Access</a></li>
+<li data-nav-item="Bluetooth &amp; NFC 04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Bluetooth-NFC.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Bluetooth-NFC/">Bluetooth &amp; NFC</a></li>
+<li data-nav-item="Hotspot &amp; Tethering 04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Hotspot-and-Tethering.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Hotspot-and-Tethering/">Hotspot &amp; Tethering</a></li>
+<li data-nav-item="LoRaWAN &amp; Satellite 04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/LoRaWAN-Satellite.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/LoRaWAN-Satellite/">LoRaWAN &amp; Satellite</a></li>
+<li data-nav-item="Mobile Networks 04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Mobile-Networks.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Mobile-Networks/">Mobile Networks</a></li>
+<li data-nav-item="Zigbee &amp; Z-Wave 04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Zigbee-Z-Wave.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/01-Wireless-Technologies/Zigbee-Z-Wave/">Zigbee &amp; Z-Wave</a></li>
+<li data-nav-item="Access Points &amp; Controllers 04-Building-a-Network/07-Wireless-Networking/Access-Points-Controllers.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/Access-Points-Controllers/">Access Points &amp; Controllers</a></li>
+<li data-nav-item="AP Placement &amp; Coverage 04-Building-a-Network/07-Wireless-Networking/AP-Placement-and-Coverage.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/AP-Placement-and-Coverage/">AP Placement &amp; Coverage</a></li>
+<li data-nav-item="Channel Planning 04-Building-a-Network/07-Wireless-Networking/Channel-Planning.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/Channel-Planning/">Channel Planning</a></li>
+<li data-nav-item="Roaming &amp; Band Steering 04-Building-a-Network/07-Wireless-Networking/Roaming-and-Band-Steering.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/Roaming-and-Band-Steering/">Roaming &amp; Band Steering</a></li>
+<li data-nav-item="Wi‑Fi Standards 04-Building-a-Network/07-Wireless-Networking/WiFi-Standards.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/WiFi-Standards/">Wi‑Fi Standards</a></li>
+<li data-nav-item="Wireless Security 04-Building-a-Network/07-Wireless-Networking/Wireless-Security.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/Wireless-Security/">Wireless Security</a></li>
+<li data-nav-item="Wireless Site Surveys 04-Building-a-Network/07-Wireless-Networking/Wireless-Site-Surveys.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/Wireless-Site-Surveys/">Wireless Site Surveys</a></li>
+<li data-nav-item="WPA vs WPS 04-Building-a-Network/07-Wireless-Networking/WPA-vs-WPS.md"><a class="" href="/notes/04-Building-a-Network/07-Wireless-Networking/WPA-vs-WPS/">WPA vs WPS</a></li>
+<li data-nav-item="Packet Analysis 04-Building-a-Network/08-Packet-Analysis/Packet-Analysis.md"><a class="" href="/notes/04-Building-a-Network/08-Packet-Analysis/Packet-Analysis/">Packet Analysis</a></li>
+<li data-nav-item="Failover 04-Building-a-Network/09-High-Availability/Failover.md"><a class="" href="/notes/04-Building-a-Network/09-High-Availability/Failover/">Failover</a></li>
+<li data-nav-item="GLBP 04-Building-a-Network/09-High-Availability/GLBP.md"><a class="" href="/notes/04-Building-a-Network/09-High-Availability/GLBP/">GLBP</a></li>
+<li data-nav-item="HSRP 04-Building-a-Network/09-High-Availability/HSRP.md"><a class="" href="/notes/04-Building-a-Network/09-High-Availability/HSRP/">HSRP</a></li>
+<li data-nav-item="Least Connections 04-Building-a-Network/09-High-Availability/Least-Connections.md"><a class="" href="/notes/04-Building-a-Network/09-High-Availability/Least-Connections/">Least Connections</a></li>
+<li data-nav-item="Load Balancer 04-Building-a-Network/09-High-Availability/Load-Balancer.md"><a class="" href="/notes/04-Building-a-Network/09-High-Availability/Load-Balancer/">Load Balancer</a></li>
+<li data-nav-item="Round Robin 04-Building-a-Network/09-High-Availability/Round-Robin.md"><a class="" href="/notes/04-Building-a-Network/09-High-Availability/Round-Robin/">Round Robin</a></li>
+<li data-nav-item="VRRP 04-Building-a-Network/09-High-Availability/VRRP.md"><a class="" href="/notes/04-Building-a-Network/09-High-Availability/VRRP/">VRRP</a></li>
+<li data-nav-item="Packet Prioritization 04-Building-a-Network/10-Traffic-Management/Packet-Prioritization.md"><a class="" href="/notes/04-Building-a-Network/10-Traffic-Management/Packet-Prioritization/">Packet Prioritization</a></li>
+<li data-nav-item="QoS 04-Building-a-Network/10-Traffic-Management/QoS.md"><a class="" href="/notes/04-Building-a-Network/10-Traffic-Management/QoS/">QoS</a></li>
+<li data-nav-item="Traffic Shaping 04-Building-a-Network/10-Traffic-Management/Traffic-Shaping.md"><a class="" href="/notes/04-Building-a-Network/10-Traffic-Management/Traffic-Shaping/">Traffic Shaping</a></li>
+</ul></details>
+<details class="nav-section">
+<summary>4b · Network Security</summary>
+<ul class="nav-list">
+<li data-nav-item="Firewalls 04-Network-Security/01-Firewalls/Index.md"><a class="" href="/notes/04-Network-Security/01-Firewalls/">Index · Firewalls</a></li>
+<li data-nav-item="Network Attacks 04-Network-Security/02-Network-Attacks/Index.md"><a class="" href="/notes/04-Network-Security/02-Network-Attacks/">Index · Network Attacks</a></li>
+<li data-nav-item="Network Security — Cybersecurity Roadmap 04-Network-Security/Index.md"><a class="" href="/notes/04-Network-Security/">Index · Network Security — Cybersecurity Roadmap</a></li>
+<li data-nav-item="Circuit-Level Gateway 04-Network-Security/01-Firewalls/Circuit-Level-Gateway.md"><a class="" href="/notes/04-Network-Security/01-Firewalls/Circuit-Level-Gateway/">Circuit-Level Gateway</a></li>
+<li data-nav-item="Next-Generation Firewall 04-Network-Security/01-Firewalls/Next-Generation-Firewall.md"><a class="" href="/notes/04-Network-Security/01-Firewalls/Next-Generation-Firewall/">Next-Generation Firewall</a></li>
+<li data-nav-item="Packet Filtering Firewall 04-Network-Security/01-Firewalls/Packet-Filtering-Firewall.md"><a class="" href="/notes/04-Network-Security/01-Firewalls/Packet-Filtering-Firewall/">Packet Filtering Firewall</a></li>
+<li data-nav-item="Proxy Firewall 04-Network-Security/01-Firewalls/Proxy-Firewall.md"><a class="" href="/notes/04-Network-Security/01-Firewalls/Proxy-Firewall/">Proxy Firewall</a></li>
+<li data-nav-item="Stateful Inspection Firewall 04-Network-Security/01-Firewalls/Stateful-Inspection-Firewall.md"><a class="" href="/notes/04-Network-Security/01-Firewalls/Stateful-Inspection-Firewall/">Stateful Inspection Firewall</a></li>
+<li data-nav-item="Web Application Firewall 04-Network-Security/01-Firewalls/Web-Application-Firewall.md"><a class="" href="/notes/04-Network-Security/01-Firewalls/Web-Application-Firewall/">Web Application Firewall</a></li>
+<li data-nav-item="DoS &amp; DDoS 04-Network-Security/02-Network-Attacks/DoS-DDoS.md"><a class="" href="/notes/04-Network-Security/02-Network-Attacks/DoS-DDoS/">DoS &amp; DDoS</a></li>
+<li data-nav-item="ACLs 04-Network-Security/ACLs.md"><a class="" href="/notes/04-Network-Security/ACLs/">ACLs</a></li>
+<li data-nav-item="Encryption Basics 04-Network-Security/Encryption-Basics.md"><a class="" href="/notes/04-Network-Security/Encryption-Basics/">Encryption Basics</a></li>
+<li data-nav-item="IDS / IPS 04-Network-Security/IDS-IPS.md"><a class="" href="/notes/04-Network-Security/IDS-IPS/">IDS / IPS</a></li>
+<li data-nav-item="Zero Trust Architecture 04-Network-Security/Zero-Trust-Architecture.md"><a class="" href="/notes/04-Network-Security/Zero-Trust-Architecture/">Zero Trust Architecture</a></li>
+</ul></details>
+<details class="nav-section">
+<summary>Reference</summary>
+<ul class="nav-list">
+<li data-nav-item="Become Genuinely Dangerous at Networking 90-Reference/Become-Genuinely-Dangerous-at-Networking.md"><a class="" href="/notes/90-Reference/Become-Genuinely-Dangerous-at-Networking/">Become Genuinely Dangerous at Networking</a></li>
+<li data-nav-item="Network Engineer Roadmap 90-Reference/Network-Engineer-Roadmap.md"><a class="" href="/notes/90-Reference/Network-Engineer-Roadmap/">Network Engineer Roadmap</a></li>
+</ul></details></aside>
+    <main class="main">
+      <article class="article">
+        <div class="article-meta">01-Basic-Terminology/04-Addressing/Index.md · #moc · #basic-terminology · #addressing</div>
+        <h1 id="addressing-identity">Addressing &amp; identity</h1>
+<p>How hosts, apps, and next hops are identified.</p>
+<table>
+<thead>
+<tr>
+<th>Note</th>
+<th>Identifies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/notes/01-Basic-Terminology/04-Addressing/Protocol/">Protocol</a></td>
+<td>Rules of exchange</td>
+</tr>
+<tr>
+<td><a href="/notes/01-Basic-Terminology/04-Addressing/Port/">Port</a></td>
+<td>App on a host (L4)</td>
+</tr>
+<tr>
+<td><a href="/notes/01-Basic-Terminology/04-Addressing/Socket/">Socket</a></td>
+<td>Full endpoint / 5-tuple</td>
+</tr>
+<tr>
+<td><a href="/notes/01-Basic-Terminology/04-Addressing/IP Address/">IP Address</a></td>
+<td>Host/network (L3)</td>
+</tr>
+<tr>
+<td><a href="/notes/01-Basic-Terminology/04-Addressing/MAC Address/">MAC Address</a></td>
+<td>Interface on LAN (L2)</td>
+</tr>
+<tr>
+<td><a href="/notes/01-Basic-Terminology/04-Addressing/ARP/">ARP</a></td>
+<td>IPv4 → MAC mapping</td>
+</tr>
+</tbody>
+</table>
+<p>← <a href="/notes/01-Basic-Terminology/">Basic Terminology</a></p>
+      </article>
+      <nav class="pager"><a href="/notes/01-Basic-Terminology/04-Addressing/ARP/">← ARP</a><a href="/notes/01-Basic-Terminology/04-Addressing/IP Address/">IP Address →</a></nav>
+      <footer class="footer">Unlisted path · theme syncs with alubaid.xyz</footer>
+    </main>
+  </div>
+  <script src="/notes/assets/notes.js"></script>
+</body>
+</html>

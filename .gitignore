@@ -13,3 +13,6 @@
 .obsidian/plugins/*/data.json
 .trash/
 .env
+
+# Notes site builder
+tools/notes-site/.venv/
